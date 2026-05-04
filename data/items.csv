@@ -1,2995 +1,2940 @@
-factura,descripcion,cantidad,total
-F25-0001,Mouse Ergonómico,3,76.5
-F25-0001,Mouse Ergonómico,6,153.0
-F25-0001,Cable HDMI 2m,9,116.91
-F25-0001,Laptop Pro,8,9600.0
-F25-0002,Soporte Laptop,5,225.0
-F25-0002,Teclado Mecánico,9,675.0
-F25-0002,Laptop Pro,9,10800.0
-F25-0002,Soporte Laptop,10,450.0
-F25-0002,Teclado Mecánico,8,600.0
-F25-0003,Cable HDMI 2m,2,25.98
-F25-0004,Cable HDMI 2m,6,77.94
-F25-0004,Mouse Ergonómico,8,204.0
-F25-0005,Mouse Ergonómico,9,229.5
-F25-0005,Monitor 24p,1,180.0
-F25-0005,Mouse Ergonómico,7,178.5
-F25-0005,Laptop Pro,7,8400.0
-F25-0006,Soporte Laptop,6,270.0
-F25-0006,Mouse Ergonómico,2,51.0
-F25-0007,Monitor 24p,6,1080.0
-F25-0007,Mouse Ergonómico,1,25.5
-F25-0008,Monitor 24p,2,360.0
-F25-0009,Cable HDMI 2m,10,129.9
-F25-0009,Monitor 24p,7,1260.0
-F25-0009,Teclado Mecánico,10,750.0
-F25-0009,Soporte Laptop,4,180.0
-F25-0009,Soporte Laptop,7,315.0
-F25-0010,Teclado Mecánico,6,450.0
-F25-0011,Monitor 24p,6,1080.0
-F25-0011,Cable HDMI 2m,7,90.93
-F25-0012,Monitor 24p,9,1620.0
-F25-0012,Mouse Ergonómico,2,51.0
-F25-0012,Soporte Laptop,4,180.0
-F25-0013,Laptop Pro,3,3600.0
-F25-0013,Mouse Ergonómico,2,51.0
-F25-0013,Cable HDMI 2m,3,38.97
-F25-0013,Teclado Mecánico,9,675.0
-F25-0014,Cable HDMI 2m,5,64.95
-F25-0014,Soporte Laptop,10,450.0
-F25-0015,Soporte Laptop,7,315.0
-F25-0015,Mouse Ergonómico,10,255.0
-F25-0015,Laptop Pro,2,2400.0
-F25-0015,Mouse Ergonómico,6,153.0
-F25-0015,Soporte Laptop,7,315.0
-F25-0016,Monitor 24p,2,360.0
-F25-0016,Mouse Ergonómico,2,51.0
-F25-0016,Cable HDMI 2m,3,38.97
-F25-0017,Teclado Mecánico,9,675.0
-F25-0018,Mouse Ergonómico,1,25.5
-F25-0018,Monitor 24p,10,1800.0
-F25-0018,Monitor 24p,2,360.0
-F25-0018,Cable HDMI 2m,3,38.97
-F25-0019,Teclado Mecánico,9,675.0
-F25-0020,Teclado Mecánico,6,450.0
-F25-0020,Mouse Ergonómico,1,25.5
-F25-0020,Laptop Pro,2,2400.0
-F25-0021,Mouse Ergonómico,9,229.5
-F25-0021,Soporte Laptop,9,405.0
-F25-0022,Laptop Pro,4,4800.0
-F25-0023,Laptop Pro,8,9600.0
-F25-0023,Mouse Ergonómico,6,153.0
-F25-0023,Monitor 24p,1,180.0
-F25-0024,Teclado Mecánico,4,300.0
-F25-0024,Monitor 24p,5,900.0
-F25-0024,Teclado Mecánico,4,300.0
-F25-0025,Soporte Laptop,3,135.0
-F25-0025,Laptop Pro,5,6000.0
-F25-0026,Cable HDMI 2m,8,103.92
-F25-0026,Monitor 24p,4,720.0
-F25-0026,Soporte Laptop,1,45.0
-F25-0026,Laptop Pro,9,10800.0
-F25-0027,Soporte Laptop,2,90.0
-F25-0027,Monitor 24p,3,540.0
-F25-0027,Monitor 24p,4,720.0
-F25-0027,Soporte Laptop,9,405.0
-F25-0027,Monitor 24p,10,1800.0
-F25-0028,Soporte Laptop,6,270.0
-F25-0028,Monitor 24p,7,1260.0
-F25-0028,Mouse Ergonómico,5,127.5
-F25-0029,Laptop Pro,5,6000.0
-F25-0030,Teclado Mecánico,8,600.0
-F25-0030,Teclado Mecánico,6,450.0
-F25-0030,Teclado Mecánico,9,675.0
-F25-0030,Laptop Pro,9,10800.0
-F25-0030,Monitor 24p,10,1800.0
-F25-0031,Cable HDMI 2m,2,25.98
-F25-0031,Monitor 24p,3,540.0
-F25-0032,Cable HDMI 2m,9,116.91
-F25-0032,Monitor 24p,3,540.0
-F25-0033,Teclado Mecánico,4,300.0
-F25-0033,Soporte Laptop,9,405.0
-F25-0033,Cable HDMI 2m,3,38.97
-F25-0034,Cable HDMI 2m,8,103.92
-F25-0035,Cable HDMI 2m,5,64.95
-F25-0035,Teclado Mecánico,1,75.0
-F25-0035,Cable HDMI 2m,1,12.99
-F25-0036,Laptop Pro,8,9600.0
-F25-0036,Laptop Pro,5,6000.0
-F25-0036,Teclado Mecánico,3,225.0
-F25-0036,Soporte Laptop,10,450.0
-F25-0037,Cable HDMI 2m,2,25.98
-F25-0037,Mouse Ergonómico,10,255.0
-F25-0038,Mouse Ergonómico,8,204.0
-F25-0038,Laptop Pro,6,7200.0
-F25-0039,Cable HDMI 2m,8,103.92
-F25-0039,Cable HDMI 2m,6,77.94
-F25-0039,Teclado Mecánico,3,225.0
-F25-0039,Mouse Ergonómico,2,51.0
-F25-0039,Soporte Laptop,10,450.0
-F25-0040,Soporte Laptop,6,270.0
-F25-0040,Monitor 24p,8,1440.0
-F25-0040,Cable HDMI 2m,2,25.98
-F25-0040,Monitor 24p,4,720.0
-F25-0041,Teclado Mecánico,4,300.0
-F25-0041,Soporte Laptop,9,405.0
-F25-0041,Cable HDMI 2m,10,129.9
-F25-0041,Mouse Ergonómico,10,255.0
-F25-0041,Monitor 24p,6,1080.0
-F25-0042,Monitor 24p,4,720.0
-F25-0043,Cable HDMI 2m,3,38.97
-F25-0043,Monitor 24p,10,1800.0
-F25-0043,Cable HDMI 2m,8,103.92
-F25-0044,Laptop Pro,7,8400.0
-F25-0044,Laptop Pro,2,2400.0
-F25-0045,Laptop Pro,4,4800.0
-F25-0045,Cable HDMI 2m,10,129.9
-F25-0045,Soporte Laptop,3,135.0
-F25-0046,Mouse Ergonómico,1,25.5
-F25-0046,Monitor 24p,1,180.0
-F25-0046,Monitor 24p,6,1080.0
-F25-0046,Cable HDMI 2m,2,25.98
-F25-0047,Laptop Pro,8,9600.0
-F25-0047,Monitor 24p,5,900.0
-F25-0047,Cable HDMI 2m,7,90.93
-F25-0047,Mouse Ergonómico,5,127.5
-F25-0047,Teclado Mecánico,6,450.0
-F25-0048,Teclado Mecánico,3,225.0
-F25-0049,Teclado Mecánico,1,75.0
-F25-0049,Teclado Mecánico,2,150.0
-F25-0049,Laptop Pro,4,4800.0
-F25-0049,Teclado Mecánico,8,600.0
-F25-0049,Cable HDMI 2m,7,90.93
-F25-0050,Cable HDMI 2m,6,77.94
-F25-0051,Teclado Mecánico,2,150.0
-F25-0051,Monitor 24p,5,900.0
-F25-0051,Laptop Pro,7,8400.0
-F25-0051,Mouse Ergonómico,8,204.0
-F25-0052,Cable HDMI 2m,7,90.93
-F25-0052,Monitor 24p,1,180.0
-F25-0053,Monitor 24p,6,1080.0
-F25-0053,Mouse Ergonómico,5,127.5
-F25-0053,Soporte Laptop,9,405.0
-F25-0054,Laptop Pro,2,2400.0
-F25-0054,Teclado Mecánico,9,675.0
-F25-0055,Laptop Pro,5,6000.0
-F25-0055,Soporte Laptop,2,90.0
-F25-0055,Teclado Mecánico,1,75.0
-F25-0055,Cable HDMI 2m,4,51.96
-F25-0055,Cable HDMI 2m,2,25.98
-F25-0056,Cable HDMI 2m,7,90.93
-F25-0056,Cable HDMI 2m,7,90.93
-F25-0056,Cable HDMI 2m,9,116.91
-F25-0056,Teclado Mecánico,2,150.0
-F25-0056,Cable HDMI 2m,6,77.94
-F25-0057,Mouse Ergonómico,6,153.0
-F25-0057,Monitor 24p,2,360.0
-F25-0057,Laptop Pro,9,10800.0
-F25-0058,Teclado Mecánico,7,525.0
-F25-0059,Cable HDMI 2m,9,116.91
-F25-0059,Mouse Ergonómico,6,153.0
-F25-0060,Monitor 24p,2,360.0
-F25-0060,Monitor 24p,1,180.0
-F25-0060,Soporte Laptop,3,135.0
-F25-0060,Monitor 24p,3,540.0
-F25-0061,Laptop Pro,5,6000.0
-F25-0061,Cable HDMI 2m,5,64.95
-F25-0062,Laptop Pro,10,12000.0
-F25-0062,Monitor 24p,2,360.0
-F25-0063,Laptop Pro,8,9600.0
-F25-0063,Cable HDMI 2m,10,129.9
-F25-0063,Soporte Laptop,1,45.0
-F25-0064,Soporte Laptop,7,315.0
-F25-0065,Soporte Laptop,8,360.0
-F25-0065,Laptop Pro,4,4800.0
-F25-0065,Teclado Mecánico,9,675.0
-F25-0066,Monitor 24p,10,1800.0
-F25-0066,Cable HDMI 2m,2,25.98
-F25-0067,Cable HDMI 2m,2,25.98
-F25-0067,Cable HDMI 2m,1,12.99
-F25-0068,Laptop Pro,6,7200.0
-F25-0068,Monitor 24p,9,1620.0
-F25-0068,Laptop Pro,5,6000.0
-F25-0068,Soporte Laptop,6,270.0
-F25-0069,Monitor 24p,8,1440.0
-F25-0069,Mouse Ergonómico,1,25.5
-F25-0069,Cable HDMI 2m,7,90.93
-F25-0070,Mouse Ergonómico,4,102.0
-F25-0070,Monitor 24p,1,180.0
-F25-0071,Cable HDMI 2m,4,51.96
-F25-0071,Laptop Pro,10,12000.0
-F25-0071,Laptop Pro,5,6000.0
-F25-0071,Monitor 24p,3,540.0
-F25-0071,Cable HDMI 2m,4,51.96
-F25-0072,Laptop Pro,2,2400.0
-F25-0072,Mouse Ergonómico,5,127.5
-F25-0073,Monitor 24p,1,180.0
-F25-0073,Monitor 24p,5,900.0
-F25-0073,Teclado Mecánico,3,225.0
-F25-0073,Cable HDMI 2m,4,51.96
-F25-0074,Mouse Ergonómico,8,204.0
-F25-0074,Laptop Pro,7,8400.0
-F25-0074,Teclado Mecánico,7,525.0
-F25-0074,Laptop Pro,10,12000.0
-F25-0075,Soporte Laptop,1,45.0
-F25-0075,Teclado Mecánico,4,300.0
-F25-0076,Laptop Pro,5,6000.0
-F25-0076,Monitor 24p,9,1620.0
-F25-0076,Teclado Mecánico,2,150.0
-F25-0076,Monitor 24p,8,1440.0
-F25-0077,Mouse Ergonómico,1,25.5
-F25-0078,Cable HDMI 2m,6,77.94
-F25-0078,Cable HDMI 2m,9,116.91
-F25-0078,Monitor 24p,9,1620.0
-F25-0078,Cable HDMI 2m,3,38.97
-F25-0078,Cable HDMI 2m,1,12.99
-F25-0079,Mouse Ergonómico,7,178.5
-F25-0080,Mouse Ergonómico,3,76.5
-F25-0080,Monitor 24p,9,1620.0
-F25-0081,Cable HDMI 2m,4,51.96
-F25-0081,Cable HDMI 2m,8,103.92
-F25-0081,Teclado Mecánico,9,675.0
-F25-0081,Mouse Ergonómico,7,178.5
-F25-0081,Laptop Pro,3,3600.0
-F25-0082,Cable HDMI 2m,4,51.96
-F25-0082,Mouse Ergonómico,1,25.5
-F25-0083,Teclado Mecánico,7,525.0
-F25-0084,Teclado Mecánico,7,525.0
-F25-0085,Soporte Laptop,10,450.0
-F25-0085,Laptop Pro,1,1200.0
-F25-0085,Monitor 24p,4,720.0
-F25-0086,Monitor 24p,3,540.0
-F25-0087,Mouse Ergonómico,10,255.0
-F25-0087,Monitor 24p,9,1620.0
-F25-0087,Laptop Pro,3,3600.0
-F25-0088,Monitor 24p,8,1440.0
-F25-0088,Mouse Ergonómico,9,229.5
-F25-0088,Monitor 24p,7,1260.0
-F25-0088,Mouse Ergonómico,5,127.5
-F25-0089,Monitor 24p,5,900.0
-F25-0090,Monitor 24p,5,900.0
-F25-0090,Soporte Laptop,5,225.0
-F25-0091,Soporte Laptop,10,450.0
-F25-0091,Mouse Ergonómico,2,51.0
-F25-0091,Monitor 24p,5,900.0
-F25-0091,Mouse Ergonómico,3,76.5
-F25-0092,Cable HDMI 2m,4,51.96
-F25-0092,Teclado Mecánico,3,225.0
-F25-0092,Monitor 24p,1,180.0
-F25-0092,Mouse Ergonómico,8,204.0
-F25-0092,Cable HDMI 2m,7,90.93
-F25-0093,Teclado Mecánico,1,75.0
-F25-0094,Cable HDMI 2m,4,51.96
-F25-0094,Soporte Laptop,9,405.0
-F25-0094,Mouse Ergonómico,3,76.5
-F25-0095,Mouse Ergonómico,10,255.0
-F25-0095,Soporte Laptop,3,135.0
-F25-0095,Mouse Ergonómico,6,153.0
-F25-0095,Soporte Laptop,2,90.0
-F25-0096,Cable HDMI 2m,2,25.98
-F25-0097,Monitor 24p,9,1620.0
-F25-0097,Cable HDMI 2m,6,77.94
-F25-0097,Mouse Ergonómico,7,178.5
-F25-0097,Teclado Mecánico,4,300.0
-F25-0097,Cable HDMI 2m,3,38.97
-F25-0098,Soporte Laptop,4,180.0
-F25-0098,Laptop Pro,2,2400.0
-F25-0098,Teclado Mecánico,7,525.0
-F25-0098,Soporte Laptop,10,450.0
-F25-0099,Laptop Pro,4,4800.0
-F25-0099,Teclado Mecánico,3,225.0
-F25-0099,Teclado Mecánico,2,150.0
-F25-0099,Laptop Pro,8,9600.0
-F25-0099,Laptop Pro,5,6000.0
-F25-0100,Soporte Laptop,7,315.0
-F25-0100,Monitor 24p,5,900.0
-F25-0101,Cable HDMI 2m,3,38.97
-F25-0101,Teclado Mecánico,5,375.0
-F25-0101,Monitor 24p,3,540.0
-F25-0102,Laptop Pro,1,1200.0
-F25-0102,Cable HDMI 2m,8,103.92
-F25-0102,Mouse Ergonómico,3,76.5
-F25-0103,Soporte Laptop,10,450.0
-F25-0103,Cable HDMI 2m,3,38.97
-F25-0104,Cable HDMI 2m,3,38.97
-F25-0105,Teclado Mecánico,3,225.0
-F25-0105,Teclado Mecánico,9,675.0
-F25-0105,Cable HDMI 2m,3,38.97
-F25-0105,Laptop Pro,1,1200.0
-F25-0106,Cable HDMI 2m,2,25.98
-F25-0106,Monitor 24p,9,1620.0
-F25-0106,Laptop Pro,9,10800.0
-F25-0106,Laptop Pro,8,9600.0
-F25-0107,Mouse Ergonómico,3,76.5
-F25-0107,Teclado Mecánico,3,225.0
-F25-0107,Mouse Ergonómico,8,204.0
-F25-0107,Cable HDMI 2m,10,129.9
-F25-0107,Laptop Pro,7,8400.0
-F25-0108,Soporte Laptop,7,315.0
-F25-0108,Teclado Mecánico,3,225.0
-F25-0108,Mouse Ergonómico,7,178.5
-F25-0109,Soporte Laptop,4,180.0
-F25-0110,Laptop Pro,10,12000.0
-F25-0110,Laptop Pro,8,9600.0
-F25-0111,Laptop Pro,1,1200.0
-F25-0112,Soporte Laptop,4,180.0
-F25-0112,Cable HDMI 2m,1,12.99
-F25-0112,Laptop Pro,8,9600.0
-F25-0112,Cable HDMI 2m,3,38.97
-F25-0112,Teclado Mecánico,6,450.0
-F25-0113,Mouse Ergonómico,3,76.5
-F25-0113,Monitor 24p,4,720.0
-F25-0113,Monitor 24p,8,1440.0
-F25-0114,Mouse Ergonómico,9,229.5
-F25-0114,Soporte Laptop,3,135.0
-F25-0115,Cable HDMI 2m,9,116.91
-F25-0115,Teclado Mecánico,6,450.0
-F25-0115,Soporte Laptop,7,315.0
-F25-0115,Monitor 24p,6,1080.0
-F25-0116,Cable HDMI 2m,6,77.94
-F25-0116,Teclado Mecánico,6,450.0
-F25-0116,Teclado Mecánico,2,150.0
-F25-0116,Laptop Pro,6,7200.0
-F25-0116,Mouse Ergonómico,4,102.0
-F25-0117,Laptop Pro,10,12000.0
-F25-0117,Laptop Pro,1,1200.0
-F25-0117,Soporte Laptop,2,90.0
-F25-0117,Laptop Pro,6,7200.0
-F25-0118,Mouse Ergonómico,10,255.0
-F25-0118,Laptop Pro,8,9600.0
-F25-0119,Monitor 24p,3,540.0
-F25-0119,Mouse Ergonómico,3,76.5
-F25-0120,Cable HDMI 2m,9,116.91
-F25-0120,Teclado Mecánico,5,375.0
-F25-0120,Cable HDMI 2m,6,77.94
-F25-0121,Cable HDMI 2m,1,12.99
-F25-0122,Monitor 24p,4,720.0
-F25-0122,Teclado Mecánico,6,450.0
-F25-0123,Cable HDMI 2m,1,12.99
-F25-0123,Soporte Laptop,5,225.0
-F25-0123,Laptop Pro,5,6000.0
-F25-0123,Teclado Mecánico,7,525.0
-F25-0124,Monitor 24p,4,720.0
-F25-0124,Soporte Laptop,9,405.0
-F25-0124,Teclado Mecánico,3,225.0
-F25-0125,Mouse Ergonómico,10,255.0
-F25-0126,Laptop Pro,9,10800.0
-F25-0126,Laptop Pro,7,8400.0
-F25-0126,Laptop Pro,10,12000.0
-F25-0126,Cable HDMI 2m,6,77.94
-F25-0127,Teclado Mecánico,2,150.0
-F25-0127,Cable HDMI 2m,3,38.97
-F25-0127,Laptop Pro,9,10800.0
-F25-0127,Teclado Mecánico,7,525.0
-F25-0127,Cable HDMI 2m,7,90.93
-F25-0128,Laptop Pro,4,4800.0
-F25-0129,Mouse Ergonómico,7,178.5
-F25-0130,Teclado Mecánico,1,75.0
-F25-0130,Soporte Laptop,1,45.0
-F25-0131,Cable HDMI 2m,4,51.96
-F25-0131,Teclado Mecánico,4,300.0
-F25-0131,Mouse Ergonómico,3,76.5
-F25-0132,Soporte Laptop,10,450.0
-F25-0132,Cable HDMI 2m,6,77.94
-F25-0132,Laptop Pro,4,4800.0
-F25-0132,Teclado Mecánico,2,150.0
-F25-0132,Monitor 24p,7,1260.0
-F25-0133,Teclado Mecánico,2,150.0
-F25-0134,Cable HDMI 2m,6,77.94
-F25-0134,Cable HDMI 2m,1,12.99
-F25-0135,Laptop Pro,1,1200.0
-F25-0135,Monitor 24p,1,180.0
-F25-0135,Cable HDMI 2m,3,38.97
-F25-0135,Monitor 24p,5,900.0
-F25-0136,Laptop Pro,2,2400.0
-F25-0136,Teclado Mecánico,2,150.0
-F25-0136,Monitor 24p,8,1440.0
-F25-0136,Cable HDMI 2m,9,116.91
-F25-0136,Monitor 24p,3,540.0
-F25-0137,Soporte Laptop,2,90.0
-F25-0138,Cable HDMI 2m,4,51.96
-F25-0138,Monitor 24p,6,1080.0
-F25-0138,Monitor 24p,1,180.0
-F25-0138,Laptop Pro,6,7200.0
-F25-0139,Cable HDMI 2m,4,51.96
-F25-0139,Teclado Mecánico,7,525.0
-F25-0139,Soporte Laptop,6,270.0
-F25-0139,Cable HDMI 2m,6,77.94
-F25-0140,Teclado Mecánico,7,525.0
-F25-0140,Mouse Ergonómico,3,76.5
-F25-0140,Soporte Laptop,8,360.0
-F25-0141,Cable HDMI 2m,3,38.97
-F25-0141,Cable HDMI 2m,1,12.99
-F25-0141,Mouse Ergonómico,8,204.0
-F25-0141,Laptop Pro,2,2400.0
-F25-0141,Teclado Mecánico,8,600.0
-F25-0142,Soporte Laptop,2,90.0
-F25-0142,Soporte Laptop,7,315.0
-F25-0142,Cable HDMI 2m,4,51.96
-F25-0143,Monitor 24p,7,1260.0
-F25-0143,Mouse Ergonómico,8,204.0
-F25-0143,Mouse Ergonómico,1,25.5
-F25-0143,Soporte Laptop,4,180.0
-F25-0143,Teclado Mecánico,1,75.0
-F25-0144,Laptop Pro,5,6000.0
-F25-0144,Teclado Mecánico,5,375.0
-F25-0145,Laptop Pro,5,6000.0
-F25-0145,Soporte Laptop,3,135.0
-F25-0145,Mouse Ergonómico,2,51.0
-F25-0146,Laptop Pro,3,3600.0
-F25-0147,Cable HDMI 2m,3,38.97
-F25-0147,Soporte Laptop,5,225.0
-F25-0147,Teclado Mecánico,6,450.0
-F25-0147,Cable HDMI 2m,1,12.99
-F25-0148,Monitor 24p,5,900.0
-F25-0148,Mouse Ergonómico,2,51.0
-F25-0149,Mouse Ergonómico,6,153.0
-F25-0150,Soporte Laptop,5,225.0
-F25-0150,Cable HDMI 2m,5,64.95
-F25-0150,Monitor 24p,4,720.0
-F25-0151,Cable HDMI 2m,2,25.98
-F25-0151,Cable HDMI 2m,7,90.93
-F25-0151,Cable HDMI 2m,9,116.91
-F25-0151,Monitor 24p,5,900.0
-F25-0151,Soporte Laptop,2,90.0
-F25-0152,Soporte Laptop,1,45.0
-F25-0153,Monitor 24p,7,1260.0
-F25-0154,Cable HDMI 2m,6,77.94
-F25-0154,Teclado Mecánico,5,375.0
-F25-0154,Teclado Mecánico,5,375.0
-F25-0154,Monitor 24p,3,540.0
-F25-0154,Teclado Mecánico,9,675.0
-F25-0155,Teclado Mecánico,3,225.0
-F25-0156,Cable HDMI 2m,3,38.97
-F25-0156,Teclado Mecánico,7,525.0
-F25-0156,Teclado Mecánico,5,375.0
-F25-0156,Monitor 24p,7,1260.0
-F25-0157,Cable HDMI 2m,3,38.97
-F25-0157,Soporte Laptop,7,315.0
-F25-0157,Soporte Laptop,6,270.0
-F25-0157,Teclado Mecánico,5,375.0
-F25-0158,Cable HDMI 2m,7,90.93
-F25-0158,Monitor 24p,5,900.0
-F25-0158,Monitor 24p,8,1440.0
-F25-0159,Cable HDMI 2m,2,25.98
-F25-0159,Monitor 24p,4,720.0
-F25-0159,Laptop Pro,10,12000.0
-F25-0159,Teclado Mecánico,4,300.0
-F25-0159,Mouse Ergonómico,8,204.0
-F25-0160,Laptop Pro,4,4800.0
-F25-0160,Laptop Pro,8,9600.0
-F25-0160,Laptop Pro,7,8400.0
-F25-0160,Cable HDMI 2m,3,38.97
-F25-0160,Soporte Laptop,7,315.0
-F25-0161,Mouse Ergonómico,5,127.5
-F25-0161,Soporte Laptop,1,45.0
-F25-0161,Cable HDMI 2m,8,103.92
-F25-0162,Laptop Pro,2,2400.0
-F25-0162,Mouse Ergonómico,3,76.5
-F25-0162,Laptop Pro,5,6000.0
-F25-0162,Teclado Mecánico,1,75.0
-F25-0162,Monitor 24p,10,1800.0
-F25-0163,Cable HDMI 2m,3,38.97
-F25-0164,Soporte Laptop,7,315.0
-F25-0164,Mouse Ergonómico,5,127.5
-F25-0164,Monitor 24p,6,1080.0
-F25-0164,Laptop Pro,8,9600.0
-F25-0165,Monitor 24p,7,1260.0
-F25-0165,Mouse Ergonómico,4,102.0
-F25-0166,Teclado Mecánico,6,450.0
-F25-0166,Cable HDMI 2m,6,77.94
-F25-0166,Cable HDMI 2m,10,129.9
-F25-0166,Laptop Pro,2,2400.0
-F25-0166,Soporte Laptop,1,45.0
-F25-0167,Monitor 24p,2,360.0
-F25-0168,Laptop Pro,9,10800.0
-F25-0169,Cable HDMI 2m,4,51.96
-F25-0170,Cable HDMI 2m,5,64.95
-F25-0170,Soporte Laptop,7,315.0
-F25-0171,Mouse Ergonómico,9,229.5
-F25-0171,Monitor 24p,10,1800.0
-F25-0171,Laptop Pro,2,2400.0
-F25-0171,Laptop Pro,2,2400.0
-F25-0171,Monitor 24p,5,900.0
-F25-0172,Teclado Mecánico,2,150.0
-F25-0172,Monitor 24p,3,540.0
-F25-0172,Cable HDMI 2m,6,77.94
-F25-0173,Monitor 24p,1,180.0
-F25-0174,Mouse Ergonómico,6,153.0
-F25-0174,Cable HDMI 2m,3,38.97
-F25-0174,Cable HDMI 2m,4,51.96
-F25-0174,Teclado Mecánico,5,375.0
-F25-0174,Monitor 24p,3,540.0
-F25-0175,Cable HDMI 2m,4,51.96
-F25-0175,Laptop Pro,10,12000.0
-F25-0175,Monitor 24p,3,540.0
-F25-0176,Laptop Pro,3,3600.0
-F25-0176,Mouse Ergonómico,4,102.0
-F25-0177,Monitor 24p,10,1800.0
-F25-0177,Monitor 24p,9,1620.0
-F25-0177,Soporte Laptop,1,45.0
-F25-0177,Laptop Pro,10,12000.0
-F25-0177,Mouse Ergonómico,6,153.0
-F25-0178,Mouse Ergonómico,9,229.5
-F25-0178,Monitor 24p,4,720.0
-F25-0179,Monitor 24p,2,360.0
-F25-0179,Monitor 24p,1,180.0
-F25-0180,Cable HDMI 2m,10,129.9
-F25-0180,Laptop Pro,6,7200.0
-F25-0180,Cable HDMI 2m,2,25.98
-F25-0181,Monitor 24p,7,1260.0
-F25-0181,Monitor 24p,4,720.0
-F25-0182,Mouse Ergonómico,8,204.0
-F25-0182,Laptop Pro,7,8400.0
-F25-0182,Teclado Mecánico,2,150.0
-F25-0183,Cable HDMI 2m,6,77.94
-F25-0183,Laptop Pro,10,12000.0
-F25-0184,Mouse Ergonómico,1,25.5
-F25-0185,Cable HDMI 2m,10,129.9
-F25-0186,Teclado Mecánico,6,450.0
-F25-0186,Cable HDMI 2m,4,51.96
-F25-0186,Teclado Mecánico,2,150.0
-F25-0186,Cable HDMI 2m,1,12.99
-F25-0187,Teclado Mecánico,3,225.0
-F25-0188,Laptop Pro,1,1200.0
-F25-0189,Soporte Laptop,3,135.0
-F25-0190,Mouse Ergonómico,3,76.5
-F25-0190,Soporte Laptop,10,450.0
-F25-0191,Monitor 24p,10,1800.0
-F25-0192,Mouse Ergonómico,8,204.0
-F25-0192,Laptop Pro,8,9600.0
-F25-0192,Teclado Mecánico,3,225.0
-F25-0192,Laptop Pro,2,2400.0
-F25-0193,Mouse Ergonómico,10,255.0
-F25-0193,Cable HDMI 2m,3,38.97
-F25-0193,Monitor 24p,3,540.0
-F25-0193,Soporte Laptop,6,270.0
-F25-0193,Soporte Laptop,5,225.0
-F25-0194,Mouse Ergonómico,1,25.5
-F25-0194,Soporte Laptop,3,135.0
-F25-0194,Teclado Mecánico,1,75.0
-F25-0194,Teclado Mecánico,8,600.0
-F25-0194,Laptop Pro,8,9600.0
-F25-0195,Cable HDMI 2m,2,25.98
-F25-0195,Teclado Mecánico,7,525.0
-F25-0196,Cable HDMI 2m,7,90.93
-F25-0196,Soporte Laptop,7,315.0
-F25-0196,Soporte Laptop,1,45.0
-F25-0196,Laptop Pro,9,10800.0
-F25-0197,Monitor 24p,1,180.0
-F25-0198,Teclado Mecánico,3,225.0
-F25-0198,Mouse Ergonómico,9,229.5
-F25-0198,Mouse Ergonómico,7,178.5
-F25-0199,Cable HDMI 2m,4,51.96
-F25-0199,Soporte Laptop,7,315.0
-F25-0199,Cable HDMI 2m,5,64.95
-F25-0199,Mouse Ergonómico,4,102.0
-F25-0199,Cable HDMI 2m,4,51.96
-F25-0200,Cable HDMI 2m,7,90.93
-F25-0200,Mouse Ergonómico,1,25.5
-F25-0200,Teclado Mecánico,9,675.0
-F25-0201,Cable HDMI 2m,10,129.9
-F25-0201,Teclado Mecánico,5,375.0
-F25-0201,Mouse Ergonómico,5,127.5
-F25-0201,Teclado Mecánico,3,225.0
-F25-0202,Soporte Laptop,3,135.0
-F25-0202,Monitor 24p,8,1440.0
-F25-0203,Monitor 24p,2,360.0
-F25-0204,Monitor 24p,5,900.0
-F25-0204,Teclado Mecánico,10,750.0
-F25-0204,Teclado Mecánico,3,225.0
-F25-0204,Soporte Laptop,7,315.0
-F25-0205,Teclado Mecánico,9,675.0
-F25-0205,Mouse Ergonómico,8,204.0
-F25-0205,Cable HDMI 2m,5,64.95
-F25-0206,Teclado Mecánico,2,150.0
-F25-0206,Cable HDMI 2m,2,25.98
-F25-0206,Teclado Mecánico,2,150.0
-F25-0206,Teclado Mecánico,4,300.0
-F25-0207,Cable HDMI 2m,7,90.93
-F25-0207,Cable HDMI 2m,7,90.93
-F25-0208,Teclado Mecánico,6,450.0
-F25-0208,Soporte Laptop,2,90.0
-F25-0208,Teclado Mecánico,1,75.0
-F25-0209,Monitor 24p,1,180.0
-F25-0210,Teclado Mecánico,6,450.0
-F25-0210,Cable HDMI 2m,2,25.98
-F25-0211,Cable HDMI 2m,5,64.95
-F25-0211,Teclado Mecánico,10,750.0
-F25-0211,Soporte Laptop,1,45.0
-F25-0212,Monitor 24p,2,360.0
-F25-0212,Mouse Ergonómico,10,255.0
-F25-0212,Soporte Laptop,5,225.0
-F25-0212,Mouse Ergonómico,7,178.5
-F25-0213,Laptop Pro,1,1200.0
-F25-0214,Cable HDMI 2m,5,64.95
-F25-0214,Teclado Mecánico,1,75.0
-F25-0214,Teclado Mecánico,9,675.0
-F25-0214,Monitor 24p,7,1260.0
-F25-0214,Teclado Mecánico,5,375.0
-F25-0215,Laptop Pro,8,9600.0
-F25-0215,Laptop Pro,7,8400.0
-F25-0216,Soporte Laptop,1,45.0
-F25-0217,Soporte Laptop,6,270.0
-F25-0217,Teclado Mecánico,6,450.0
-F25-0217,Laptop Pro,2,2400.0
-F25-0217,Cable HDMI 2m,3,38.97
-F25-0218,Soporte Laptop,3,135.0
-F25-0218,Soporte Laptop,5,225.0
-F25-0219,Laptop Pro,6,7200.0
-F25-0220,Teclado Mecánico,8,600.0
-F25-0221,Monitor 24p,7,1260.0
-F25-0221,Cable HDMI 2m,1,12.99
-F25-0222,Monitor 24p,8,1440.0
-F25-0222,Teclado Mecánico,8,600.0
-F25-0222,Soporte Laptop,1,45.0
-F25-0222,Cable HDMI 2m,6,77.94
-F25-0223,Teclado Mecánico,5,375.0
-F25-0223,Mouse Ergonómico,3,76.5
-F25-0223,Monitor 24p,8,1440.0
-F25-0223,Teclado Mecánico,10,750.0
-F25-0224,Mouse Ergonómico,6,153.0
-F25-0225,Teclado Mecánico,8,600.0
-F25-0225,Cable HDMI 2m,5,64.95
-F25-0225,Mouse Ergonómico,5,127.5
-F25-0225,Soporte Laptop,10,450.0
-F25-0226,Soporte Laptop,4,180.0
-F25-0226,Soporte Laptop,1,45.0
-F25-0226,Mouse Ergonómico,5,127.5
-F25-0227,Soporte Laptop,10,450.0
-F25-0227,Cable HDMI 2m,7,90.93
-F25-0228,Teclado Mecánico,7,525.0
-F25-0228,Monitor 24p,6,1080.0
-F25-0229,Monitor 24p,3,540.0
-F25-0229,Laptop Pro,6,7200.0
-F25-0229,Teclado Mecánico,9,675.0
-F25-0230,Cable HDMI 2m,8,103.92
-F25-0230,Teclado Mecánico,9,675.0
-F25-0230,Laptop Pro,9,10800.0
-F25-0230,Mouse Ergonómico,1,25.5
-F25-0230,Monitor 24p,2,360.0
-F25-0231,Cable HDMI 2m,1,12.99
-F25-0232,Laptop Pro,6,7200.0
-F25-0233,Teclado Mecánico,3,225.0
-F25-0233,Mouse Ergonómico,2,51.0
-F25-0233,Cable HDMI 2m,8,103.92
-F25-0233,Laptop Pro,3,3600.0
-F25-0234,Teclado Mecánico,5,375.0
-F25-0235,Laptop Pro,4,4800.0
-F25-0235,Soporte Laptop,5,225.0
-F25-0235,Mouse Ergonómico,6,153.0
-F25-0235,Cable HDMI 2m,9,116.91
-F25-0236,Teclado Mecánico,1,75.0
-F25-0236,Monitor 24p,9,1620.0
-F25-0236,Monitor 24p,1,180.0
-F25-0236,Soporte Laptop,5,225.0
-F25-0236,Monitor 24p,6,1080.0
-F25-0237,Soporte Laptop,2,90.0
-F25-0237,Teclado Mecánico,5,375.0
-F25-0237,Mouse Ergonómico,9,229.5
-F25-0238,Cable HDMI 2m,1,12.99
-F25-0238,Cable HDMI 2m,3,38.97
-F25-0238,Monitor 24p,1,180.0
-F25-0239,Cable HDMI 2m,8,103.92
-F25-0239,Monitor 24p,3,540.0
-F25-0239,Monitor 24p,2,360.0
-F25-0239,Soporte Laptop,3,135.0
-F25-0239,Teclado Mecánico,9,675.0
-F25-0240,Monitor 24p,10,1800.0
-F25-0240,Cable HDMI 2m,9,116.91
-F25-0240,Mouse Ergonómico,7,178.5
-F25-0241,Soporte Laptop,6,270.0
-F25-0241,Mouse Ergonómico,7,178.5
-F25-0241,Cable HDMI 2m,3,38.97
-F25-0241,Cable HDMI 2m,3,38.97
-F25-0242,Mouse Ergonómico,6,153.0
-F25-0242,Teclado Mecánico,8,600.0
-F25-0242,Laptop Pro,10,12000.0
-F25-0243,Soporte Laptop,4,180.0
-F25-0243,Mouse Ergonómico,8,204.0
-F25-0244,Monitor 24p,5,900.0
-F25-0244,Monitor 24p,9,1620.0
-F25-0244,Mouse Ergonómico,6,153.0
-F25-0244,Mouse Ergonómico,4,102.0
-F25-0244,Mouse Ergonómico,8,204.0
-F25-0245,Monitor 24p,1,180.0
-F25-0245,Mouse Ergonómico,1,25.5
-F25-0245,Cable HDMI 2m,1,12.99
-F25-0245,Laptop Pro,5,6000.0
-F25-0246,Mouse Ergonómico,8,204.0
-F25-0246,Teclado Mecánico,4,300.0
-F25-0246,Teclado Mecánico,8,600.0
-F25-0246,Cable HDMI 2m,4,51.96
-F25-0246,Laptop Pro,7,8400.0
-F25-0247,Soporte Laptop,2,90.0
-F25-0247,Cable HDMI 2m,5,64.95
-F25-0247,Monitor 24p,3,540.0
-F25-0247,Cable HDMI 2m,6,77.94
-F25-0247,Soporte Laptop,6,270.0
-F25-0248,Cable HDMI 2m,4,51.96
-F25-0248,Cable HDMI 2m,6,77.94
-F25-0248,Laptop Pro,8,9600.0
-F25-0249,Mouse Ergonómico,3,76.5
-F25-0249,Soporte Laptop,5,225.0
-F25-0250,Teclado Mecánico,1,75.0
-F25-0251,Monitor 24p,1,180.0
-F25-0252,Cable HDMI 2m,5,64.95
-F25-0252,Laptop Pro,7,8400.0
-F25-0252,Cable HDMI 2m,8,103.92
-F25-0252,Mouse Ergonómico,7,178.5
-F25-0252,Soporte Laptop,7,315.0
-F25-0253,Mouse Ergonómico,4,102.0
-F25-0253,Soporte Laptop,8,360.0
-F25-0253,Laptop Pro,1,1200.0
-F25-0253,Mouse Ergonómico,8,204.0
-F25-0254,Cable HDMI 2m,3,38.97
-F25-0254,Laptop Pro,3,3600.0
-F25-0254,Teclado Mecánico,6,450.0
-F25-0254,Soporte Laptop,1,45.0
-F25-0255,Monitor 24p,6,1080.0
-F25-0256,Cable HDMI 2m,10,129.9
-F25-0257,Cable HDMI 2m,3,38.97
-F25-0257,Laptop Pro,2,2400.0
-F25-0257,Cable HDMI 2m,8,103.92
-F25-0257,Soporte Laptop,7,315.0
-F25-0258,Monitor 24p,7,1260.0
-F25-0258,Teclado Mecánico,3,225.0
-F25-0258,Cable HDMI 2m,3,38.97
-F25-0259,Soporte Laptop,6,270.0
-F25-0260,Cable HDMI 2m,7,90.93
-F25-0260,Monitor 24p,8,1440.0
-F25-0261,Mouse Ergonómico,9,229.5
-F25-0261,Cable HDMI 2m,5,64.95
-F25-0261,Teclado Mecánico,4,300.0
-F25-0261,Monitor 24p,2,360.0
-F25-0261,Monitor 24p,9,1620.0
-F25-0262,Cable HDMI 2m,10,129.9
-F25-0263,Laptop Pro,8,9600.0
-F25-0263,Teclado Mecánico,10,750.0
-F25-0263,Teclado Mecánico,5,375.0
-F25-0264,Laptop Pro,9,10800.0
-F25-0264,Teclado Mecánico,3,225.0
-F25-0265,Teclado Mecánico,2,150.0
-F25-0265,Laptop Pro,5,6000.0
-F25-0265,Monitor 24p,9,1620.0
-F25-0265,Laptop Pro,5,6000.0
-F25-0265,Cable HDMI 2m,6,77.94
-F25-0266,Teclado Mecánico,3,225.0
-F25-0266,Cable HDMI 2m,9,116.91
-F25-0266,Laptop Pro,8,9600.0
-F25-0266,Mouse Ergonómico,4,102.0
-F25-0267,Monitor 24p,10,1800.0
-F25-0267,Laptop Pro,4,4800.0
-F25-0267,Monitor 24p,1,180.0
-F25-0268,Laptop Pro,8,9600.0
-F25-0268,Laptop Pro,2,2400.0
-F25-0268,Teclado Mecánico,4,300.0
-F25-0268,Monitor 24p,9,1620.0
-F25-0268,Cable HDMI 2m,1,12.99
-F25-0269,Mouse Ergonómico,9,229.5
-F25-0269,Teclado Mecánico,3,225.0
-F25-0269,Mouse Ergonómico,9,229.5
-F25-0269,Laptop Pro,1,1200.0
-F25-0269,Soporte Laptop,2,90.0
-F25-0270,Monitor 24p,10,1800.0
-F25-0270,Monitor 24p,8,1440.0
-F25-0270,Teclado Mecánico,6,450.0
-F25-0271,Soporte Laptop,6,270.0
-F25-0271,Teclado Mecánico,6,450.0
-F25-0271,Mouse Ergonómico,7,178.5
-F25-0271,Mouse Ergonómico,3,76.5
-F25-0272,Soporte Laptop,3,135.0
-F25-0272,Cable HDMI 2m,2,25.98
-F25-0272,Cable HDMI 2m,10,129.9
-F25-0273,Soporte Laptop,7,315.0
-F25-0273,Mouse Ergonómico,5,127.5
-F25-0273,Mouse Ergonómico,2,51.0
-F25-0273,Soporte Laptop,1,45.0
-F25-0273,Cable HDMI 2m,10,129.9
-F25-0274,Cable HDMI 2m,4,51.96
-F25-0274,Soporte Laptop,4,180.0
-F25-0274,Monitor 24p,5,900.0
-F25-0275,Teclado Mecánico,5,375.0
-F25-0275,Mouse Ergonómico,2,51.0
-F25-0275,Mouse Ergonómico,3,76.5
-F25-0276,Monitor 24p,6,1080.0
-F25-0276,Teclado Mecánico,8,600.0
-F25-0276,Soporte Laptop,10,450.0
-F25-0277,Mouse Ergonómico,1,25.5
-F25-0278,Soporte Laptop,6,270.0
-F25-0279,Soporte Laptop,3,135.0
-F25-0280,Cable HDMI 2m,7,90.93
-F25-0280,Monitor 24p,8,1440.0
-F25-0281,Monitor 24p,9,1620.0
-F25-0281,Monitor 24p,10,1800.0
-F25-0282,Cable HDMI 2m,7,90.93
-F25-0282,Teclado Mecánico,9,675.0
-F25-0282,Cable HDMI 2m,8,103.92
-F25-0283,Cable HDMI 2m,10,129.9
-F25-0283,Monitor 24p,3,540.0
-F25-0283,Laptop Pro,8,9600.0
-F25-0283,Mouse Ergonómico,4,102.0
-F25-0283,Mouse Ergonómico,8,204.0
-F25-0284,Monitor 24p,4,720.0
-F25-0284,Laptop Pro,7,8400.0
-F25-0284,Soporte Laptop,8,360.0
-F25-0284,Soporte Laptop,2,90.0
-F25-0284,Laptop Pro,1,1200.0
-F25-0285,Soporte Laptop,9,405.0
-F25-0286,Soporte Laptop,6,270.0
-F25-0286,Monitor 24p,10,1800.0
-F25-0287,Mouse Ergonómico,8,204.0
-F25-0287,Mouse Ergonómico,4,102.0
-F25-0287,Soporte Laptop,5,225.0
-F25-0287,Soporte Laptop,1,45.0
-F25-0288,Teclado Mecánico,2,150.0
-F25-0288,Teclado Mecánico,2,150.0
-F25-0288,Soporte Laptop,9,405.0
-F25-0288,Laptop Pro,10,12000.0
-F25-0288,Cable HDMI 2m,1,12.99
-F25-0289,Teclado Mecánico,10,750.0
-F25-0290,Soporte Laptop,7,315.0
-F25-0290,Mouse Ergonómico,5,127.5
-F25-0290,Mouse Ergonómico,3,76.5
-F25-0290,Teclado Mecánico,6,450.0
-F25-0290,Laptop Pro,2,2400.0
-F25-0291,Cable HDMI 2m,6,77.94
-F25-0291,Monitor 24p,5,900.0
-F25-0291,Mouse Ergonómico,3,76.5
-F25-0291,Mouse Ergonómico,3,76.5
-F25-0292,Mouse Ergonómico,3,76.5
-F25-0292,Mouse Ergonómico,2,51.0
-F25-0292,Teclado Mecánico,3,225.0
-F25-0292,Soporte Laptop,10,450.0
-F25-0292,Monitor 24p,4,720.0
-F25-0293,Soporte Laptop,10,450.0
-F25-0293,Monitor 24p,4,720.0
-F25-0293,Laptop Pro,8,9600.0
-F25-0293,Soporte Laptop,9,405.0
-F25-0293,Monitor 24p,10,1800.0
-F25-0294,Monitor 24p,5,900.0
-F25-0295,Mouse Ergonómico,6,153.0
-F25-0295,Mouse Ergonómico,8,204.0
-F25-0296,Cable HDMI 2m,5,64.95
-F25-0296,Laptop Pro,9,10800.0
-F25-0296,Mouse Ergonómico,9,229.5
-F25-0297,Cable HDMI 2m,4,51.96
-F25-0297,Teclado Mecánico,2,150.0
-F25-0298,Mouse Ergonómico,3,76.5
-F25-0298,Cable HDMI 2m,6,77.94
-F25-0298,Teclado Mecánico,10,750.0
-F25-0298,Monitor 24p,8,1440.0
-F25-0299,Soporte Laptop,5,225.0
-F25-0300,Teclado Mecánico,7,525.0
-F25-0301,Laptop Pro,9,10800.0
-F25-0301,Soporte Laptop,5,225.0
-F25-0302,Cable HDMI 2m,10,129.9
-F25-0302,Cable HDMI 2m,9,116.91
-F25-0303,Cable HDMI 2m,10,129.9
-F25-0303,Monitor 24p,6,1080.0
-F25-0303,Monitor 24p,7,1260.0
-F25-0304,Laptop Pro,5,6000.0
-F25-0304,Mouse Ergonómico,1,25.5
-F25-0305,Laptop Pro,2,2400.0
-F25-0305,Laptop Pro,7,8400.0
-F25-0306,Teclado Mecánico,1,75.0
-F25-0306,Monitor 24p,9,1620.0
-F25-0306,Teclado Mecánico,9,675.0
-F25-0306,Laptop Pro,9,10800.0
-F25-0307,Cable HDMI 2m,4,51.96
-F25-0307,Monitor 24p,1,180.0
-F25-0307,Cable HDMI 2m,2,25.98
-F25-0307,Mouse Ergonómico,9,229.5
-F25-0308,Soporte Laptop,1,45.0
-F25-0308,Laptop Pro,7,8400.0
-F25-0308,Cable HDMI 2m,3,38.97
-F25-0309,Laptop Pro,3,3600.0
-F25-0309,Laptop Pro,6,7200.0
-F25-0309,Laptop Pro,2,2400.0
-F25-0309,Mouse Ergonómico,9,229.5
-F25-0309,Monitor 24p,7,1260.0
-F25-0310,Mouse Ergonómico,3,76.5
-F25-0310,Soporte Laptop,8,360.0
-F25-0311,Monitor 24p,10,1800.0
-F25-0311,Monitor 24p,5,900.0
-F25-0311,Laptop Pro,5,6000.0
-F25-0311,Laptop Pro,3,3600.0
-F25-0312,Teclado Mecánico,9,675.0
-F25-0312,Mouse Ergonómico,1,25.5
-F25-0312,Monitor 24p,10,1800.0
-F25-0313,Teclado Mecánico,2,150.0
-F25-0313,Soporte Laptop,7,315.0
-F25-0314,Monitor 24p,10,1800.0
-F25-0314,Monitor 24p,1,180.0
-F25-0314,Laptop Pro,5,6000.0
-F25-0315,Teclado Mecánico,2,150.0
-F25-0316,Teclado Mecánico,4,300.0
-F25-0316,Teclado Mecánico,7,525.0
-F25-0317,Cable HDMI 2m,10,129.9
-F25-0317,Teclado Mecánico,5,375.0
-F25-0317,Teclado Mecánico,2,150.0
-F25-0317,Teclado Mecánico,10,750.0
-F25-0317,Mouse Ergonómico,1,25.5
-F25-0318,Mouse Ergonómico,7,178.5
-F25-0318,Soporte Laptop,10,450.0
-F25-0318,Soporte Laptop,6,270.0
-F25-0318,Teclado Mecánico,10,750.0
-F25-0319,Laptop Pro,1,1200.0
-F25-0320,Cable HDMI 2m,1,12.99
-F25-0321,Laptop Pro,9,10800.0
-F25-0321,Cable HDMI 2m,1,12.99
-F25-0321,Laptop Pro,3,3600.0
-F25-0322,Monitor 24p,1,180.0
-F25-0323,Cable HDMI 2m,2,25.98
-F25-0323,Monitor 24p,7,1260.0
-F25-0324,Soporte Laptop,6,270.0
-F25-0324,Laptop Pro,5,6000.0
-F25-0325,Teclado Mecánico,6,450.0
-F25-0325,Soporte Laptop,4,180.0
-F25-0326,Laptop Pro,5,6000.0
-F25-0327,Monitor 24p,5,900.0
-F25-0328,Soporte Laptop,2,90.0
-F25-0329,Soporte Laptop,5,225.0
-F25-0329,Soporte Laptop,10,450.0
-F25-0329,Laptop Pro,2,2400.0
-F25-0329,Laptop Pro,5,6000.0
-F25-0329,Mouse Ergonómico,9,229.5
-F25-0330,Laptop Pro,9,10800.0
-F25-0331,Cable HDMI 2m,2,25.98
-F25-0331,Teclado Mecánico,9,675.0
-F25-0331,Mouse Ergonómico,2,51.0
-F25-0332,Cable HDMI 2m,10,129.9
-F25-0332,Cable HDMI 2m,9,116.91
-F25-0332,Monitor 24p,1,180.0
-F25-0333,Soporte Laptop,1,45.0
-F25-0333,Soporte Laptop,10,450.0
-F25-0333,Monitor 24p,5,900.0
-F25-0333,Teclado Mecánico,8,600.0
-F25-0333,Monitor 24p,2,360.0
-F25-0334,Teclado Mecánico,2,150.0
-F25-0334,Monitor 24p,6,1080.0
-F25-0334,Cable HDMI 2m,7,90.93
-F25-0335,Laptop Pro,6,7200.0
-F25-0335,Mouse Ergonómico,6,153.0
-F25-0335,Teclado Mecánico,10,750.0
-F25-0335,Mouse Ergonómico,10,255.0
-F25-0335,Mouse Ergonómico,9,229.5
-F25-0336,Teclado Mecánico,7,525.0
-F25-0336,Soporte Laptop,4,180.0
-F25-0336,Mouse Ergonómico,9,229.5
-F25-0336,Mouse Ergonómico,4,102.0
-F25-0336,Cable HDMI 2m,7,90.93
-F25-0337,Teclado Mecánico,3,225.0
-F25-0337,Cable HDMI 2m,1,12.99
-F25-0337,Monitor 24p,4,720.0
-F25-0338,Mouse Ergonómico,10,255.0
-F25-0338,Cable HDMI 2m,4,51.96
-F25-0338,Cable HDMI 2m,6,77.94
-F25-0338,Mouse Ergonómico,8,204.0
-F25-0339,Laptop Pro,7,8400.0
-F25-0340,Monitor 24p,6,1080.0
-F25-0340,Mouse Ergonómico,1,25.5
-F25-0341,Cable HDMI 2m,3,38.97
-F25-0342,Monitor 24p,1,180.0
-F25-0343,Mouse Ergonómico,5,127.5
-F25-0343,Mouse Ergonómico,9,229.5
-F25-0343,Cable HDMI 2m,7,90.93
-F25-0343,Monitor 24p,3,540.0
-F25-0344,Laptop Pro,9,10800.0
-F25-0344,Cable HDMI 2m,10,129.9
-F25-0344,Laptop Pro,7,8400.0
-F25-0345,Cable HDMI 2m,1,12.99
-F25-0345,Mouse Ergonómico,10,255.0
-F25-0345,Cable HDMI 2m,7,90.93
-F25-0346,Teclado Mecánico,4,300.0
-F25-0346,Soporte Laptop,1,45.0
-F25-0346,Cable HDMI 2m,4,51.96
-F25-0347,Monitor 24p,3,540.0
-F25-0347,Laptop Pro,1,1200.0
-F25-0347,Cable HDMI 2m,3,38.97
-F25-0348,Monitor 24p,3,540.0
-F25-0348,Teclado Mecánico,7,525.0
-F25-0348,Mouse Ergonómico,9,229.5
-F25-0349,Laptop Pro,8,9600.0
-F25-0350,Cable HDMI 2m,3,38.97
-F25-0350,Teclado Mecánico,5,375.0
-F25-0350,Cable HDMI 2m,5,64.95
-F25-0350,Cable HDMI 2m,2,25.98
-F25-0350,Monitor 24p,4,720.0
-F25-0351,Monitor 24p,1,180.0
-F25-0351,Mouse Ergonómico,3,76.5
-F25-0352,Monitor 24p,1,180.0
-F25-0352,Laptop Pro,5,6000.0
-F25-0352,Mouse Ergonómico,10,255.0
-F25-0352,Cable HDMI 2m,6,77.94
-F25-0353,Laptop Pro,9,10800.0
-F25-0353,Teclado Mecánico,4,300.0
-F25-0353,Laptop Pro,6,7200.0
-F25-0353,Teclado Mecánico,5,375.0
-F25-0353,Cable HDMI 2m,8,103.92
-F25-0354,Cable HDMI 2m,10,129.9
-F25-0354,Laptop Pro,5,6000.0
-F25-0354,Laptop Pro,10,12000.0
-F25-0354,Cable HDMI 2m,5,64.95
-F25-0354,Monitor 24p,10,1800.0
-F25-0355,Cable HDMI 2m,8,103.92
-F25-0355,Teclado Mecánico,1,75.0
-F25-0356,Cable HDMI 2m,7,90.93
-F25-0356,Soporte Laptop,6,270.0
-F25-0357,Soporte Laptop,10,450.0
-F25-0357,Mouse Ergonómico,4,102.0
-F25-0358,Laptop Pro,5,6000.0
-F25-0358,Cable HDMI 2m,6,77.94
-F25-0358,Mouse Ergonómico,1,25.5
-F25-0358,Cable HDMI 2m,5,64.95
-F25-0359,Laptop Pro,8,9600.0
-F25-0359,Soporte Laptop,2,90.0
-F25-0359,Teclado Mecánico,3,225.0
-F25-0359,Mouse Ergonómico,7,178.5
-F25-0359,Mouse Ergonómico,5,127.5
-F25-0360,Soporte Laptop,8,360.0
-F25-0360,Laptop Pro,5,6000.0
-F25-0361,Soporte Laptop,9,405.0
-F25-0361,Mouse Ergonómico,7,178.5
-F25-0361,Mouse Ergonómico,9,229.5
-F25-0361,Teclado Mecánico,1,75.0
-F25-0362,Soporte Laptop,10,450.0
-F25-0362,Monitor 24p,9,1620.0
-F25-0363,Monitor 24p,6,1080.0
-F25-0363,Soporte Laptop,7,315.0
-F25-0364,Teclado Mecánico,8,600.0
-F25-0364,Monitor 24p,3,540.0
-F25-0364,Teclado Mecánico,6,450.0
-F25-0364,Monitor 24p,2,360.0
-F25-0365,Monitor 24p,7,1260.0
-F25-0365,Soporte Laptop,5,225.0
-F25-0366,Mouse Ergonómico,7,178.5
-F25-0367,Cable HDMI 2m,10,129.9
-F25-0367,Laptop Pro,6,7200.0
-F25-0367,Teclado Mecánico,5,375.0
-F25-0367,Teclado Mecánico,3,225.0
-F25-0367,Soporte Laptop,8,360.0
-F25-0368,Teclado Mecánico,7,525.0
-F25-0369,Cable HDMI 2m,1,12.99
-F25-0370,Teclado Mecánico,7,525.0
-F25-0370,Monitor 24p,2,360.0
-F25-0370,Cable HDMI 2m,3,38.97
-F25-0371,Cable HDMI 2m,10,129.9
-F25-0372,Cable HDMI 2m,6,77.94
-F25-0372,Soporte Laptop,8,360.0
-F25-0372,Teclado Mecánico,7,525.0
-F25-0372,Cable HDMI 2m,9,116.91
-F25-0373,Soporte Laptop,2,90.0
-F25-0373,Cable HDMI 2m,8,103.92
-F25-0373,Laptop Pro,5,6000.0
-F25-0373,Mouse Ergonómico,4,102.0
-F25-0373,Cable HDMI 2m,8,103.92
-F25-0374,Monitor 24p,1,180.0
-F25-0374,Soporte Laptop,2,90.0
-F25-0374,Laptop Pro,9,10800.0
-F25-0374,Soporte Laptop,6,270.0
-F25-0375,Monitor 24p,3,540.0
-F25-0375,Mouse Ergonómico,4,102.0
-F25-0375,Laptop Pro,8,9600.0
-F25-0375,Cable HDMI 2m,10,129.9
-F25-0375,Monitor 24p,2,360.0
-F25-0376,Teclado Mecánico,10,750.0
-F25-0376,Monitor 24p,4,720.0
-F25-0376,Teclado Mecánico,9,675.0
-F25-0377,Monitor 24p,9,1620.0
-F25-0377,Soporte Laptop,8,360.0
-F25-0377,Monitor 24p,7,1260.0
-F25-0377,Soporte Laptop,6,270.0
-F25-0378,Teclado Mecánico,8,600.0
-F25-0379,Mouse Ergonómico,8,204.0
-F25-0379,Teclado Mecánico,3,225.0
-F25-0379,Monitor 24p,7,1260.0
-F25-0380,Mouse Ergonómico,1,25.5
-F25-0380,Soporte Laptop,8,360.0
-F25-0380,Cable HDMI 2m,7,90.93
-F25-0380,Monitor 24p,6,1080.0
-F25-0380,Monitor 24p,1,180.0
-F25-0381,Teclado Mecánico,4,300.0
-F25-0381,Monitor 24p,8,1440.0
-F25-0382,Teclado Mecánico,9,675.0
-F25-0382,Monitor 24p,9,1620.0
-F25-0382,Laptop Pro,7,8400.0
-F25-0382,Monitor 24p,1,180.0
-F25-0383,Soporte Laptop,9,405.0
-F25-0384,Monitor 24p,8,1440.0
-F25-0384,Soporte Laptop,2,90.0
-F25-0384,Cable HDMI 2m,1,12.99
-F25-0385,Monitor 24p,2,360.0
-F25-0386,Monitor 24p,2,360.0
-F25-0386,Teclado Mecánico,5,375.0
-F25-0386,Teclado Mecánico,2,150.0
-F25-0387,Teclado Mecánico,4,300.0
-F25-0387,Mouse Ergonómico,7,178.5
-F25-0388,Mouse Ergonómico,3,76.5
-F25-0388,Mouse Ergonómico,10,255.0
-F25-0388,Soporte Laptop,5,225.0
-F25-0388,Monitor 24p,2,360.0
-F25-0389,Soporte Laptop,6,270.0
-F25-0390,Cable HDMI 2m,4,51.96
-F25-0391,Cable HDMI 2m,1,12.99
-F25-0391,Mouse Ergonómico,6,153.0
-F25-0391,Teclado Mecánico,9,675.0
-F25-0391,Soporte Laptop,3,135.0
-F25-0391,Monitor 24p,4,720.0
-F25-0392,Mouse Ergonómico,5,127.5
-F25-0393,Laptop Pro,3,3600.0
-F25-0393,Mouse Ergonómico,7,178.5
-F25-0393,Teclado Mecánico,8,600.0
-F25-0393,Cable HDMI 2m,10,129.9
-F25-0394,Laptop Pro,9,10800.0
-F25-0394,Laptop Pro,1,1200.0
-F25-0394,Laptop Pro,6,7200.0
-F25-0394,Cable HDMI 2m,4,51.96
-F25-0395,Cable HDMI 2m,3,38.97
-F25-0396,Teclado Mecánico,4,300.0
-F25-0396,Mouse Ergonómico,5,127.5
-F25-0396,Mouse Ergonómico,10,255.0
-F25-0396,Soporte Laptop,10,450.0
-F25-0397,Laptop Pro,10,12000.0
-F25-0397,Teclado Mecánico,2,150.0
-F25-0397,Laptop Pro,7,8400.0
-F25-0398,Teclado Mecánico,4,300.0
-F25-0399,Teclado Mecánico,7,525.0
-F25-0399,Soporte Laptop,8,360.0
-F25-0399,Laptop Pro,8,9600.0
-F25-0399,Laptop Pro,2,2400.0
-F25-0400,Monitor 24p,3,540.0
-F25-0400,Soporte Laptop,3,135.0
-F25-0400,Mouse Ergonómico,6,153.0
-F25-0400,Monitor 24p,8,1440.0
-F25-0401,Mouse Ergonómico,2,51.0
-F25-0401,Laptop Pro,9,10800.0
-F25-0402,Mouse Ergonómico,2,51.0
-F25-0402,Teclado Mecánico,3,225.0
-F25-0402,Teclado Mecánico,8,600.0
-F25-0402,Teclado Mecánico,1,75.0
-F25-0402,Mouse Ergonómico,5,127.5
-F25-0403,Cable HDMI 2m,2,25.98
-F25-0403,Soporte Laptop,3,135.0
-F25-0403,Mouse Ergonómico,6,153.0
-F25-0403,Laptop Pro,5,6000.0
-F25-0403,Monitor 24p,8,1440.0
-F25-0404,Mouse Ergonómico,3,76.5
-F25-0404,Laptop Pro,1,1200.0
-F25-0404,Teclado Mecánico,10,750.0
-F25-0404,Laptop Pro,2,2400.0
-F25-0405,Laptop Pro,6,7200.0
-F25-0405,Cable HDMI 2m,9,116.91
-F25-0406,Teclado Mecánico,1,75.0
-F25-0406,Laptop Pro,9,10800.0
-F25-0406,Mouse Ergonómico,9,229.5
-F25-0406,Laptop Pro,7,8400.0
-F25-0407,Soporte Laptop,1,45.0
-F25-0407,Monitor 24p,4,720.0
-F25-0408,Cable HDMI 2m,9,116.91
-F25-0408,Teclado Mecánico,2,150.0
-F25-0408,Mouse Ergonómico,5,127.5
-F25-0409,Cable HDMI 2m,7,90.93
-F25-0410,Monitor 24p,2,360.0
-F25-0411,Laptop Pro,9,10800.0
-F25-0411,Cable HDMI 2m,3,38.97
-F25-0411,Soporte Laptop,9,405.0
-F25-0411,Mouse Ergonómico,3,76.5
-F25-0411,Soporte Laptop,9,405.0
-F25-0412,Teclado Mecánico,9,675.0
-F25-0412,Monitor 24p,1,180.0
-F25-0412,Soporte Laptop,8,360.0
-F25-0412,Monitor 24p,5,900.0
-F25-0413,Monitor 24p,5,900.0
-F25-0413,Soporte Laptop,8,360.0
-F25-0413,Laptop Pro,6,7200.0
-F25-0414,Mouse Ergonómico,1,25.5
-F25-0414,Monitor 24p,8,1440.0
-F25-0415,Teclado Mecánico,6,450.0
-F25-0415,Cable HDMI 2m,7,90.93
-F25-0415,Monitor 24p,10,1800.0
-F25-0415,Teclado Mecánico,9,675.0
-F25-0415,Monitor 24p,4,720.0
-F25-0416,Laptop Pro,5,6000.0
-F25-0416,Laptop Pro,1,1200.0
-F25-0416,Monitor 24p,8,1440.0
-F25-0416,Laptop Pro,4,4800.0
-F25-0417,Teclado Mecánico,2,150.0
-F25-0417,Cable HDMI 2m,1,12.99
-F25-0417,Cable HDMI 2m,2,25.98
-F25-0417,Teclado Mecánico,4,300.0
-F25-0417,Teclado Mecánico,2,150.0
-F25-0418,Mouse Ergonómico,8,204.0
-F25-0418,Teclado Mecánico,9,675.0
-F25-0418,Cable HDMI 2m,8,103.92
-F25-0418,Mouse Ergonómico,3,76.5
-F25-0418,Soporte Laptop,6,270.0
-F25-0419,Mouse Ergonómico,1,25.5
-F25-0419,Laptop Pro,4,4800.0
-F25-0419,Cable HDMI 2m,7,90.93
-F25-0420,Soporte Laptop,5,225.0
-F25-0420,Monitor 24p,8,1440.0
-F25-0420,Mouse Ergonómico,1,25.5
-F25-0420,Laptop Pro,9,10800.0
-F25-0421,Cable HDMI 2m,6,77.94
-F25-0421,Teclado Mecánico,6,450.0
-F25-0421,Mouse Ergonómico,8,204.0
-F25-0421,Monitor 24p,3,540.0
-F25-0421,Monitor 24p,3,540.0
-F25-0422,Laptop Pro,1,1200.0
-F25-0423,Soporte Laptop,7,315.0
-F25-0424,Monitor 24p,5,900.0
-F25-0424,Mouse Ergonómico,9,229.5
-F25-0424,Laptop Pro,4,4800.0
-F25-0425,Monitor 24p,2,360.0
-F25-0425,Monitor 24p,10,1800.0
-F25-0425,Soporte Laptop,7,315.0
-F25-0425,Teclado Mecánico,3,225.0
-F25-0426,Monitor 24p,7,1260.0
-F25-0426,Cable HDMI 2m,2,25.98
-F25-0426,Cable HDMI 2m,1,12.99
-F25-0427,Soporte Laptop,7,315.0
-F25-0427,Cable HDMI 2m,9,116.91
-F25-0428,Mouse Ergonómico,10,255.0
-F25-0429,Teclado Mecánico,1,75.0
-F25-0429,Laptop Pro,1,1200.0
-F25-0429,Soporte Laptop,5,225.0
-F25-0429,Cable HDMI 2m,7,90.93
-F25-0429,Monitor 24p,6,1080.0
-F25-0430,Monitor 24p,8,1440.0
-F25-0430,Teclado Mecánico,7,525.0
-F25-0430,Cable HDMI 2m,3,38.97
-F25-0431,Soporte Laptop,5,225.0
-F25-0431,Cable HDMI 2m,7,90.93
-F25-0431,Soporte Laptop,7,315.0
-F25-0432,Monitor 24p,1,180.0
-F25-0433,Cable HDMI 2m,6,77.94
-F25-0433,Laptop Pro,6,7200.0
-F25-0433,Teclado Mecánico,2,150.0
-F25-0433,Monitor 24p,8,1440.0
-F25-0434,Mouse Ergonómico,5,127.5
-F25-0434,Teclado Mecánico,10,750.0
-F25-0434,Teclado Mecánico,10,750.0
-F25-0435,Teclado Mecánico,1,75.0
-F25-0436,Monitor 24p,1,180.0
-F25-0436,Soporte Laptop,9,405.0
-F25-0436,Cable HDMI 2m,7,90.93
-F25-0437,Laptop Pro,4,4800.0
-F25-0437,Soporte Laptop,10,450.0
-F25-0437,Soporte Laptop,5,225.0
-F25-0438,Laptop Pro,5,6000.0
-F25-0439,Teclado Mecánico,2,150.0
-F25-0439,Cable HDMI 2m,2,25.98
-F25-0439,Soporte Laptop,9,405.0
-F25-0439,Laptop Pro,3,3600.0
-F25-0440,Monitor 24p,7,1260.0
-F25-0440,Mouse Ergonómico,5,127.5
-F25-0441,Cable HDMI 2m,9,116.91
-F25-0442,Laptop Pro,4,4800.0
-F25-0442,Cable HDMI 2m,7,90.93
-F25-0442,Soporte Laptop,3,135.0
-F25-0442,Monitor 24p,1,180.0
-F25-0443,Teclado Mecánico,8,600.0
-F25-0443,Teclado Mecánico,2,150.0
-F25-0444,Cable HDMI 2m,7,90.93
-F25-0444,Mouse Ergonómico,1,25.5
-F25-0444,Cable HDMI 2m,4,51.96
-F25-0444,Mouse Ergonómico,1,25.5
-F25-0445,Laptop Pro,6,7200.0
-F25-0445,Soporte Laptop,10,450.0
-F25-0446,Monitor 24p,3,540.0
-F25-0447,Teclado Mecánico,6,450.0
-F25-0447,Cable HDMI 2m,3,38.97
-F25-0447,Cable HDMI 2m,1,12.99
-F25-0448,Teclado Mecánico,1,75.0
-F25-0448,Soporte Laptop,2,90.0
-F25-0449,Cable HDMI 2m,3,38.97
-F25-0449,Laptop Pro,6,7200.0
-F25-0449,Teclado Mecánico,10,750.0
-F25-0450,Mouse Ergonómico,6,153.0
-F25-0450,Monitor 24p,10,1800.0
-F25-0450,Cable HDMI 2m,2,25.98
-F25-0451,Soporte Laptop,8,360.0
-F25-0451,Cable HDMI 2m,10,129.9
-F25-0451,Laptop Pro,1,1200.0
-F25-0451,Mouse Ergonómico,2,51.0
-F25-0451,Mouse Ergonómico,2,51.0
-F25-0452,Soporte Laptop,4,180.0
-F25-0452,Teclado Mecánico,10,750.0
-F25-0452,Soporte Laptop,2,90.0
-F25-0452,Monitor 24p,9,1620.0
-F25-0452,Laptop Pro,10,12000.0
-F25-0453,Teclado Mecánico,1,75.0
-F25-0453,Teclado Mecánico,1,75.0
-F25-0454,Monitor 24p,7,1260.0
-F25-0454,Teclado Mecánico,9,675.0
-F25-0454,Mouse Ergonómico,5,127.5
-F25-0454,Laptop Pro,9,10800.0
-F25-0455,Laptop Pro,10,12000.0
-F25-0455,Teclado Mecánico,5,375.0
-F25-0456,Cable HDMI 2m,10,129.9
-F25-0456,Laptop Pro,7,8400.0
-F25-0456,Cable HDMI 2m,4,51.96
-F25-0456,Monitor 24p,3,540.0
-F25-0457,Laptop Pro,2,2400.0
-F25-0457,Mouse Ergonómico,5,127.5
-F25-0457,Soporte Laptop,2,90.0
-F25-0457,Monitor 24p,9,1620.0
-F25-0458,Monitor 24p,2,360.0
-F25-0458,Monitor 24p,6,1080.0
-F25-0458,Laptop Pro,8,9600.0
-F25-0458,Soporte Laptop,9,405.0
-F25-0458,Teclado Mecánico,10,750.0
-F25-0459,Teclado Mecánico,5,375.0
-F25-0459,Soporte Laptop,5,225.0
-F25-0459,Soporte Laptop,1,45.0
-F25-0460,Monitor 24p,1,180.0
-F25-0460,Mouse Ergonómico,2,51.0
-F25-0461,Cable HDMI 2m,1,12.99
-F25-0461,Monitor 24p,9,1620.0
-F25-0461,Teclado Mecánico,4,300.0
-F25-0462,Teclado Mecánico,7,525.0
-F25-0462,Mouse Ergonómico,4,102.0
-F25-0462,Monitor 24p,2,360.0
-F25-0463,Laptop Pro,10,12000.0
-F25-0463,Cable HDMI 2m,1,12.99
-F25-0463,Monitor 24p,7,1260.0
-F25-0464,Cable HDMI 2m,8,103.92
-F25-0464,Cable HDMI 2m,5,64.95
-F25-0464,Cable HDMI 2m,3,38.97
-F25-0464,Monitor 24p,1,180.0
-F25-0465,Soporte Laptop,4,180.0
-F25-0465,Monitor 24p,4,720.0
-F25-0465,Mouse Ergonómico,10,255.0
-F25-0465,Teclado Mecánico,8,600.0
-F25-0466,Laptop Pro,5,6000.0
-F25-0466,Soporte Laptop,1,45.0
-F25-0467,Mouse Ergonómico,9,229.5
-F25-0467,Cable HDMI 2m,1,12.99
-F25-0467,Laptop Pro,8,9600.0
-F25-0468,Cable HDMI 2m,4,51.96
-F25-0468,Cable HDMI 2m,10,129.9
-F25-0469,Cable HDMI 2m,6,77.94
-F25-0469,Cable HDMI 2m,4,51.96
-F25-0469,Soporte Laptop,2,90.0
-F25-0469,Laptop Pro,7,8400.0
-F25-0470,Mouse Ergonómico,6,153.0
-F25-0471,Laptop Pro,3,3600.0
-F25-0471,Mouse Ergonómico,9,229.5
-F25-0471,Teclado Mecánico,3,225.0
-F25-0471,Laptop Pro,3,3600.0
-F25-0472,Soporte Laptop,1,45.0
-F25-0472,Mouse Ergonómico,5,127.5
-F25-0472,Monitor 24p,8,1440.0
-F25-0472,Cable HDMI 2m,6,77.94
-F25-0473,Teclado Mecánico,7,525.0
-F25-0473,Soporte Laptop,3,135.0
-F25-0473,Monitor 24p,9,1620.0
-F25-0473,Teclado Mecánico,3,225.0
-F25-0473,Monitor 24p,3,540.0
-F25-0474,Soporte Laptop,8,360.0
-F25-0474,Mouse Ergonómico,4,102.0
-F25-0474,Teclado Mecánico,4,300.0
-F25-0474,Mouse Ergonómico,8,204.0
-F25-0475,Soporte Laptop,10,450.0
-F25-0475,Laptop Pro,10,12000.0
-F25-0475,Monitor 24p,8,1440.0
-F25-0475,Teclado Mecánico,10,750.0
-F25-0475,Soporte Laptop,4,180.0
-F25-0476,Soporte Laptop,3,135.0
-F25-0476,Teclado Mecánico,4,300.0
-F25-0476,Laptop Pro,3,3600.0
-F25-0476,Laptop Pro,10,12000.0
-F25-0477,Monitor 24p,3,540.0
-F25-0477,Monitor 24p,5,900.0
-F25-0478,Mouse Ergonómico,9,229.5
-F25-0478,Mouse Ergonómico,2,51.0
-F25-0478,Monitor 24p,8,1440.0
-F25-0478,Soporte Laptop,8,360.0
-F25-0479,Soporte Laptop,5,225.0
-F25-0480,Mouse Ergonómico,10,255.0
-F25-0480,Cable HDMI 2m,2,25.98
-F25-0480,Monitor 24p,10,1800.0
-F25-0481,Cable HDMI 2m,6,77.94
-F25-0481,Teclado Mecánico,6,450.0
-F25-0481,Laptop Pro,9,10800.0
-F25-0482,Soporte Laptop,7,315.0
-F25-0483,Teclado Mecánico,1,75.0
-F25-0483,Laptop Pro,5,6000.0
-F25-0483,Mouse Ergonómico,3,76.5
-F25-0484,Soporte Laptop,5,225.0
-F25-0484,Laptop Pro,8,9600.0
-F25-0485,Laptop Pro,7,8400.0
-F25-0485,Mouse Ergonómico,2,51.0
-F25-0485,Cable HDMI 2m,8,103.92
-F25-0486,Teclado Mecánico,2,150.0
-F25-0486,Mouse Ergonómico,1,25.5
-F25-0486,Laptop Pro,7,8400.0
-F25-0487,Laptop Pro,8,9600.0
-F25-0487,Soporte Laptop,3,135.0
-F25-0487,Laptop Pro,10,12000.0
-F25-0487,Laptop Pro,3,3600.0
-F25-0488,Soporte Laptop,1,45.0
-F25-0488,Monitor 24p,2,360.0
-F25-0488,Monitor 24p,4,720.0
-F25-0488,Monitor 24p,5,900.0
-F25-0489,Soporte Laptop,1,45.0
-F25-0490,Soporte Laptop,3,135.0
-F25-0490,Laptop Pro,8,9600.0
-F25-0490,Teclado Mecánico,6,450.0
-F25-0491,Monitor 24p,7,1260.0
-F25-0491,Monitor 24p,2,360.0
-F25-0491,Soporte Laptop,2,90.0
-F25-0491,Mouse Ergonómico,3,76.5
-F25-0492,Teclado Mecánico,5,375.0
-F25-0492,Cable HDMI 2m,8,103.92
-F25-0492,Teclado Mecánico,10,750.0
-F25-0493,Soporte Laptop,8,360.0
-F25-0493,Mouse Ergonómico,7,178.5
-F25-0493,Laptop Pro,4,4800.0
-F25-0493,Mouse Ergonómico,7,178.5
-F25-0493,Cable HDMI 2m,2,25.98
-F25-0494,Soporte Laptop,8,360.0
-F25-0494,Teclado Mecánico,4,300.0
-F25-0494,Teclado Mecánico,1,75.0
-F25-0494,Teclado Mecánico,10,750.0
-F25-0494,Teclado Mecánico,1,75.0
-F25-0495,Laptop Pro,2,2400.0
-F25-0495,Teclado Mecánico,6,450.0
-F25-0495,Mouse Ergonómico,10,255.0
-F25-0495,Laptop Pro,9,10800.0
-F25-0496,Monitor 24p,4,720.0
-F25-0496,Mouse Ergonómico,2,51.0
-F25-0496,Laptop Pro,10,12000.0
-F25-0497,Laptop Pro,1,1200.0
-F25-0497,Monitor 24p,1,180.0
-F25-0497,Laptop Pro,10,12000.0
-F25-0497,Cable HDMI 2m,1,12.99
-F25-0498,Soporte Laptop,9,405.0
-F25-0498,Soporte Laptop,1,45.0
-F25-0498,Monitor 24p,6,1080.0
-F25-0499,Laptop Pro,9,10800.0
-F25-0499,Teclado Mecánico,9,675.0
-F25-0499,Laptop Pro,2,2400.0
-F25-0499,Laptop Pro,5,6000.0
-F25-0499,Cable HDMI 2m,6,77.94
-F25-0500,Mouse Ergonómico,10,255.0
-F25-0500,Cable HDMI 2m,3,38.97
-F25-0501,Teclado Mecánico,2,150.0
-F25-0501,Monitor 24p,7,1260.0
-F25-0501,Mouse Ergonómico,9,229.5
-F25-0502,Soporte Laptop,1,45.0
-F25-0502,Teclado Mecánico,6,450.0
-F25-0502,Soporte Laptop,10,450.0
-F25-0502,Cable HDMI 2m,7,90.93
-F25-0502,Mouse Ergonómico,4,102.0
-F25-0503,Mouse Ergonómico,9,229.5
-F25-0503,Laptop Pro,9,10800.0
-F25-0503,Monitor 24p,1,180.0
-F25-0503,Teclado Mecánico,3,225.0
-F25-0504,Teclado Mecánico,3,225.0
-F25-0505,Teclado Mecánico,3,225.0
-F25-0505,Soporte Laptop,3,135.0
-F25-0506,Mouse Ergonómico,1,25.5
-F25-0506,Mouse Ergonómico,5,127.5
-F25-0506,Soporte Laptop,4,180.0
-F25-0506,Monitor 24p,1,180.0
-F25-0506,Monitor 24p,4,720.0
-F25-0507,Monitor 24p,8,1440.0
-F25-0507,Soporte Laptop,5,225.0
-F25-0508,Cable HDMI 2m,7,90.93
-F25-0508,Teclado Mecánico,5,375.0
-F25-0508,Monitor 24p,10,1800.0
-F25-0509,Teclado Mecánico,1,75.0
-F25-0509,Laptop Pro,2,2400.0
-F25-0509,Laptop Pro,1,1200.0
-F25-0509,Mouse Ergonómico,6,153.0
-F25-0510,Laptop Pro,4,4800.0
-F25-0510,Teclado Mecánico,10,750.0
-F25-0511,Laptop Pro,7,8400.0
-F25-0511,Mouse Ergonómico,6,153.0
-F25-0512,Soporte Laptop,4,180.0
-F25-0512,Teclado Mecánico,7,525.0
-F25-0512,Monitor 24p,1,180.0
-F25-0513,Soporte Laptop,10,450.0
-F25-0513,Soporte Laptop,6,270.0
-F25-0513,Cable HDMI 2m,8,103.92
-F25-0514,Soporte Laptop,9,405.0
-F25-0514,Monitor 24p,3,540.0
-F25-0514,Monitor 24p,3,540.0
-F25-0514,Teclado Mecánico,7,525.0
-F25-0514,Monitor 24p,5,900.0
-F25-0515,Teclado Mecánico,3,225.0
-F25-0515,Soporte Laptop,2,90.0
-F25-0515,Monitor 24p,7,1260.0
-F25-0515,Cable HDMI 2m,2,25.98
-F25-0515,Teclado Mecánico,5,375.0
-F25-0516,Mouse Ergonómico,8,204.0
-F25-0516,Cable HDMI 2m,4,51.96
-F25-0516,Laptop Pro,9,10800.0
-F25-0516,Cable HDMI 2m,7,90.93
-F25-0517,Monitor 24p,9,1620.0
-F25-0517,Laptop Pro,10,12000.0
-F25-0517,Monitor 24p,6,1080.0
-F25-0518,Monitor 24p,9,1620.0
-F25-0519,Teclado Mecánico,2,150.0
-F25-0519,Teclado Mecánico,4,300.0
-F25-0520,Soporte Laptop,7,315.0
-F25-0520,Soporte Laptop,8,360.0
-F25-0520,Soporte Laptop,6,270.0
-F25-0520,Cable HDMI 2m,9,116.91
-F25-0520,Mouse Ergonómico,6,153.0
-F25-0521,Soporte Laptop,6,270.0
-F25-0521,Teclado Mecánico,2,150.0
-F25-0521,Teclado Mecánico,2,150.0
-F25-0521,Laptop Pro,8,9600.0
-F25-0521,Monitor 24p,3,540.0
-F25-0522,Cable HDMI 2m,1,12.99
-F25-0522,Cable HDMI 2m,2,25.98
-F25-0523,Soporte Laptop,9,405.0
-F25-0523,Cable HDMI 2m,2,25.98
-F25-0523,Mouse Ergonómico,8,204.0
-F25-0523,Teclado Mecánico,8,600.0
-F25-0523,Teclado Mecánico,10,750.0
-F25-0524,Soporte Laptop,5,225.0
-F25-0524,Monitor 24p,3,540.0
-F25-0524,Soporte Laptop,1,45.0
-F25-0525,Laptop Pro,5,6000.0
-F25-0525,Mouse Ergonómico,7,178.5
-F25-0525,Mouse Ergonómico,8,204.0
-F25-0525,Soporte Laptop,3,135.0
-F25-0526,Soporte Laptop,9,405.0
-F25-0526,Monitor 24p,8,1440.0
-F25-0527,Cable HDMI 2m,8,103.92
-F25-0528,Monitor 24p,2,360.0
-F25-0528,Cable HDMI 2m,8,103.92
-F25-0528,Laptop Pro,1,1200.0
-F25-0529,Mouse Ergonómico,9,229.5
-F25-0529,Cable HDMI 2m,10,129.9
-F25-0529,Soporte Laptop,5,225.0
-F25-0529,Cable HDMI 2m,9,116.91
-F25-0530,Monitor 24p,3,540.0
-F25-0530,Soporte Laptop,6,270.0
-F25-0530,Mouse Ergonómico,7,178.5
-F25-0531,Laptop Pro,5,6000.0
-F25-0531,Monitor 24p,2,360.0
-F25-0531,Soporte Laptop,4,180.0
-F25-0531,Monitor 24p,7,1260.0
-F25-0531,Mouse Ergonómico,3,76.5
-F25-0532,Soporte Laptop,10,450.0
-F25-0532,Laptop Pro,6,7200.0
-F25-0533,Mouse Ergonómico,1,25.5
-F25-0533,Cable HDMI 2m,8,103.92
-F25-0534,Laptop Pro,9,10800.0
-F25-0534,Laptop Pro,10,12000.0
-F25-0535,Soporte Laptop,4,180.0
-F25-0535,Mouse Ergonómico,1,25.5
-F25-0536,Mouse Ergonómico,8,204.0
-F25-0536,Mouse Ergonómico,3,76.5
-F25-0536,Teclado Mecánico,4,300.0
-F25-0537,Mouse Ergonómico,3,76.5
-F25-0537,Laptop Pro,2,2400.0
-F25-0537,Soporte Laptop,9,405.0
-F25-0538,Teclado Mecánico,5,375.0
-F25-0538,Cable HDMI 2m,5,64.95
-F25-0539,Teclado Mecánico,8,600.0
-F25-0539,Soporte Laptop,4,180.0
-F25-0539,Laptop Pro,1,1200.0
-F25-0539,Laptop Pro,5,6000.0
-F25-0539,Mouse Ergonómico,8,204.0
-F25-0540,Monitor 24p,3,540.0
-F25-0540,Teclado Mecánico,2,150.0
-F25-0540,Monitor 24p,2,360.0
-F25-0540,Laptop Pro,2,2400.0
-F25-0540,Teclado Mecánico,10,750.0
-F25-0541,Mouse Ergonómico,10,255.0
-F25-0541,Cable HDMI 2m,8,103.92
-F25-0541,Monitor 24p,10,1800.0
-F25-0541,Teclado Mecánico,7,525.0
-F25-0542,Cable HDMI 2m,6,77.94
-F25-0542,Monitor 24p,2,360.0
-F25-0542,Teclado Mecánico,2,150.0
-F25-0543,Teclado Mecánico,6,450.0
-F25-0543,Cable HDMI 2m,5,64.95
-F25-0543,Monitor 24p,3,540.0
-F25-0543,Teclado Mecánico,10,750.0
-F25-0543,Laptop Pro,1,1200.0
-F25-0544,Monitor 24p,9,1620.0
-F25-0544,Monitor 24p,2,360.0
-F25-0544,Soporte Laptop,8,360.0
-F25-0544,Laptop Pro,8,9600.0
-F25-0544,Teclado Mecánico,6,450.0
-F25-0545,Laptop Pro,9,10800.0
-F25-0545,Cable HDMI 2m,8,103.92
-F25-0545,Mouse Ergonómico,3,76.5
-F25-0545,Laptop Pro,5,6000.0
-F25-0545,Cable HDMI 2m,3,38.97
-F25-0546,Teclado Mecánico,7,525.0
-F25-0547,Soporte Laptop,8,360.0
-F25-0547,Soporte Laptop,1,45.0
-F25-0547,Monitor 24p,1,180.0
-F25-0547,Teclado Mecánico,10,750.0
-F25-0548,Monitor 24p,10,1800.0
-F25-0549,Mouse Ergonómico,3,76.5
-F25-0549,Monitor 24p,2,360.0
-F25-0549,Laptop Pro,9,10800.0
-F25-0550,Teclado Mecánico,9,675.0
-F25-0551,Mouse Ergonómico,5,127.5
-F25-0551,Teclado Mecánico,7,525.0
-F25-0552,Teclado Mecánico,5,375.0
-F25-0552,Laptop Pro,4,4800.0
-F25-0552,Mouse Ergonómico,4,102.0
-F25-0553,Laptop Pro,3,3600.0
-F25-0553,Monitor 24p,2,360.0
-F25-0553,Monitor 24p,4,720.0
-F25-0553,Teclado Mecánico,4,300.0
-F25-0553,Monitor 24p,2,360.0
-F25-0554,Cable HDMI 2m,4,51.96
-F25-0554,Soporte Laptop,9,405.0
-F25-0554,Monitor 24p,8,1440.0
-F25-0554,Teclado Mecánico,3,225.0
-F25-0554,Mouse Ergonómico,3,76.5
-F25-0555,Teclado Mecánico,7,525.0
-F25-0555,Monitor 24p,3,540.0
-F25-0555,Mouse Ergonómico,6,153.0
-F25-0556,Laptop Pro,7,8400.0
-F25-0556,Teclado Mecánico,6,450.0
-F25-0556,Cable HDMI 2m,6,77.94
-F25-0556,Soporte Laptop,6,270.0
-F25-0556,Mouse Ergonómico,9,229.5
-F25-0557,Soporte Laptop,8,360.0
-F25-0557,Monitor 24p,8,1440.0
-F25-0557,Soporte Laptop,2,90.0
-F25-0558,Monitor 24p,7,1260.0
-F25-0558,Cable HDMI 2m,1,12.99
-F25-0558,Teclado Mecánico,4,300.0
-F25-0559,Soporte Laptop,10,450.0
-F25-0560,Teclado Mecánico,3,225.0
-F25-0560,Laptop Pro,8,9600.0
-F25-0560,Soporte Laptop,6,270.0
-F25-0560,Cable HDMI 2m,7,90.93
-F25-0561,Teclado Mecánico,5,375.0
-F25-0561,Soporte Laptop,1,45.0
-F25-0561,Monitor 24p,2,360.0
-F25-0561,Mouse Ergonómico,2,51.0
-F25-0562,Mouse Ergonómico,3,76.5
-F25-0562,Cable HDMI 2m,1,12.99
-F25-0562,Cable HDMI 2m,8,103.92
-F25-0562,Cable HDMI 2m,8,103.92
-F25-0563,Mouse Ergonómico,2,51.0
-F25-0563,Soporte Laptop,1,45.0
-F25-0563,Cable HDMI 2m,1,12.99
-F25-0563,Laptop Pro,3,3600.0
-F25-0564,Soporte Laptop,9,405.0
-F25-0565,Cable HDMI 2m,5,64.95
-F25-0565,Mouse Ergonómico,1,25.5
-F25-0565,Laptop Pro,2,2400.0
-F25-0565,Laptop Pro,3,3600.0
-F25-0566,Monitor 24p,7,1260.0
-F25-0566,Monitor 24p,8,1440.0
-F25-0566,Soporte Laptop,8,360.0
-F25-0566,Soporte Laptop,1,45.0
-F25-0567,Laptop Pro,4,4800.0
-F25-0567,Teclado Mecánico,5,375.0
-F25-0567,Cable HDMI 2m,3,38.97
-F25-0568,Laptop Pro,6,7200.0
-F25-0568,Mouse Ergonómico,10,255.0
-F25-0569,Mouse Ergonómico,8,204.0
-F25-0569,Monitor 24p,6,1080.0
-F25-0569,Teclado Mecánico,1,75.0
-F25-0569,Teclado Mecánico,2,150.0
-F25-0569,Laptop Pro,3,3600.0
-F25-0570,Mouse Ergonómico,3,76.5
-F25-0570,Teclado Mecánico,4,300.0
-F25-0571,Laptop Pro,5,6000.0
-F25-0572,Teclado Mecánico,10,750.0
-F25-0572,Monitor 24p,5,900.0
-F25-0573,Monitor 24p,8,1440.0
-F25-0573,Laptop Pro,5,6000.0
-F25-0573,Mouse Ergonómico,4,102.0
-F25-0574,Teclado Mecánico,3,225.0
-F25-0575,Teclado Mecánico,2,150.0
-F25-0575,Teclado Mecánico,6,450.0
-F25-0575,Teclado Mecánico,8,600.0
-F25-0575,Monitor 24p,3,540.0
-F25-0575,Laptop Pro,8,9600.0
-F25-0576,Mouse Ergonómico,5,127.5
-F25-0576,Mouse Ergonómico,8,204.0
-F25-0576,Laptop Pro,7,8400.0
-F25-0576,Cable HDMI 2m,3,38.97
-F25-0576,Cable HDMI 2m,10,129.9
-F25-0577,Cable HDMI 2m,5,64.95
-F25-0577,Mouse Ergonómico,5,127.5
-F25-0577,Laptop Pro,3,3600.0
-F25-0578,Mouse Ergonómico,9,229.5
-F25-0578,Mouse Ergonómico,3,76.5
-F25-0578,Teclado Mecánico,2,150.0
-F25-0579,Laptop Pro,10,12000.0
-F25-0579,Cable HDMI 2m,2,25.98
-F25-0579,Laptop Pro,8,9600.0
-F25-0579,Monitor 24p,10,1800.0
-F25-0580,Laptop Pro,10,12000.0
-F25-0580,Laptop Pro,1,1200.0
-F25-0580,Monitor 24p,8,1440.0
-F25-0580,Monitor 24p,2,360.0
-F25-0580,Cable HDMI 2m,7,90.93
-F25-0581,Laptop Pro,10,12000.0
-F25-0581,Monitor 24p,2,360.0
-F25-0582,Mouse Ergonómico,8,204.0
-F25-0582,Laptop Pro,1,1200.0
-F25-0582,Cable HDMI 2m,6,77.94
-F25-0583,Soporte Laptop,4,180.0
-F25-0583,Teclado Mecánico,8,600.0
-F25-0584,Mouse Ergonómico,7,178.5
-F25-0584,Mouse Ergonómico,6,153.0
-F25-0584,Teclado Mecánico,2,150.0
-F25-0584,Laptop Pro,4,4800.0
-F25-0585,Laptop Pro,3,3600.0
-F25-0585,Soporte Laptop,2,90.0
-F25-0585,Soporte Laptop,8,360.0
-F25-0585,Cable HDMI 2m,9,116.91
-F25-0585,Monitor 24p,8,1440.0
-F25-0586,Soporte Laptop,9,405.0
-F25-0586,Mouse Ergonómico,4,102.0
-F25-0586,Laptop Pro,3,3600.0
-F25-0586,Mouse Ergonómico,6,153.0
-F25-0586,Mouse Ergonómico,4,102.0
-F25-0587,Laptop Pro,6,7200.0
-F25-0587,Monitor 24p,2,360.0
-F25-0587,Cable HDMI 2m,3,38.97
-F25-0588,Monitor 24p,3,540.0
-F25-0589,Cable HDMI 2m,10,129.9
-F25-0589,Monitor 24p,5,900.0
-F25-0589,Soporte Laptop,6,270.0
-F25-0590,Laptop Pro,3,3600.0
-F25-0590,Mouse Ergonómico,3,76.5
-F25-0591,Soporte Laptop,2,90.0
-F25-0591,Laptop Pro,2,2400.0
-F25-0592,Laptop Pro,3,3600.0
-F25-0592,Soporte Laptop,4,180.0
-F25-0592,Cable HDMI 2m,4,51.96
-F25-0592,Soporte Laptop,5,225.0
-F25-0592,Laptop Pro,4,4800.0
-F25-0593,Cable HDMI 2m,6,77.94
-F25-0594,Teclado Mecánico,6,450.0
-F25-0594,Laptop Pro,5,6000.0
-F25-0594,Soporte Laptop,10,450.0
-F25-0594,Laptop Pro,8,9600.0
-F25-0594,Teclado Mecánico,7,525.0
-F25-0595,Monitor 24p,1,180.0
-F25-0596,Laptop Pro,10,12000.0
-F25-0597,Cable HDMI 2m,5,64.95
-F25-0597,Laptop Pro,5,6000.0
-F25-0598,Laptop Pro,6,7200.0
-F25-0598,Teclado Mecánico,8,600.0
-F25-0598,Laptop Pro,5,6000.0
-F25-0599,Mouse Ergonómico,6,153.0
-F25-0599,Teclado Mecánico,10,750.0
-F25-0599,Cable HDMI 2m,10,129.9
-F25-0599,Laptop Pro,5,6000.0
-F25-0600,Teclado Mecánico,9,675.0
-F25-0600,Laptop Pro,10,12000.0
-F25-0600,Cable HDMI 2m,4,51.96
-F25-0601,Soporte Laptop,3,135.0
-F25-0601,Cable HDMI 2m,2,25.98
-F25-0602,Mouse Ergonómico,4,102.0
-F25-0602,Laptop Pro,4,4800.0
-F25-0603,Soporte Laptop,6,270.0
-F25-0603,Soporte Laptop,7,315.0
-F25-0603,Laptop Pro,2,2400.0
-F25-0603,Monitor 24p,3,540.0
-F25-0604,Teclado Mecánico,8,600.0
-F25-0604,Monitor 24p,10,1800.0
-F25-0604,Monitor 24p,2,360.0
-F25-0605,Soporte Laptop,4,180.0
-F25-0605,Mouse Ergonómico,3,76.5
-F25-0605,Monitor 24p,10,1800.0
-F25-0605,Teclado Mecánico,1,75.0
-F25-0605,Teclado Mecánico,8,600.0
-F25-0606,Monitor 24p,7,1260.0
-F25-0606,Teclado Mecánico,5,375.0
-F25-0606,Teclado Mecánico,8,600.0
-F25-0606,Teclado Mecánico,2,150.0
-F25-0607,Laptop Pro,9,10800.0
-F25-0607,Soporte Laptop,4,180.0
-F25-0608,Teclado Mecánico,7,525.0
-F25-0608,Monitor 24p,4,720.0
-F25-0608,Cable HDMI 2m,4,51.96
-F25-0609,Laptop Pro,10,12000.0
-F25-0609,Teclado Mecánico,3,225.0
-F25-0609,Mouse Ergonómico,5,127.5
-F25-0609,Laptop Pro,7,8400.0
-F25-0610,Monitor 24p,6,1080.0
-F25-0611,Laptop Pro,3,3600.0
-F25-0611,Laptop Pro,9,10800.0
-F25-0612,Soporte Laptop,4,180.0
-F25-0612,Mouse Ergonómico,8,204.0
-F25-0612,Cable HDMI 2m,1,12.99
-F25-0612,Cable HDMI 2m,1,12.99
-F25-0613,Mouse Ergonómico,10,255.0
-F25-0613,Monitor 24p,9,1620.0
-F25-0613,Teclado Mecánico,5,375.0
-F25-0613,Teclado Mecánico,5,375.0
-F25-0614,Teclado Mecánico,6,450.0
-F25-0614,Teclado Mecánico,2,150.0
-F25-0615,Cable HDMI 2m,3,38.97
-F25-0615,Soporte Laptop,8,360.0
-F25-0615,Soporte Laptop,8,360.0
-F25-0616,Monitor 24p,7,1260.0
-F25-0616,Teclado Mecánico,1,75.0
-F25-0616,Monitor 24p,9,1620.0
-F25-0616,Soporte Laptop,6,270.0
-F25-0617,Soporte Laptop,7,315.0
-F25-0617,Cable HDMI 2m,6,77.94
-F25-0618,Teclado Mecánico,1,75.0
-F25-0618,Teclado Mecánico,1,75.0
-F25-0619,Soporte Laptop,7,315.0
-F25-0620,Monitor 24p,3,540.0
-F25-0620,Cable HDMI 2m,3,38.97
-F25-0621,Laptop Pro,6,7200.0
-F25-0621,Soporte Laptop,8,360.0
-F25-0621,Mouse Ergonómico,10,255.0
-F25-0621,Soporte Laptop,8,360.0
-F25-0622,Cable HDMI 2m,1,12.99
-F25-0622,Monitor 24p,3,540.0
-F25-0622,Teclado Mecánico,4,300.0
-F25-0622,Mouse Ergonómico,1,25.5
-F25-0623,Cable HDMI 2m,10,129.9
-F25-0623,Laptop Pro,6,7200.0
-F25-0623,Teclado Mecánico,9,675.0
-F25-0623,Mouse Ergonómico,1,25.5
-F25-0623,Cable HDMI 2m,5,64.95
-F25-0624,Soporte Laptop,6,270.0
-F25-0624,Teclado Mecánico,6,450.0
-F25-0624,Monitor 24p,1,180.0
-F25-0624,Soporte Laptop,7,315.0
-F25-0625,Monitor 24p,6,1080.0
-F25-0625,Soporte Laptop,8,360.0
-F25-0625,Cable HDMI 2m,5,64.95
-F25-0625,Teclado Mecánico,10,750.0
-F25-0626,Teclado Mecánico,9,675.0
-F25-0626,Mouse Ergonómico,7,178.5
-F25-0627,Teclado Mecánico,3,225.0
-F25-0628,Laptop Pro,4,4800.0
-F25-0629,Monitor 24p,1,180.0
-F25-0629,Cable HDMI 2m,4,51.96
-F25-0629,Monitor 24p,5,900.0
-F25-0629,Laptop Pro,4,4800.0
-F25-0629,Monitor 24p,9,1620.0
-F25-0630,Teclado Mecánico,6,450.0
-F25-0630,Laptop Pro,3,3600.0
-F25-0630,Laptop Pro,1,1200.0
-F25-0630,Laptop Pro,10,12000.0
-F25-0630,Soporte Laptop,5,225.0
-F25-0631,Mouse Ergonómico,10,255.0
-F25-0631,Cable HDMI 2m,10,129.9
-F25-0631,Monitor 24p,7,1260.0
-F25-0632,Teclado Mecánico,9,675.0
-F25-0632,Laptop Pro,2,2400.0
-F25-0632,Cable HDMI 2m,2,25.98
-F25-0632,Laptop Pro,7,8400.0
-F25-0632,Laptop Pro,8,9600.0
-F25-0633,Laptop Pro,6,7200.0
-F25-0633,Laptop Pro,1,1200.0
-F25-0633,Teclado Mecánico,2,150.0
-F25-0634,Laptop Pro,7,8400.0
-F25-0634,Mouse Ergonómico,1,25.5
-F25-0634,Soporte Laptop,5,225.0
-F25-0634,Laptop Pro,1,1200.0
-F25-0634,Soporte Laptop,6,270.0
-F25-0635,Laptop Pro,7,8400.0
-F25-0635,Monitor 24p,5,900.0
-F25-0635,Cable HDMI 2m,9,116.91
-F25-0636,Laptop Pro,8,9600.0
-F25-0637,Laptop Pro,10,12000.0
-F25-0637,Laptop Pro,5,6000.0
-F25-0637,Monitor 24p,4,720.0
-F25-0637,Mouse Ergonómico,6,153.0
-F25-0637,Mouse Ergonómico,4,102.0
-F25-0638,Soporte Laptop,2,90.0
-F25-0638,Monitor 24p,4,720.0
-F25-0638,Monitor 24p,8,1440.0
-F25-0638,Teclado Mecánico,10,750.0
-F25-0638,Cable HDMI 2m,2,25.98
-F25-0639,Soporte Laptop,7,315.0
-F25-0639,Cable HDMI 2m,2,25.98
-F25-0639,Monitor 24p,8,1440.0
-F25-0639,Monitor 24p,3,540.0
-F25-0639,Cable HDMI 2m,7,90.93
-F25-0640,Soporte Laptop,1,45.0
-F25-0640,Mouse Ergonómico,4,102.0
-F25-0641,Cable HDMI 2m,2,25.98
-F25-0641,Laptop Pro,9,10800.0
-F25-0641,Laptop Pro,1,1200.0
-F25-0642,Soporte Laptop,8,360.0
-F25-0642,Mouse Ergonómico,6,153.0
-F25-0642,Cable HDMI 2m,4,51.96
-F25-0643,Teclado Mecánico,7,525.0
-F25-0644,Cable HDMI 2m,10,129.9
-F25-0644,Laptop Pro,10,12000.0
-F25-0644,Teclado Mecánico,2,150.0
-F25-0644,Cable HDMI 2m,1,12.99
-F25-0644,Cable HDMI 2m,7,90.93
-F25-0645,Mouse Ergonómico,7,178.5
-F25-0645,Teclado Mecánico,9,675.0
-F25-0645,Monitor 24p,2,360.0
-F25-0645,Teclado Mecánico,9,675.0
-F25-0645,Monitor 24p,10,1800.0
-F25-0646,Teclado Mecánico,7,525.0
-F25-0647,Teclado Mecánico,1,75.0
-F25-0647,Mouse Ergonómico,10,255.0
-F25-0648,Laptop Pro,7,8400.0
-F25-0648,Laptop Pro,9,10800.0
-F25-0648,Laptop Pro,7,8400.0
-F25-0648,Teclado Mecánico,8,600.0
-F25-0648,Mouse Ergonómico,9,229.5
-F25-0649,Cable HDMI 2m,8,103.92
-F25-0649,Laptop Pro,4,4800.0
-F25-0649,Teclado Mecánico,5,375.0
-F25-0649,Laptop Pro,5,6000.0
-F25-0649,Mouse Ergonómico,4,102.0
-F25-0650,Laptop Pro,3,3600.0
-F25-0650,Mouse Ergonómico,8,204.0
-F25-0650,Teclado Mecánico,4,300.0
-F25-0651,Laptop Pro,10,12000.0
-F25-0651,Soporte Laptop,7,315.0
-F25-0652,Cable HDMI 2m,5,64.95
-F25-0653,Cable HDMI 2m,8,103.92
-F25-0654,Mouse Ergonómico,1,25.5
-F25-0654,Monitor 24p,8,1440.0
-F25-0654,Soporte Laptop,4,180.0
-F25-0654,Cable HDMI 2m,8,103.92
-F25-0654,Laptop Pro,8,9600.0
-F25-0655,Laptop Pro,4,4800.0
-F25-0655,Soporte Laptop,5,225.0
-F25-0655,Teclado Mecánico,5,375.0
-F25-0655,Mouse Ergonómico,9,229.5
-F25-0656,Mouse Ergonómico,2,51.0
-F25-0656,Cable HDMI 2m,5,64.95
-F25-0656,Monitor 24p,2,360.0
-F25-0656,Monitor 24p,1,180.0
-F25-0656,Mouse Ergonómico,2,51.0
-F25-0657,Soporte Laptop,3,135.0
-F25-0658,Cable HDMI 2m,7,90.93
-F25-0658,Soporte Laptop,3,135.0
-F25-0658,Laptop Pro,10,12000.0
-F25-0658,Mouse Ergonómico,3,76.5
-F25-0658,Laptop Pro,4,4800.0
-F25-0659,Soporte Laptop,6,270.0
-F25-0660,Monitor 24p,10,1800.0
-F25-0660,Monitor 24p,6,1080.0
-F25-0660,Mouse Ergonómico,5,127.5
-F25-0660,Teclado Mecánico,10,750.0
-F25-0661,Laptop Pro,5,6000.0
-F25-0661,Soporte Laptop,3,135.0
-F25-0662,Soporte Laptop,5,225.0
-F25-0662,Laptop Pro,10,12000.0
-F25-0662,Cable HDMI 2m,9,116.91
-F25-0663,Cable HDMI 2m,4,51.96
-F25-0664,Cable HDMI 2m,5,64.95
-F25-0664,Laptop Pro,8,9600.0
-F25-0664,Teclado Mecánico,5,375.0
-F25-0664,Laptop Pro,5,6000.0
-F25-0664,Mouse Ergonómico,1,25.5
-F25-0665,Teclado Mecánico,1,75.0
-F25-0665,Cable HDMI 2m,6,77.94
-F25-0666,Monitor 24p,6,1080.0
-F25-0666,Laptop Pro,4,4800.0
-F25-0666,Laptop Pro,7,8400.0
-F25-0666,Teclado Mecánico,6,450.0
-F25-0666,Laptop Pro,5,6000.0
-F25-0667,Cable HDMI 2m,6,77.94
-F25-0667,Mouse Ergonómico,10,255.0
-F25-0668,Monitor 24p,6,1080.0
-F25-0668,Soporte Laptop,2,90.0
-F25-0668,Laptop Pro,7,8400.0
-F25-0668,Monitor 24p,5,900.0
-F25-0669,Soporte Laptop,3,135.0
-F25-0669,Soporte Laptop,2,90.0
-F25-0669,Teclado Mecánico,10,750.0
-F25-0670,Laptop Pro,4,4800.0
-F25-0670,Mouse Ergonómico,6,153.0
-F25-0671,Laptop Pro,5,6000.0
-F25-0672,Teclado Mecánico,2,150.0
-F25-0672,Soporte Laptop,6,270.0
-F25-0672,Laptop Pro,7,8400.0
-F25-0672,Mouse Ergonómico,7,178.5
-F25-0672,Teclado Mecánico,7,525.0
-F25-0673,Laptop Pro,8,9600.0
-F25-0673,Mouse Ergonómico,2,51.0
-F25-0673,Laptop Pro,6,7200.0
-F25-0673,Cable HDMI 2m,9,116.91
-F25-0674,Cable HDMI 2m,3,38.97
-F25-0674,Monitor 24p,2,360.0
-F25-0674,Teclado Mecánico,1,75.0
-F25-0675,Soporte Laptop,4,180.0
-F25-0676,Mouse Ergonómico,6,153.0
-F25-0676,Mouse Ergonómico,8,204.0
-F25-0677,Teclado Mecánico,1,75.0
-F25-0678,Teclado Mecánico,2,150.0
-F25-0679,Laptop Pro,4,4800.0
-F25-0679,Monitor 24p,9,1620.0
-F25-0679,Laptop Pro,5,6000.0
-F25-0679,Cable HDMI 2m,8,103.92
-F25-0680,Monitor 24p,5,900.0
-F25-0681,Cable HDMI 2m,4,51.96
-F25-0681,Soporte Laptop,8,360.0
-F25-0681,Cable HDMI 2m,2,25.98
-F25-0681,Mouse Ergonómico,6,153.0
-F25-0682,Soporte Laptop,8,360.0
-F25-0682,Teclado Mecánico,7,525.0
-F25-0682,Monitor 24p,4,720.0
-F25-0683,Teclado Mecánico,1,75.0
-F25-0683,Soporte Laptop,3,135.0
-F25-0684,Soporte Laptop,5,225.0
-F25-0684,Mouse Ergonómico,2,51.0
-F25-0684,Soporte Laptop,9,405.0
-F25-0684,Mouse Ergonómico,7,178.5
-F25-0685,Cable HDMI 2m,3,38.97
-F25-0685,Mouse Ergonómico,7,178.5
-F25-0685,Mouse Ergonómico,2,51.0
-F25-0686,Laptop Pro,2,2400.0
-F25-0686,Mouse Ergonómico,9,229.5
-F25-0687,Mouse Ergonómico,10,255.0
-F25-0687,Mouse Ergonómico,6,153.0
-F25-0687,Laptop Pro,2,2400.0
-F25-0687,Soporte Laptop,3,135.0
-F25-0688,Soporte Laptop,5,225.0
-F25-0689,Teclado Mecánico,10,750.0
-F25-0689,Monitor 24p,10,1800.0
-F25-0689,Soporte Laptop,3,135.0
-F25-0689,Mouse Ergonómico,9,229.5
-F25-0689,Teclado Mecánico,1,75.0
-F25-0690,Teclado Mecánico,5,375.0
-F25-0690,Cable HDMI 2m,3,38.97
-F25-0691,Laptop Pro,9,10800.0
-F25-0691,Soporte Laptop,1,45.0
-F25-0691,Teclado Mecánico,8,600.0
-F25-0692,Monitor 24p,2,360.0
-F25-0692,Monitor 24p,1,180.0
-F25-0692,Teclado Mecánico,1,75.0
-F25-0693,Soporte Laptop,4,180.0
-F25-0693,Cable HDMI 2m,1,12.99
-F25-0693,Mouse Ergonómico,6,153.0
-F25-0694,Soporte Laptop,4,180.0
-F25-0695,Mouse Ergonómico,7,178.5
-F25-0695,Soporte Laptop,2,90.0
-F25-0695,Cable HDMI 2m,4,51.96
-F25-0695,Cable HDMI 2m,1,12.99
-F25-0696,Monitor 24p,1,180.0
-F25-0696,Soporte Laptop,8,360.0
-F25-0697,Laptop Pro,2,2400.0
-F25-0697,Monitor 24p,2,360.0
-F25-0697,Soporte Laptop,2,90.0
-F25-0697,Cable HDMI 2m,1,12.99
-F25-0698,Soporte Laptop,5,225.0
-F25-0698,Monitor 24p,5,900.0
-F25-0698,Mouse Ergonómico,10,255.0
-F25-0699,Mouse Ergonómico,8,204.0
-F25-0699,Laptop Pro,1,1200.0
-F25-0699,Teclado Mecánico,9,675.0
-F25-0699,Monitor 24p,1,180.0
-F25-0699,Laptop Pro,8,9600.0
-F25-0700,Monitor 24p,2,360.0
-F25-0700,Monitor 24p,5,900.0
-F25-0701,Cable HDMI 2m,6,77.94
-F25-0702,Teclado Mecánico,1,75.0
-F25-0702,Soporte Laptop,5,225.0
-F25-0702,Mouse Ergonómico,3,76.5
-F25-0702,Cable HDMI 2m,2,25.98
-F25-0702,Soporte Laptop,1,45.0
-F25-0703,Soporte Laptop,8,360.0
-F25-0703,Mouse Ergonómico,2,51.0
-F25-0704,Teclado Mecánico,8,600.0
-F25-0704,Teclado Mecánico,7,525.0
-F25-0704,Monitor 24p,5,900.0
-F25-0704,Teclado Mecánico,5,375.0
-F25-0704,Mouse Ergonómico,2,51.0
-F25-0705,Soporte Laptop,9,405.0
-F25-0705,Monitor 24p,4,720.0
-F25-0705,Teclado Mecánico,2,150.0
-F25-0706,Mouse Ergonómico,7,178.5
-F25-0706,Monitor 24p,5,900.0
-F25-0707,Monitor 24p,4,720.0
-F25-0707,Soporte Laptop,10,450.0
-F25-0707,Laptop Pro,5,6000.0
-F25-0707,Cable HDMI 2m,7,90.93
-F25-0707,Soporte Laptop,1,45.0
-F25-0708,Mouse Ergonómico,10,255.0
-F25-0708,Mouse Ergonómico,7,178.5
-F25-0709,Soporte Laptop,2,90.0
-F25-0709,Cable HDMI 2m,5,64.95
-F25-0710,Monitor 24p,7,1260.0
-F25-0710,Teclado Mecánico,2,150.0
-F25-0711,Monitor 24p,4,720.0
-F25-0712,Cable HDMI 2m,6,77.94
-F25-0712,Laptop Pro,9,10800.0
-F25-0713,Mouse Ergonómico,6,153.0
-F25-0713,Soporte Laptop,4,180.0
-F25-0713,Laptop Pro,8,9600.0
-F25-0714,Mouse Ergonómico,9,229.5
-F25-0714,Soporte Laptop,10,450.0
-F25-0714,Soporte Laptop,7,315.0
-F25-0715,Laptop Pro,5,6000.0
-F25-0715,Laptop Pro,3,3600.0
-F25-0715,Monitor 24p,9,1620.0
-F25-0716,Soporte Laptop,6,270.0
-F25-0717,Cable HDMI 2m,9,116.91
-F25-0717,Laptop Pro,8,9600.0
-F25-0717,Monitor 24p,3,540.0
-F25-0717,Laptop Pro,6,7200.0
-F25-0718,Mouse Ergonómico,6,153.0
-F25-0718,Soporte Laptop,1,45.0
-F25-0719,Soporte Laptop,6,270.0
-F25-0720,Mouse Ergonómico,9,229.5
-F25-0720,Soporte Laptop,7,315.0
-F25-0721,Laptop Pro,1,1200.0
-F25-0722,Monitor 24p,7,1260.0
-F25-0722,Cable HDMI 2m,8,103.92
-F25-0722,Monitor 24p,1,180.0
-F25-0723,Laptop Pro,9,10800.0
-F25-0723,Monitor 24p,10,1800.0
-F25-0723,Teclado Mecánico,4,300.0
-F25-0723,Soporte Laptop,7,315.0
-F25-0723,Mouse Ergonómico,1,25.5
-F25-0724,Laptop Pro,2,2400.0
-F25-0725,Soporte Laptop,7,315.0
-F25-0725,Laptop Pro,6,7200.0
-F25-0726,Mouse Ergonómico,8,204.0
-F25-0727,Cable HDMI 2m,10,129.9
-F25-0728,Laptop Pro,9,10800.0
-F25-0728,Cable HDMI 2m,1,12.99
-F25-0728,Monitor 24p,2,360.0
-F25-0728,Teclado Mecánico,3,225.0
-F25-0728,Teclado Mecánico,6,450.0
-F25-0729,Soporte Laptop,10,450.0
-F25-0730,Soporte Laptop,8,360.0
-F25-0730,Cable HDMI 2m,1,12.99
-F25-0730,Teclado Mecánico,4,300.0
-F25-0731,Laptop Pro,2,2400.0
-F25-0731,Soporte Laptop,10,450.0
-F25-0731,Monitor 24p,4,720.0
-F25-0731,Soporte Laptop,3,135.0
-F25-0732,Mouse Ergonómico,9,229.5
-F25-0732,Mouse Ergonómico,6,153.0
-F25-0732,Monitor 24p,5,900.0
-F25-0732,Cable HDMI 2m,2,25.98
-F25-0733,Soporte Laptop,1,45.0
-F25-0733,Mouse Ergonómico,5,127.5
-F25-0733,Mouse Ergonómico,2,51.0
-F25-0733,Mouse Ergonómico,10,255.0
-F25-0733,Monitor 24p,9,1620.0
-F25-0734,Monitor 24p,3,540.0
-F25-0734,Cable HDMI 2m,10,129.9
-F25-0735,Cable HDMI 2m,1,12.99
-F25-0735,Mouse Ergonómico,5,127.5
-F25-0735,Teclado Mecánico,3,225.0
-F25-0735,Teclado Mecánico,4,300.0
-F25-0736,Soporte Laptop,7,315.0
-F25-0736,Monitor 24p,5,900.0
-F25-0737,Laptop Pro,8,9600.0
-F25-0737,Teclado Mecánico,1,75.0
-F25-0737,Laptop Pro,6,7200.0
-F25-0737,Monitor 24p,1,180.0
-F25-0737,Soporte Laptop,6,270.0
-F25-0738,Cable HDMI 2m,1,12.99
-F25-0739,Mouse Ergonómico,6,153.0
-F25-0739,Teclado Mecánico,10,750.0
-F25-0740,Soporte Laptop,1,45.0
-F25-0740,Cable HDMI 2m,9,116.91
-F25-0740,Monitor 24p,10,1800.0
-F25-0740,Soporte Laptop,2,90.0
-F25-0741,Cable HDMI 2m,7,90.93
-F25-0742,Soporte Laptop,8,360.0
-F25-0742,Cable HDMI 2m,3,38.97
-F25-0742,Laptop Pro,7,8400.0
-F25-0743,Teclado Mecánico,3,225.0
-F25-0743,Cable HDMI 2m,10,129.9
-F25-0743,Cable HDMI 2m,5,64.95
-F25-0744,Monitor 24p,7,1260.0
-F25-0744,Teclado Mecánico,6,450.0
-F25-0745,Laptop Pro,7,8400.0
-F25-0745,Soporte Laptop,10,450.0
-F25-0745,Monitor 24p,3,540.0
-F25-0745,Cable HDMI 2m,3,38.97
-F25-0745,Soporte Laptop,5,225.0
-F25-0746,Monitor 24p,8,1440.0
-F25-0746,Cable HDMI 2m,3,38.97
-F25-0746,Laptop Pro,8,9600.0
-F25-0746,Monitor 24p,7,1260.0
-F25-0746,Mouse Ergonómico,10,255.0
-F25-0747,Teclado Mecánico,5,375.0
-F25-0747,Laptop Pro,4,4800.0
-F25-0747,Soporte Laptop,7,315.0
-F25-0748,Mouse Ergonómico,9,229.5
-F25-0749,Cable HDMI 2m,9,116.91
-F25-0749,Mouse Ergonómico,5,127.5
-F25-0749,Mouse Ergonómico,3,76.5
-F25-0749,Monitor 24p,1,180.0
-F25-0749,Soporte Laptop,9,405.0
-F25-0750,Mouse Ergonómico,9,229.5
-F25-0750,Monitor 24p,2,360.0
-F25-0750,Monitor 24p,2,360.0
-F25-0751,Mouse Ergonómico,8,204.0
-F25-0751,Laptop Pro,4,4800.0
-F25-0751,Cable HDMI 2m,2,25.98
-F25-0752,Monitor 24p,8,1440.0
-F25-0753,Teclado Mecánico,2,150.0
-F25-0753,Monitor 24p,7,1260.0
-F25-0753,Monitor 24p,7,1260.0
-F25-0753,Cable HDMI 2m,9,116.91
-F25-0754,Cable HDMI 2m,9,116.91
-F25-0754,Monitor 24p,5,900.0
-F25-0754,Cable HDMI 2m,4,51.96
-F25-0754,Cable HDMI 2m,8,103.92
-F25-0755,Mouse Ergonómico,10,255.0
-F25-0755,Soporte Laptop,3,135.0
-F25-0755,Cable HDMI 2m,3,38.97
-F25-0755,Mouse Ergonómico,7,178.5
-F25-0755,Laptop Pro,6,7200.0
-F25-0756,Monitor 24p,10,1800.0
-F25-0756,Laptop Pro,9,10800.0
-F25-0756,Monitor 24p,1,180.0
-F25-0756,Teclado Mecánico,7,525.0
-F25-0756,Mouse Ergonómico,9,229.5
-F25-0757,Mouse Ergonómico,5,127.5
-F25-0757,Cable HDMI 2m,4,51.96
-F25-0757,Monitor 24p,5,900.0
-F25-0757,Soporte Laptop,5,225.0
-F25-0757,Teclado Mecánico,8,600.0
-F25-0758,Soporte Laptop,5,225.0
-F25-0758,Monitor 24p,7,1260.0
-F25-0759,Laptop Pro,6,7200.0
-F25-0759,Soporte Laptop,2,90.0
-F25-0759,Soporte Laptop,6,270.0
-F25-0759,Soporte Laptop,3,135.0
-F25-0759,Monitor 24p,8,1440.0
-F25-0760,Laptop Pro,1,1200.0
-F25-0760,Mouse Ergonómico,4,102.0
-F25-0760,Cable HDMI 2m,7,90.93
-F25-0760,Mouse Ergonómico,6,153.0
-F25-0761,Cable HDMI 2m,9,116.91
-F25-0761,Monitor 24p,9,1620.0
-F25-0761,Monitor 24p,9,1620.0
-F25-0761,Monitor 24p,4,720.0
-F25-0761,Teclado Mecánico,7,525.0
-F25-0762,Mouse Ergonómico,4,102.0
-F25-0762,Mouse Ergonómico,5,127.5
-F25-0762,Mouse Ergonómico,5,127.5
-F25-0762,Mouse Ergonómico,4,102.0
-F25-0762,Laptop Pro,5,6000.0
-F25-0763,Cable HDMI 2m,1,12.99
-F25-0763,Teclado Mecánico,3,225.0
-F25-0763,Mouse Ergonómico,1,25.5
-F25-0763,Soporte Laptop,6,270.0
-F25-0763,Soporte Laptop,1,45.0
-F25-0764,Cable HDMI 2m,10,129.9
-F25-0764,Teclado Mecánico,8,600.0
-F25-0764,Cable HDMI 2m,9,116.91
-F25-0764,Soporte Laptop,3,135.0
-F25-0765,Mouse Ergonómico,10,255.0
-F25-0765,Monitor 24p,5,900.0
-F25-0765,Laptop Pro,10,12000.0
-F25-0766,Teclado Mecánico,2,150.0
-F25-0767,Laptop Pro,5,6000.0
-F25-0767,Mouse Ergonómico,1,25.5
-F25-0767,Cable HDMI 2m,2,25.98
-F25-0767,Cable HDMI 2m,4,51.96
-F25-0768,Mouse Ergonómico,9,229.5
-F25-0769,Mouse Ergonómico,9,229.5
-F25-0770,Cable HDMI 2m,6,77.94
-F25-0770,Mouse Ergonómico,9,229.5
-F25-0770,Teclado Mecánico,10,750.0
-F25-0771,Mouse Ergonómico,7,178.5
-F25-0771,Monitor 24p,9,1620.0
-F25-0771,Soporte Laptop,7,315.0
-F25-0772,Laptop Pro,5,6000.0
-F25-0772,Laptop Pro,7,8400.0
-F25-0772,Mouse Ergonómico,9,229.5
-F25-0772,Teclado Mecánico,7,525.0
-F25-0773,Teclado Mecánico,6,450.0
-F25-0774,Cable HDMI 2m,1,12.99
-F25-0774,Teclado Mecánico,5,375.0
-F25-0774,Teclado Mecánico,3,225.0
-F25-0774,Teclado Mecánico,9,675.0
-F25-0775,Laptop Pro,3,3600.0
-F25-0775,Laptop Pro,9,10800.0
-F25-0776,Laptop Pro,2,2400.0
-F25-0777,Laptop Pro,8,9600.0
-F25-0778,Cable HDMI 2m,2,25.98
-F25-0778,Mouse Ergonómico,1,25.5
-F25-0778,Laptop Pro,2,2400.0
-F25-0778,Laptop Pro,6,7200.0
-F25-0779,Cable HDMI 2m,6,77.94
-F25-0779,Laptop Pro,3,3600.0
-F25-0780,Teclado Mecánico,5,375.0
-F25-0780,Laptop Pro,2,2400.0
-F25-0780,Monitor 24p,3,540.0
-F25-0781,Monitor 24p,4,720.0
-F25-0781,Mouse Ergonómico,5,127.5
-F25-0781,Laptop Pro,2,2400.0
-F25-0782,Teclado Mecánico,6,450.0
-F25-0782,Laptop Pro,1,1200.0
-F25-0782,Teclado Mecánico,2,150.0
-F25-0782,Teclado Mecánico,7,525.0
-F25-0782,Monitor 24p,8,1440.0
-F25-0783,Teclado Mecánico,9,675.0
-F25-0783,Cable HDMI 2m,3,38.97
-F25-0784,Teclado Mecánico,9,675.0
-F25-0785,Monitor 24p,2,360.0
-F25-0785,Mouse Ergonómico,2,51.0
-F25-0786,Cable HDMI 2m,9,116.91
-F25-0786,Teclado Mecánico,9,675.0
-F25-0787,Laptop Pro,3,3600.0
-F25-0787,Monitor 24p,6,1080.0
-F25-0787,Mouse Ergonómico,8,204.0
-F25-0788,Teclado Mecánico,5,375.0
-F25-0788,Soporte Laptop,6,270.0
-F25-0788,Monitor 24p,8,1440.0
-F25-0788,Teclado Mecánico,4,300.0
-F25-0788,Cable HDMI 2m,8,103.92
-F25-0789,Cable HDMI 2m,1,12.99
-F25-0789,Cable HDMI 2m,5,64.95
-F25-0789,Mouse Ergonómico,4,102.0
-F25-0789,Monitor 24p,4,720.0
-F25-0790,Laptop Pro,5,6000.0
-F25-0790,Monitor 24p,2,360.0
-F25-0790,Soporte Laptop,6,270.0
-F25-0790,Soporte Laptop,6,270.0
-F25-0790,Monitor 24p,7,1260.0
-F25-0791,Mouse Ergonómico,5,127.5
-F25-0791,Teclado Mecánico,10,750.0
-F25-0792,Laptop Pro,2,2400.0
-F25-0792,Teclado Mecánico,8,600.0
-F25-0793,Monitor 24p,3,540.0
-F25-0793,Soporte Laptop,4,180.0
-F25-0793,Teclado Mecánico,7,525.0
-F25-0794,Laptop Pro,4,4800.0
-F25-0794,Teclado Mecánico,5,375.0
-F25-0794,Soporte Laptop,1,45.0
-F25-0795,Soporte Laptop,3,135.0
-F25-0796,Soporte Laptop,2,90.0
-F25-0796,Monitor 24p,8,1440.0
-F25-0797,Cable HDMI 2m,10,129.9
-F25-0798,Monitor 24p,10,1800.0
-F25-0798,Mouse Ergonómico,5,127.5
-F25-0798,Laptop Pro,10,12000.0
-F25-0798,Mouse Ergonómico,9,229.5
-F25-0799,Cable HDMI 2m,6,77.94
-F25-0800,Monitor 24p,10,1800.0
-F25-0800,Laptop Pro,10,12000.0
-F25-0800,Cable HDMI 2m,1,12.99
-F25-0800,Monitor 24p,5,900.0
-F25-0801,Mouse Ergonómico,9,229.5
-F25-0801,Mouse Ergonómico,2,51.0
-F25-0802,Monitor 24p,9,1620.0
-F25-0802,Laptop Pro,9,10800.0
-F25-0802,Soporte Laptop,2,90.0
-F25-0802,Mouse Ergonómico,5,127.5
-F25-0803,Cable HDMI 2m,5,64.95
-F25-0803,Teclado Mecánico,5,375.0
-F25-0803,Cable HDMI 2m,2,25.98
-F25-0803,Monitor 24p,6,1080.0
-F25-0804,Soporte Laptop,2,90.0
-F25-0804,Mouse Ergonómico,8,204.0
-F25-0805,Teclado Mecánico,2,150.0
-F25-0805,Laptop Pro,5,6000.0
-F25-0806,Monitor 24p,1,180.0
-F25-0806,Laptop Pro,2,2400.0
-F25-0806,Mouse Ergonómico,1,25.5
-F25-0807,Cable HDMI 2m,3,38.97
-F25-0807,Mouse Ergonómico,6,153.0
-F25-0807,Soporte Laptop,8,360.0
-F25-0808,Monitor 24p,7,1260.0
-F25-0808,Teclado Mecánico,8,600.0
-F25-0808,Teclado Mecánico,6,450.0
-F25-0808,Monitor 24p,3,540.0
-F25-0808,Teclado Mecánico,3,225.0
-F25-0809,Laptop Pro,10,12000.0
-F25-0809,Laptop Pro,8,9600.0
-F25-0810,Soporte Laptop,5,225.0
-F25-0810,Laptop Pro,6,7200.0
-F25-0810,Monitor 24p,7,1260.0
-F25-0810,Teclado Mecánico,5,375.0
-F25-0810,Cable HDMI 2m,5,64.95
-F25-0811,Laptop Pro,8,9600.0
-F25-0812,Monitor 24p,10,1800.0
-F25-0812,Mouse Ergonómico,5,127.5
-F25-0812,Cable HDMI 2m,2,25.98
-F25-0812,Mouse Ergonómico,1,25.5
-F25-0812,Soporte Laptop,7,315.0
-F25-0813,Mouse Ergonómico,5,127.5
-F25-0813,Monitor 24p,2,360.0
-F25-0813,Teclado Mecánico,7,525.0
-F25-0813,Laptop Pro,8,9600.0
-F25-0813,Mouse Ergonómico,6,153.0
-F25-0814,Soporte Laptop,8,360.0
-F25-0814,Monitor 24p,4,720.0
-F25-0815,Monitor 24p,3,540.0
-F25-0815,Soporte Laptop,3,135.0
-F25-0816,Monitor 24p,2,360.0
-F25-0816,Cable HDMI 2m,6,77.94
-F25-0817,Laptop Pro,4,4800.0
-F25-0817,Mouse Ergonómico,8,204.0
-F25-0817,Laptop Pro,2,2400.0
-F25-0818,Teclado Mecánico,7,525.0
-F25-0818,Laptop Pro,2,2400.0
-F25-0819,Monitor 24p,8,1440.0
-F25-0819,Monitor 24p,8,1440.0
-F25-0820,Monitor 24p,2,360.0
-F25-0820,Mouse Ergonómico,8,204.0
-F25-0820,Mouse Ergonómico,2,51.0
-F25-0820,Laptop Pro,2,2400.0
-F25-0820,Soporte Laptop,2,90.0
-F25-0821,Soporte Laptop,1,45.0
-F25-0822,Monitor 24p,4,720.0
-F25-0822,Mouse Ergonómico,4,102.0
-F25-0823,Mouse Ergonómico,4,102.0
-F25-0823,Mouse Ergonómico,5,127.5
-F25-0823,Cable HDMI 2m,6,77.94
-F25-0824,Cable HDMI 2m,6,77.94
-F25-0824,Laptop Pro,5,6000.0
-F25-0824,Mouse Ergonómico,3,76.5
-F25-0824,Cable HDMI 2m,4,51.96
-F25-0825,Monitor 24p,10,1800.0
-F25-0826,Mouse Ergonómico,10,255.0
-F25-0826,Soporte Laptop,2,90.0
-F25-0826,Teclado Mecánico,2,150.0
-F25-0827,Cable HDMI 2m,3,38.97
-F25-0828,Teclado Mecánico,4,300.0
-F25-0828,Laptop Pro,1,1200.0
-F25-0828,Teclado Mecánico,2,150.0
-F25-0829,Cable HDMI 2m,6,77.94
-F25-0829,Monitor 24p,7,1260.0
-F25-0829,Laptop Pro,8,9600.0
-F25-0829,Laptop Pro,1,1200.0
-F25-0829,Laptop Pro,10,12000.0
-F25-0830,Cable HDMI 2m,3,38.97
-F25-0830,Teclado Mecánico,3,225.0
-F25-0830,Soporte Laptop,7,315.0
-F25-0830,Monitor 24p,10,1800.0
-F25-0831,Monitor 24p,10,1800.0
-F25-0831,Teclado Mecánico,1,75.0
-F25-0831,Soporte Laptop,2,90.0
-F25-0832,Monitor 24p,1,180.0
-F25-0832,Monitor 24p,1,180.0
-F25-0833,Monitor 24p,3,540.0
-F25-0833,Laptop Pro,4,4800.0
-F25-0833,Cable HDMI 2m,2,25.98
-F25-0833,Soporte Laptop,9,405.0
-F25-0833,Teclado Mecánico,8,600.0
-F25-0834,Monitor 24p,8,1440.0
-F25-0834,Cable HDMI 2m,9,116.91
-F25-0834,Teclado Mecánico,6,450.0
-F25-0835,Cable HDMI 2m,10,129.9
-F25-0835,Monitor 24p,8,1440.0
-F25-0835,Mouse Ergonómico,7,178.5
-F25-0835,Cable HDMI 2m,8,103.92
-F25-0835,Mouse Ergonómico,7,178.5
-F25-0836,Teclado Mecánico,1,75.0
-F25-0836,Soporte Laptop,9,405.0
-F25-0836,Mouse Ergonómico,6,153.0
-F25-0837,Soporte Laptop,3,135.0
-F25-0837,Laptop Pro,7,8400.0
-F25-0838,Cable HDMI 2m,9,116.91
-F25-0838,Teclado Mecánico,9,675.0
-F25-0838,Soporte Laptop,8,360.0
-F25-0838,Laptop Pro,5,6000.0
-F25-0839,Laptop Pro,4,4800.0
-F25-0839,Cable HDMI 2m,6,77.94
-F25-0840,Cable HDMI 2m,1,12.99
-F25-0840,Laptop Pro,5,6000.0
-F25-0840,Soporte Laptop,5,225.0
-F25-0840,Soporte Laptop,9,405.0
-F25-0840,Mouse Ergonómico,2,51.0
-F25-0841,Monitor 24p,3,540.0
-F25-0841,Laptop Pro,10,12000.0
-F25-0841,Soporte Laptop,1,45.0
-F25-0841,Cable HDMI 2m,10,129.9
-F25-0841,Soporte Laptop,4,180.0
-F25-0842,Cable HDMI 2m,6,77.94
-F25-0842,Cable HDMI 2m,5,64.95
-F25-0843,Cable HDMI 2m,6,77.94
-F25-0844,Cable HDMI 2m,6,77.94
-F25-0845,Monitor 24p,2,360.0
-F25-0845,Soporte Laptop,3,135.0
-F25-0845,Cable HDMI 2m,4,51.96
-F25-0845,Soporte Laptop,3,135.0
-F25-0845,Mouse Ergonómico,3,76.5
-F25-0846,Teclado Mecánico,9,675.0
-F25-0846,Laptop Pro,7,8400.0
-F25-0846,Laptop Pro,7,8400.0
-F25-0846,Soporte Laptop,2,90.0
-F25-0847,Mouse Ergonómico,4,102.0
-F25-0847,Cable HDMI 2m,4,51.96
-F25-0847,Soporte Laptop,6,270.0
-F25-0847,Laptop Pro,7,8400.0
-F25-0847,Laptop Pro,9,10800.0
-F25-0848,Mouse Ergonómico,9,229.5
-F25-0848,Soporte Laptop,10,450.0
-F25-0848,Monitor 24p,7,1260.0
-F25-0849,Cable HDMI 2m,10,129.9
-F25-0849,Laptop Pro,2,2400.0
-F25-0849,Laptop Pro,2,2400.0
-F25-0849,Laptop Pro,6,7200.0
-F25-0850,Mouse Ergonómico,7,178.5
-F25-0850,Mouse Ergonómico,10,255.0
-F25-0850,Teclado Mecánico,5,375.0
-F25-0850,Cable HDMI 2m,10,129.9
-F25-0851,Teclado Mecánico,8,600.0
-F25-0852,Soporte Laptop,9,405.0
-F25-0852,Monitor 24p,2,360.0
-F25-0853,Monitor 24p,7,1260.0
-F25-0853,Laptop Pro,1,1200.0
-F25-0853,Monitor 24p,8,1440.0
-F25-0853,Teclado Mecánico,9,675.0
-F25-0853,Cable HDMI 2m,1,12.99
-F25-0854,Teclado Mecánico,6,450.0
-F25-0854,Teclado Mecánico,9,675.0
-F25-0854,Laptop Pro,5,6000.0
-F25-0855,Laptop Pro,2,2400.0
-F25-0855,Teclado Mecánico,9,675.0
-F25-0855,Soporte Laptop,7,315.0
-F25-0855,Cable HDMI 2m,1,12.99
-F25-0855,Laptop Pro,5,6000.0
-F25-0856,Mouse Ergonómico,3,76.5
-F25-0857,Mouse Ergonómico,9,229.5
-F25-0857,Cable HDMI 2m,1,12.99
-F25-0857,Soporte Laptop,7,315.0
-F25-0857,Mouse Ergonómico,7,178.5
-F25-0858,Teclado Mecánico,9,675.0
-F25-0858,Laptop Pro,1,1200.0
-F25-0858,Mouse Ergonómico,10,255.0
-F25-0858,Monitor 24p,5,900.0
-F25-0859,Teclado Mecánico,4,300.0
-F25-0859,Mouse Ergonómico,6,153.0
-F25-0859,Mouse Ergonómico,3,76.5
-F25-0860,Soporte Laptop,4,180.0
-F25-0861,Cable HDMI 2m,7,90.93
-F25-0861,Soporte Laptop,4,180.0
-F25-0861,Monitor 24p,4,720.0
-F25-0862,Teclado Mecánico,9,675.0
-F25-0862,Cable HDMI 2m,5,64.95
-F25-0862,Laptop Pro,4,4800.0
-F25-0862,Soporte Laptop,4,180.0
-F25-0863,Monitor 24p,1,180.0
-F25-0863,Teclado Mecánico,3,225.0
-F25-0864,Soporte Laptop,8,360.0
-F25-0864,Mouse Ergonómico,4,102.0
-F25-0864,Soporte Laptop,9,405.0
-F25-0865,Monitor 24p,1,180.0
-F25-0865,Soporte Laptop,9,405.0
-F25-0865,Laptop Pro,1,1200.0
-F25-0865,Teclado Mecánico,5,375.0
-F25-0865,Soporte Laptop,2,90.0
-F25-0866,Laptop Pro,6,7200.0
-F25-0866,Teclado Mecánico,8,600.0
-F25-0867,Teclado Mecánico,9,675.0
-F25-0867,Laptop Pro,2,2400.0
-F25-0867,Teclado Mecánico,3,225.0
-F25-0867,Teclado Mecánico,1,75.0
-F25-0868,Monitor 24p,5,900.0
-F25-0868,Soporte Laptop,7,315.0
-F25-0868,Soporte Laptop,2,90.0
-F25-0869,Cable HDMI 2m,8,103.92
-F25-0869,Mouse Ergonómico,3,76.5
-F25-0869,Teclado Mecánico,7,525.0
-F25-0869,Laptop Pro,6,7200.0
-F25-0869,Cable HDMI 2m,1,12.99
-F25-0870,Soporte Laptop,6,270.0
-F25-0870,Monitor 24p,2,360.0
-F25-0870,Mouse Ergonómico,7,178.5
-F25-0870,Cable HDMI 2m,9,116.91
-F25-0871,Monitor 24p,9,1620.0
-F25-0871,Laptop Pro,8,9600.0
-F25-0872,Mouse Ergonómico,2,51.0
-F25-0872,Teclado Mecánico,4,300.0
-F25-0873,Cable HDMI 2m,7,90.93
-F25-0873,Soporte Laptop,7,315.0
-F25-0873,Mouse Ergonómico,10,255.0
-F25-0873,Teclado Mecánico,9,675.0
-F25-0874,Soporte Laptop,3,135.0
-F25-0874,Monitor 24p,2,360.0
-F25-0875,Teclado Mecánico,10,750.0
-F25-0875,Laptop Pro,3,3600.0
-F25-0875,Cable HDMI 2m,4,51.96
-F25-0875,Laptop Pro,4,4800.0
-F25-0875,Laptop Pro,1,1200.0
-F25-0876,Cable HDMI 2m,1,12.99
-F25-0876,Cable HDMI 2m,7,90.93
-F25-0876,Mouse Ergonómico,3,76.5
-F25-0877,Mouse Ergonómico,1,25.5
-F25-0877,Mouse Ergonómico,8,204.0
-F25-0877,Mouse Ergonómico,10,255.0
-F25-0878,Teclado Mecánico,5,375.0
-F25-0878,Monitor 24p,2,360.0
-F25-0879,Soporte Laptop,1,45.0
-F25-0879,Teclado Mecánico,4,300.0
-F25-0879,Soporte Laptop,8,360.0
-F25-0879,Soporte Laptop,6,270.0
-F25-0880,Teclado Mecánico,5,375.0
-F25-0880,Monitor 24p,9,1620.0
-F25-0880,Teclado Mecánico,9,675.0
-F25-0880,Cable HDMI 2m,4,51.96
-F25-0881,Soporte Laptop,5,225.0
-F25-0881,Mouse Ergonómico,6,153.0
-F25-0881,Monitor 24p,9,1620.0
-F25-0881,Soporte Laptop,3,135.0
-F25-0881,Teclado Mecánico,10,750.0
-F25-0882,Laptop Pro,9,10800.0
-F25-0882,Monitor 24p,7,1260.0
-F25-0883,Teclado Mecánico,5,375.0
-F25-0883,Soporte Laptop,1,45.0
-F25-0883,Cable HDMI 2m,7,90.93
-F25-0883,Soporte Laptop,6,270.0
-F25-0883,Soporte Laptop,8,360.0
-F25-0884,Laptop Pro,8,9600.0
-F25-0884,Teclado Mecánico,4,300.0
-F25-0884,Mouse Ergonómico,5,127.5
-F25-0884,Monitor 24p,5,900.0
-F25-0884,Mouse Ergonómico,5,127.5
-F25-0885,Monitor 24p,7,1260.0
-F25-0885,Teclado Mecánico,2,150.0
-F25-0885,Soporte Laptop,8,360.0
-F25-0886,Mouse Ergonómico,8,204.0
-F25-0886,Laptop Pro,3,3600.0
-F25-0886,Mouse Ergonómico,1,25.5
-F25-0886,Teclado Mecánico,5,375.0
-F25-0887,Monitor 24p,10,1800.0
-F25-0887,Teclado Mecánico,4,300.0
-F25-0888,Monitor 24p,1,180.0
-F25-0888,Cable HDMI 2m,8,103.92
-F25-0888,Cable HDMI 2m,2,25.98
-F25-0888,Cable HDMI 2m,7,90.93
-F25-0889,Mouse Ergonómico,3,76.5
-F25-0889,Cable HDMI 2m,3,38.97
-F25-0889,Laptop Pro,4,4800.0
-F25-0889,Laptop Pro,5,6000.0
-F25-0890,Cable HDMI 2m,3,38.97
-F25-0890,Teclado Mecánico,1,75.0
-F25-0890,Mouse Ergonómico,2,51.0
-F25-0891,Mouse Ergonómico,7,178.5
-F25-0891,Teclado Mecánico,6,450.0
-F25-0891,Cable HDMI 2m,5,64.95
-F25-0891,Laptop Pro,5,6000.0
-F25-0891,Soporte Laptop,2,90.0
-F25-0892,Mouse Ergonómico,3,76.5
-F25-0892,Monitor 24p,1,180.0
-F25-0892,Laptop Pro,2,2400.0
-F25-0892,Cable HDMI 2m,2,25.98
-F25-0893,Mouse Ergonómico,9,229.5
-F25-0893,Mouse Ergonómico,3,76.5
-F25-0893,Teclado Mecánico,10,750.0
-F25-0893,Laptop Pro,4,4800.0
-F25-0894,Monitor 24p,1,180.0
-F25-0895,Teclado Mecánico,6,450.0
-F25-0895,Monitor 24p,7,1260.0
-F25-0896,Soporte Laptop,2,90.0
-F25-0897,Cable HDMI 2m,6,77.94
-F25-0897,Mouse Ergonómico,9,229.5
-F25-0897,Soporte Laptop,10,450.0
-F25-0898,Monitor 24p,7,1260.0
-F25-0898,Cable HDMI 2m,5,64.95
-F25-0899,Soporte Laptop,7,315.0
-F25-0899,Cable HDMI 2m,8,103.92
-F25-0899,Teclado Mecánico,5,375.0
-F25-0899,Cable HDMI 2m,3,38.97
-F25-0899,Mouse Ergonómico,10,255.0
-F25-0900,Mouse Ergonómico,9,229.5
-F25-0900,Soporte Laptop,9,405.0
-F25-0900,Laptop Pro,9,10800.0
-F25-0900,Laptop Pro,8,9600.0
-F25-0900,Soporte Laptop,10,450.0
-F25-0901,Laptop Pro,6,7200.0
-F25-0901,Cable HDMI 2m,8,103.92
-F25-0901,Soporte Laptop,9,405.0
-F25-0901,Laptop Pro,4,4800.0
-F25-0902,Monitor 24p,1,180.0
-F25-0903,Soporte Laptop,10,450.0
-F25-0903,Cable HDMI 2m,2,25.98
-F25-0903,Laptop Pro,10,12000.0
-F25-0903,Cable HDMI 2m,2,25.98
-F25-0904,Laptop Pro,6,7200.0
-F25-0904,Teclado Mecánico,5,375.0
-F25-0904,Laptop Pro,5,6000.0
-F25-0904,Teclado Mecánico,1,75.0
-F25-0904,Monitor 24p,2,360.0
-F25-0905,Laptop Pro,1,1200.0
-F25-0905,Laptop Pro,5,6000.0
-F25-0906,Laptop Pro,6,7200.0
-F25-0906,Cable HDMI 2m,10,129.9
-F25-0906,Laptop Pro,3,3600.0
-F25-0907,Laptop Pro,10,12000.0
-F25-0907,Soporte Laptop,1,45.0
-F25-0907,Monitor 24p,5,900.0
-F25-0908,Teclado Mecánico,7,525.0
-F25-0908,Teclado Mecánico,4,300.0
-F25-0908,Mouse Ergonómico,7,178.5
-F25-0908,Monitor 24p,3,540.0
-F25-0908,Mouse Ergonómico,3,76.5
-F25-0909,Cable HDMI 2m,4,51.96
-F25-0909,Monitor 24p,9,1620.0
-F25-0909,Monitor 24p,8,1440.0
-F25-0910,Soporte Laptop,6,270.0
-F25-0910,Soporte Laptop,9,405.0
-F25-0911,Soporte Laptop,5,225.0
-F25-0911,Teclado Mecánico,2,150.0
-F25-0911,Cable HDMI 2m,10,129.9
-F25-0911,Mouse Ergonómico,4,102.0
-F25-0912,Monitor 24p,5,900.0
-F25-0913,Cable HDMI 2m,9,116.91
-F25-0913,Teclado Mecánico,3,225.0
-F25-0913,Cable HDMI 2m,1,12.99
-F25-0913,Cable HDMI 2m,5,64.95
-F25-0913,Teclado Mecánico,2,150.0
-F25-0914,Soporte Laptop,1,45.0
-F25-0914,Monitor 24p,10,1800.0
-F25-0914,Monitor 24p,6,1080.0
-F25-0914,Monitor 24p,5,900.0
-F25-0914,Cable HDMI 2m,4,51.96
-F25-0915,Cable HDMI 2m,9,116.91
-F25-0915,Monitor 24p,2,360.0
-F25-0915,Soporte Laptop,8,360.0
-F25-0916,Cable HDMI 2m,10,129.9
-F25-0917,Mouse Ergonómico,3,76.5
-F25-0917,Teclado Mecánico,9,675.0
-F25-0917,Teclado Mecánico,5,375.0
-F25-0917,Mouse Ergonómico,9,229.5
-F25-0917,Monitor 24p,9,1620.0
-F25-0918,Teclado Mecánico,1,75.0
-F25-0918,Teclado Mecánico,5,375.0
-F25-0918,Cable HDMI 2m,4,51.96
-F25-0918,Laptop Pro,5,6000.0
-F25-0918,Mouse Ergonómico,10,255.0
-F25-0919,Soporte Laptop,10,450.0
-F25-0919,Cable HDMI 2m,9,116.91
-F25-0920,Laptop Pro,10,12000.0
-F25-0920,Teclado Mecánico,7,525.0
-F25-0920,Laptop Pro,1,1200.0
-F25-0920,Soporte Laptop,2,90.0
-F25-0920,Soporte Laptop,4,180.0
-F25-0921,Cable HDMI 2m,8,103.92
-F25-0921,Monitor 24p,7,1260.0
-F25-0922,Laptop Pro,8,9600.0
-F25-0923,Monitor 24p,10,1800.0
-F25-0923,Monitor 24p,9,1620.0
-F25-0923,Mouse Ergonómico,5,127.5
-F25-0923,Soporte Laptop,6,270.0
-F25-0923,Laptop Pro,1,1200.0
-F25-0924,Laptop Pro,2,2400.0
-F25-0924,Soporte Laptop,4,180.0
-F25-0924,Laptop Pro,8,9600.0
-F25-0924,Teclado Mecánico,7,525.0
-F25-0924,Teclado Mecánico,3,225.0
-F25-0925,Monitor 24p,9,1620.0
-F25-0925,Mouse Ergonómico,7,178.5
-F25-0926,Laptop Pro,3,3600.0
-F25-0926,Soporte Laptop,3,135.0
-F25-0926,Soporte Laptop,1,45.0
-F25-0926,Mouse Ergonómico,4,102.0
-F25-0926,Teclado Mecánico,2,150.0
-F25-0927,Monitor 24p,8,1440.0
-F25-0927,Monitor 24p,6,1080.0
-F25-0927,Soporte Laptop,10,450.0
-F25-0928,Cable HDMI 2m,10,129.9
-F25-0929,Soporte Laptop,10,450.0
-F25-0930,Mouse Ergonómico,8,204.0
-F25-0930,Laptop Pro,5,6000.0
-F25-0930,Mouse Ergonómico,2,51.0
-F25-0930,Soporte Laptop,1,45.0
-F25-0931,Cable HDMI 2m,10,129.9
-F25-0931,Mouse Ergonómico,8,204.0
-F25-0931,Soporte Laptop,8,360.0
-F25-0931,Mouse Ergonómico,8,204.0
-F25-0931,Cable HDMI 2m,1,12.99
-F25-0932,Mouse Ergonómico,9,229.5
-F25-0933,Soporte Laptop,4,180.0
-F25-0933,Cable HDMI 2m,7,90.93
-F25-0934,Soporte Laptop,3,135.0
-F25-0934,Mouse Ergonómico,4,102.0
-F25-0934,Soporte Laptop,3,135.0
-F25-0934,Monitor 24p,2,360.0
-F25-0934,Cable HDMI 2m,9,116.91
-F25-0935,Cable HDMI 2m,6,77.94
-F25-0935,Soporte Laptop,10,450.0
-F25-0935,Mouse Ergonómico,5,127.5
-F25-0935,Laptop Pro,6,7200.0
-F25-0936,Mouse Ergonómico,7,178.5
-F25-0936,Soporte Laptop,2,90.0
-F25-0936,Laptop Pro,2,2400.0
-F25-0937,Monitor 24p,5,900.0
-F25-0937,Soporte Laptop,4,180.0
-F25-0937,Teclado Mecánico,5,375.0
-F25-0937,Soporte Laptop,5,225.0
-F25-0937,Cable HDMI 2m,9,116.91
-F25-0938,Mouse Ergonómico,7,178.5
-F25-0938,Monitor 24p,10,1800.0
-F25-0938,Monitor 24p,1,180.0
-F25-0938,Laptop Pro,3,3600.0
-F25-0938,Monitor 24p,2,360.0
-F25-0939,Soporte Laptop,5,225.0
-F25-0939,Cable HDMI 2m,10,129.9
-F25-0939,Teclado Mecánico,6,450.0
-F25-0939,Mouse Ergonómico,4,102.0
-F25-0940,Soporte Laptop,8,360.0
-F25-0941,Soporte Laptop,7,315.0
-F25-0942,Cable HDMI 2m,1,12.99
-F25-0942,Laptop Pro,6,7200.0
-F25-0943,Soporte Laptop,4,180.0
-F25-0943,Laptop Pro,4,4800.0
-F25-0944,Soporte Laptop,2,90.0
-F25-0944,Cable HDMI 2m,10,129.9
-F25-0944,Cable HDMI 2m,9,116.91
-F25-0944,Monitor 24p,8,1440.0
-F25-0945,Teclado Mecánico,6,450.0
-F25-0945,Mouse Ergonómico,10,255.0
-F25-0945,Teclado Mecánico,5,375.0
-F25-0945,Mouse Ergonómico,6,153.0
-F25-0946,Soporte Laptop,7,315.0
-F25-0946,Mouse Ergonómico,3,76.5
-F25-0946,Soporte Laptop,3,135.0
-F25-0947,Monitor 24p,3,540.0
-F25-0947,Mouse Ergonómico,2,51.0
-F25-0947,Soporte Laptop,10,450.0
-F25-0948,Laptop Pro,9,10800.0
-F25-0948,Mouse Ergonómico,7,178.5
-F25-0948,Monitor 24p,7,1260.0
-F25-0949,Laptop Pro,7,8400.0
-F25-0949,Laptop Pro,2,2400.0
-F25-0949,Laptop Pro,1,1200.0
-F25-0949,Soporte Laptop,2,90.0
-F25-0950,Mouse Ergonómico,7,178.5
-F25-0950,Mouse Ergonómico,9,229.5
-F25-0951,Monitor 24p,1,180.0
-F25-0952,Laptop Pro,9,10800.0
-F25-0953,Soporte Laptop,2,90.0
-F25-0953,Teclado Mecánico,6,450.0
-F25-0953,Mouse Ergonómico,6,153.0
-F25-0953,Laptop Pro,3,3600.0
-F25-0954,Soporte Laptop,7,315.0
-F25-0954,Soporte Laptop,8,360.0
-F25-0954,Monitor 24p,2,360.0
-F25-0954,Cable HDMI 2m,5,64.95
-F25-0954,Monitor 24p,1,180.0
-F25-0955,Cable HDMI 2m,2,25.98
-F25-0955,Monitor 24p,7,1260.0
-F25-0955,Laptop Pro,5,6000.0
-F25-0956,Monitor 24p,3,540.0
-F25-0956,Mouse Ergonómico,8,204.0
-F25-0957,Cable HDMI 2m,2,25.98
-F25-0958,Teclado Mecánico,8,600.0
-F25-0958,Monitor 24p,8,1440.0
-F25-0958,Laptop Pro,3,3600.0
-F25-0959,Soporte Laptop,4,180.0
-F25-0959,Mouse Ergonómico,3,76.5
-F25-0959,Laptop Pro,5,6000.0
-F25-0960,Mouse Ergonómico,6,153.0
-F25-0960,Soporte Laptop,9,405.0
-F25-0960,Cable HDMI 2m,6,77.94
-F25-0960,Cable HDMI 2m,8,103.92
-F25-0961,Monitor 24p,10,1800.0
-F25-0961,Monitor 24p,3,540.0
-F25-0961,Teclado Mecánico,4,300.0
-F25-0961,Teclado Mecánico,8,600.0
-F25-0961,Soporte Laptop,4,180.0
-F25-0962,Soporte Laptop,8,360.0
-F25-0962,Teclado Mecánico,10,750.0
-F25-0963,Cable HDMI 2m,2,25.98
-F25-0963,Teclado Mecánico,8,600.0
-F25-0963,Monitor 24p,7,1260.0
-F25-0964,Cable HDMI 2m,9,116.91
-F25-0964,Mouse Ergonómico,9,229.5
-F25-0965,Laptop Pro,7,8400.0
-F25-0965,Soporte Laptop,7,315.0
-F25-0965,Mouse Ergonómico,1,25.5
-F25-0965,Laptop Pro,1,1200.0
-F25-0966,Soporte Laptop,5,225.0
-F25-0967,Monitor 24p,2,360.0
-F25-0967,Soporte Laptop,7,315.0
-F25-0967,Monitor 24p,9,1620.0
-F25-0967,Soporte Laptop,6,270.0
-F25-0967,Cable HDMI 2m,8,103.92
-F25-0968,Laptop Pro,7,8400.0
-F25-0968,Soporte Laptop,1,45.0
-F25-0968,Soporte Laptop,5,225.0
-F25-0969,Teclado Mecánico,8,600.0
-F25-0969,Cable HDMI 2m,5,64.95
-F25-0969,Laptop Pro,9,10800.0
-F25-0969,Laptop Pro,7,8400.0
-F25-0969,Teclado Mecánico,6,450.0
-F25-0970,Teclado Mecánico,6,450.0
-F25-0970,Cable HDMI 2m,6,77.94
-F25-0971,Laptop Pro,8,9600.0
-F25-0971,Mouse Ergonómico,1,25.5
-F25-0971,Laptop Pro,7,8400.0
-F25-0971,Cable HDMI 2m,1,12.99
-F25-0972,Teclado Mecánico,8,600.0
-F25-0972,Laptop Pro,1,1200.0
-F25-0972,Monitor 24p,10,1800.0
-F25-0973,Teclado Mecánico,10,750.0
-F25-0973,Mouse Ergonómico,2,51.0
-F25-0974,Teclado Mecánico,6,450.0
-F25-0974,Monitor 24p,9,1620.0
-F25-0974,Laptop Pro,10,12000.0
-F25-0974,Teclado Mecánico,7,525.0
-F25-0975,Soporte Laptop,6,270.0
-F25-0975,Teclado Mecánico,3,225.0
-F25-0975,Mouse Ergonómico,1,25.5
-F25-0976,Monitor 24p,8,1440.0
-F25-0977,Mouse Ergonómico,10,255.0
-F25-0977,Laptop Pro,1,1200.0
-F25-0977,Laptop Pro,2,2400.0
-F25-0977,Soporte Laptop,2,90.0
-F25-0977,Teclado Mecánico,7,525.0
-F25-0978,Teclado Mecánico,5,375.0
-F25-0978,Cable HDMI 2m,6,77.94
-F25-0978,Monitor 24p,9,1620.0
-F25-0978,Soporte Laptop,3,135.0
-F25-0979,Laptop Pro,9,10800.0
-F25-0979,Soporte Laptop,9,405.0
-F25-0979,Monitor 24p,1,180.0
-F25-0979,Mouse Ergonómico,9,229.5
-F25-0979,Soporte Laptop,9,405.0
-F25-0980,Monitor 24p,9,1620.0
-F25-0980,Laptop Pro,9,10800.0
-F25-0980,Cable HDMI 2m,7,90.93
-F25-0981,Monitor 24p,7,1260.0
-F25-0981,Teclado Mecánico,7,525.0
-F25-0981,Soporte Laptop,5,225.0
-F25-0981,Teclado Mecánico,2,150.0
-F25-0981,Mouse Ergonómico,2,51.0
-F25-0982,Monitor 24p,10,1800.0
-F25-0982,Laptop Pro,9,10800.0
-F25-0982,Monitor 24p,3,540.0
-F25-0982,Monitor 24p,1,180.0
-F25-0982,Cable HDMI 2m,2,25.98
-F25-0983,Cable HDMI 2m,6,77.94
-F25-0983,Soporte Laptop,8,360.0
-F25-0983,Laptop Pro,3,3600.0
-F25-0984,Laptop Pro,4,4800.0
-F25-0984,Soporte Laptop,10,450.0
-F25-0984,Soporte Laptop,1,45.0
-F25-0984,Mouse Ergonómico,4,102.0
-F25-0985,Laptop Pro,8,9600.0
-F25-0986,Mouse Ergonómico,3,76.5
-F25-0987,Laptop Pro,8,9600.0
-F25-0988,Cable HDMI 2m,10,129.9
-F25-0988,Laptop Pro,7,8400.0
-F25-0988,Teclado Mecánico,5,375.0
-F25-0989,Laptop Pro,7,8400.0
-F25-0989,Soporte Laptop,3,135.0
-F25-0989,Laptop Pro,3,3600.0
-F25-0990,Monitor 24p,10,1800.0
-F25-0990,Laptop Pro,7,8400.0
-F25-0990,Soporte Laptop,7,315.0
-F25-0991,Soporte Laptop,2,90.0
-F25-0992,Monitor 24p,5,900.0
-F25-0992,Monitor 24p,10,1800.0
-F25-0992,Soporte Laptop,7,315.0
-F25-0992,Cable HDMI 2m,3,38.97
-F25-0993,Monitor 24p,5,900.0
-F25-0993,Soporte Laptop,3,135.0
-F25-0993,Soporte Laptop,8,360.0
-F25-0993,Cable HDMI 2m,5,64.95
-F25-0994,Cable HDMI 2m,10,129.9
-F25-0994,Teclado Mecánico,1,75.0
-F25-0994,Mouse Ergonómico,7,178.5
-F25-0994,Mouse Ergonómico,9,229.5
-F25-0995,Laptop Pro,1,1200.0
-F25-0995,Soporte Laptop,7,315.0
-F25-0995,Cable HDMI 2m,7,90.93
-F25-0995,Laptop Pro,9,10800.0
-F25-0995,Soporte Laptop,1,45.0
-F25-0996,Laptop Pro,2,2400.0
-F25-0996,Cable HDMI 2m,1,12.99
-F25-0996,Monitor 24p,7,1260.0
-F25-0996,Monitor 24p,9,1620.0
-F25-0997,Cable HDMI 2m,10,129.9
-F25-0998,Mouse Ergonómico,1,25.5
-F25-0998,Teclado Mecánico,1,75.0
-F25-0998,Teclado Mecánico,5,375.0
-F25-0998,Cable HDMI 2m,8,103.92
-F25-0999,Cable HDMI 2m,6,77.94
-F25-0999,Laptop Pro,3,3600.0
-F25-1000,Laptop Pro,3,3600.0
-F25-1000,Mouse Ergonómico,4,102.0
+factura_id,producto,cantidad,total,item_id
+F25-0001,mico,3,76.5,1
+F25-0001,mico,6,153.0,2
+F25-0001,Cable HDMI 2m,9,116.91,3
+F25-0001,Laptop Pro,8,9600.0,4
+F25-0002,Soporte Laptop,5,225.0,5
+F25-0002,nico,9,675.0,6
+F25-0002,Laptop Pro,9,10800.0,7
+F25-0002,Soporte Laptop,10,450.0,8
+F25-0002,nico,8,600.0,9
+F25-0003,Cable HDMI 2m,2,25.98,10
+F25-0004,Cable HDMI 2m,6,77.94,11
+F25-0004,mico,8,204.0,12
+F25-0005,mico,9,229.5,13
+F25-0005,Monitor 24p,1,180.0,14
+F25-0005,mico,7,178.5,15
+F25-0005,Laptop Pro,7,8400.0,16
+F25-0006,Soporte Laptop,6,270.0,17
+F25-0006,mico,2,51.0,18
+F25-0007,Monitor 24p,6,1080.0,19
+F25-0007,mico,1,25.5,20
+F25-0008,Monitor 24p,2,360.0,21
+F25-0009,Cable HDMI 2m,10,129.9,22
+F25-0009,Monitor 24p,7,1260.0,23
+F25-0009,nico,10,750.0,24
+F25-0009,Soporte Laptop,4,180.0,25
+F25-0009,Soporte Laptop,7,315.0,26
+F25-0010,nico,6,450.0,27
+F25-0011,Monitor 24p,6,1080.0,28
+F25-0011,Cable HDMI 2m,7,90.93,29
+F25-0012,Monitor 24p,9,1620.0,30
+F25-0012,mico,2,51.0,31
+F25-0012,Soporte Laptop,4,180.0,32
+F25-0013,Laptop Pro,3,3600.0,33
+F25-0013,mico,2,51.0,34
+F25-0013,Cable HDMI 2m,3,38.97,35
+F25-0013,nico,9,675.0,36
+F25-0014,Cable HDMI 2m,5,64.95,37
+F25-0014,Soporte Laptop,10,450.0,38
+F25-0015,Soporte Laptop,7,315.0,39
+F25-0015,mico,10,255.0,40
+F25-0015,Laptop Pro,2,2400.0,41
+F25-0015,mico,6,153.0,42
+F25-0016,Monitor 24p,2,360.0,43
+F25-0016,mico,2,51.0,44
+F25-0016,Cable HDMI 2m,3,38.97,45
+F25-0017,nico,9,675.0,46
+F25-0018,mico,1,25.5,47
+F25-0018,Monitor 24p,10,1800.0,48
+F25-0018,Monitor 24p,2,360.0,49
+F25-0018,Cable HDMI 2m,3,38.97,50
+F25-0019,nico,9,675.0,51
+F25-0020,nico,6,450.0,52
+F25-0020,mico,1,25.5,53
+F25-0020,Laptop Pro,2,2400.0,54
+F25-0021,mico,9,229.5,55
+F25-0021,Soporte Laptop,9,405.0,56
+F25-0022,Laptop Pro,4,4800.0,57
+F25-0023,Laptop Pro,8,9600.0,58
+F25-0023,mico,6,153.0,59
+F25-0023,Monitor 24p,1,180.0,60
+F25-0024,nico,4,300.0,61
+F25-0024,Monitor 24p,5,900.0,62
+F25-0025,Soporte Laptop,3,135.0,63
+F25-0025,Laptop Pro,5,6000.0,64
+F25-0026,Cable HDMI 2m,8,103.92,65
+F25-0026,Monitor 24p,4,720.0,66
+F25-0026,Soporte Laptop,1,45.0,67
+F25-0026,Laptop Pro,9,10800.0,68
+F25-0027,Soporte Laptop,2,90.0,69
+F25-0027,Monitor 24p,3,540.0,70
+F25-0027,Monitor 24p,4,720.0,71
+F25-0027,Soporte Laptop,9,405.0,72
+F25-0027,Monitor 24p,10,1800.0,73
+F25-0028,Soporte Laptop,6,270.0,74
+F25-0028,Monitor 24p,7,1260.0,75
+F25-0028,mico,5,127.5,76
+F25-0029,Laptop Pro,5,6000.0,77
+F25-0030,nico,8,600.0,78
+F25-0030,nico,6,450.0,79
+F25-0030,nico,9,675.0,80
+F25-0030,Laptop Pro,9,10800.0,81
+F25-0030,Monitor 24p,10,1800.0,82
+F25-0031,Cable HDMI 2m,2,25.98,83
+F25-0031,Monitor 24p,3,540.0,84
+F25-0032,Cable HDMI 2m,9,116.91,85
+F25-0032,Monitor 24p,3,540.0,86
+F25-0033,nico,4,300.0,87
+F25-0033,Soporte Laptop,9,405.0,88
+F25-0033,Cable HDMI 2m,3,38.97,89
+F25-0034,Cable HDMI 2m,8,103.92,90
+F25-0035,Cable HDMI 2m,5,64.95,91
+F25-0035,nico,1,75.0,92
+F25-0035,Cable HDMI 2m,1,12.99,93
+F25-0036,Laptop Pro,8,9600.0,94
+F25-0036,Laptop Pro,5,6000.0,95
+F25-0036,nico,3,225.0,96
+F25-0036,Soporte Laptop,10,450.0,97
+F25-0037,Cable HDMI 2m,2,25.98,98
+F25-0037,mico,10,255.0,99
+F25-0038,mico,8,204.0,100
+F25-0038,Laptop Pro,6,7200.0,101
+F25-0039,Cable HDMI 2m,8,103.92,102
+F25-0039,Cable HDMI 2m,6,77.94,103
+F25-0039,nico,3,225.0,104
+F25-0039,mico,2,51.0,105
+F25-0039,Soporte Laptop,10,450.0,106
+F25-0040,Soporte Laptop,6,270.0,107
+F25-0040,Monitor 24p,8,1440.0,108
+F25-0040,Cable HDMI 2m,2,25.98,109
+F25-0040,Monitor 24p,4,720.0,110
+F25-0041,nico,4,300.0,111
+F25-0041,Soporte Laptop,9,405.0,112
+F25-0041,Cable HDMI 2m,10,129.9,113
+F25-0041,mico,10,255.0,114
+F25-0041,Monitor 24p,6,1080.0,115
+F25-0042,Monitor 24p,4,720.0,116
+F25-0043,Cable HDMI 2m,3,38.97,117
+F25-0043,Monitor 24p,10,1800.0,118
+F25-0043,Cable HDMI 2m,8,103.92,119
+F25-0044,Laptop Pro,7,8400.0,120
+F25-0044,Laptop Pro,2,2400.0,121
+F25-0045,Laptop Pro,4,4800.0,122
+F25-0045,Cable HDMI 2m,10,129.9,123
+F25-0045,Soporte Laptop,3,135.0,124
+F25-0046,mico,1,25.5,125
+F25-0046,Monitor 24p,1,180.0,126
+F25-0046,Monitor 24p,6,1080.0,127
+F25-0046,Cable HDMI 2m,2,25.98,128
+F25-0047,Laptop Pro,8,9600.0,129
+F25-0047,Monitor 24p,5,900.0,130
+F25-0047,Cable HDMI 2m,7,90.93,131
+F25-0047,mico,5,127.5,132
+F25-0047,nico,6,450.0,133
+F25-0048,nico,3,225.0,134
+F25-0049,nico,1,75.0,135
+F25-0049,nico,2,150.0,136
+F25-0049,Laptop Pro,4,4800.0,137
+F25-0049,nico,8,600.0,138
+F25-0049,Cable HDMI 2m,7,90.93,139
+F25-0050,Cable HDMI 2m,6,77.94,140
+F25-0051,nico,2,150.0,141
+F25-0051,Monitor 24p,5,900.0,142
+F25-0051,Laptop Pro,7,8400.0,143
+F25-0051,mico,8,204.0,144
+F25-0052,Cable HDMI 2m,7,90.93,145
+F25-0052,Monitor 24p,1,180.0,146
+F25-0053,Monitor 24p,6,1080.0,147
+F25-0053,mico,5,127.5,148
+F25-0053,Soporte Laptop,9,405.0,149
+F25-0054,Laptop Pro,2,2400.0,150
+F25-0054,nico,9,675.0,151
+F25-0055,Laptop Pro,5,6000.0,152
+F25-0055,Soporte Laptop,2,90.0,153
+F25-0055,nico,1,75.0,154
+F25-0055,Cable HDMI 2m,4,51.96,155
+F25-0055,Cable HDMI 2m,2,25.98,156
+F25-0056,Cable HDMI 2m,7,90.93,157
+F25-0056,Cable HDMI 2m,9,116.91,158
+F25-0056,nico,2,150.0,159
+F25-0056,Cable HDMI 2m,6,77.94,160
+F25-0057,mico,6,153.0,161
+F25-0057,Monitor 24p,2,360.0,162
+F25-0057,Laptop Pro,9,10800.0,163
+F25-0058,nico,7,525.0,164
+F25-0059,Cable HDMI 2m,9,116.91,165
+F25-0059,mico,6,153.0,166
+F25-0060,Monitor 24p,2,360.0,167
+F25-0060,Monitor 24p,1,180.0,168
+F25-0060,Soporte Laptop,3,135.0,169
+F25-0060,Monitor 24p,3,540.0,170
+F25-0061,Laptop Pro,5,6000.0,171
+F25-0061,Cable HDMI 2m,5,64.95,172
+F25-0062,Laptop Pro,10,12000.0,173
+F25-0062,Monitor 24p,2,360.0,174
+F25-0063,Laptop Pro,8,9600.0,175
+F25-0063,Cable HDMI 2m,10,129.9,176
+F25-0063,Soporte Laptop,1,45.0,177
+F25-0064,Soporte Laptop,7,315.0,178
+F25-0065,Soporte Laptop,8,360.0,179
+F25-0065,Laptop Pro,4,4800.0,180
+F25-0065,nico,9,675.0,181
+F25-0066,Monitor 24p,10,1800.0,182
+F25-0066,Cable HDMI 2m,2,25.98,183
+F25-0067,Cable HDMI 2m,2,25.98,184
+F25-0067,Cable HDMI 2m,1,12.99,185
+F25-0068,Laptop Pro,6,7200.0,186
+F25-0068,Monitor 24p,9,1620.0,187
+F25-0068,Laptop Pro,5,6000.0,188
+F25-0068,Soporte Laptop,6,270.0,189
+F25-0069,Monitor 24p,8,1440.0,190
+F25-0069,mico,1,25.5,191
+F25-0069,Cable HDMI 2m,7,90.93,192
+F25-0070,mico,4,102.0,193
+F25-0070,Monitor 24p,1,180.0,194
+F25-0071,Cable HDMI 2m,4,51.96,195
+F25-0071,Laptop Pro,10,12000.0,196
+F25-0071,Laptop Pro,5,6000.0,197
+F25-0071,Monitor 24p,3,540.0,198
+F25-0072,Laptop Pro,2,2400.0,199
+F25-0072,mico,5,127.5,200
+F25-0073,Monitor 24p,1,180.0,201
+F25-0073,Monitor 24p,5,900.0,202
+F25-0073,nico,3,225.0,203
+F25-0073,Cable HDMI 2m,4,51.96,204
+F25-0074,mico,8,204.0,205
+F25-0074,Laptop Pro,7,8400.0,206
+F25-0074,nico,7,525.0,207
+F25-0074,Laptop Pro,10,12000.0,208
+F25-0075,Soporte Laptop,1,45.0,209
+F25-0075,nico,4,300.0,210
+F25-0076,Laptop Pro,5,6000.0,211
+F25-0076,Monitor 24p,9,1620.0,212
+F25-0076,nico,2,150.0,213
+F25-0076,Monitor 24p,8,1440.0,214
+F25-0077,mico,1,25.5,215
+F25-0078,Cable HDMI 2m,6,77.94,216
+F25-0078,Cable HDMI 2m,9,116.91,217
+F25-0078,Monitor 24p,9,1620.0,218
+F25-0078,Cable HDMI 2m,3,38.97,219
+F25-0078,Cable HDMI 2m,1,12.99,220
+F25-0079,mico,7,178.5,221
+F25-0080,mico,3,76.5,222
+F25-0080,Monitor 24p,9,1620.0,223
+F25-0081,Cable HDMI 2m,4,51.96,224
+F25-0081,Cable HDMI 2m,8,103.92,225
+F25-0081,nico,9,675.0,226
+F25-0081,mico,7,178.5,227
+F25-0081,Laptop Pro,3,3600.0,228
+F25-0082,Cable HDMI 2m,4,51.96,229
+F25-0082,mico,1,25.5,230
+F25-0083,nico,7,525.0,231
+F25-0084,nico,7,525.0,232
+F25-0085,Soporte Laptop,10,450.0,233
+F25-0085,Laptop Pro,1,1200.0,234
+F25-0085,Monitor 24p,4,720.0,235
+F25-0086,Monitor 24p,3,540.0,236
+F25-0087,mico,10,255.0,237
+F25-0087,Monitor 24p,9,1620.0,238
+F25-0087,Laptop Pro,3,3600.0,239
+F25-0088,Monitor 24p,8,1440.0,240
+F25-0088,mico,9,229.5,241
+F25-0088,Monitor 24p,7,1260.0,242
+F25-0088,mico,5,127.5,243
+F25-0089,Monitor 24p,5,900.0,244
+F25-0090,Monitor 24p,5,900.0,245
+F25-0090,Soporte Laptop,5,225.0,246
+F25-0091,Soporte Laptop,10,450.0,247
+F25-0091,mico,2,51.0,248
+F25-0091,Monitor 24p,5,900.0,249
+F25-0091,mico,3,76.5,250
+F25-0092,Cable HDMI 2m,4,51.96,251
+F25-0092,nico,3,225.0,252
+F25-0092,Monitor 24p,1,180.0,253
+F25-0092,mico,8,204.0,254
+F25-0092,Cable HDMI 2m,7,90.93,255
+F25-0093,nico,1,75.0,256
+F25-0094,Cable HDMI 2m,4,51.96,257
+F25-0094,Soporte Laptop,9,405.0,258
+F25-0094,mico,3,76.5,259
+F25-0095,mico,10,255.0,260
+F25-0095,Soporte Laptop,3,135.0,261
+F25-0095,mico,6,153.0,262
+F25-0095,Soporte Laptop,2,90.0,263
+F25-0096,Cable HDMI 2m,2,25.98,264
+F25-0097,Monitor 24p,9,1620.0,265
+F25-0097,Cable HDMI 2m,6,77.94,266
+F25-0097,mico,7,178.5,267
+F25-0097,nico,4,300.0,268
+F25-0097,Cable HDMI 2m,3,38.97,269
+F25-0098,Soporte Laptop,4,180.0,270
+F25-0098,Laptop Pro,2,2400.0,271
+F25-0098,nico,7,525.0,272
+F25-0098,Soporte Laptop,10,450.0,273
+F25-0099,Laptop Pro,4,4800.0,274
+F25-0099,nico,3,225.0,275
+F25-0099,nico,2,150.0,276
+F25-0099,Laptop Pro,8,9600.0,277
+F25-0099,Laptop Pro,5,6000.0,278
+F25-0100,Soporte Laptop,7,315.0,279
+F25-0100,Monitor 24p,5,900.0,280
+F25-0101,Cable HDMI 2m,3,38.97,281
+F25-0101,nico,5,375.0,282
+F25-0101,Monitor 24p,3,540.0,283
+F25-0102,Laptop Pro,1,1200.0,284
+F25-0102,Cable HDMI 2m,8,103.92,285
+F25-0102,mico,3,76.5,286
+F25-0103,Soporte Laptop,10,450.0,287
+F25-0103,Cable HDMI 2m,3,38.97,288
+F25-0104,Cable HDMI 2m,3,38.97,289
+F25-0105,nico,3,225.0,290
+F25-0105,nico,9,675.0,291
+F25-0105,Cable HDMI 2m,3,38.97,292
+F25-0105,Laptop Pro,1,1200.0,293
+F25-0106,Cable HDMI 2m,2,25.98,294
+F25-0106,Monitor 24p,9,1620.0,295
+F25-0106,Laptop Pro,9,10800.0,296
+F25-0106,Laptop Pro,8,9600.0,297
+F25-0107,mico,3,76.5,298
+F25-0107,nico,3,225.0,299
+F25-0107,mico,8,204.0,300
+F25-0107,Cable HDMI 2m,10,129.9,301
+F25-0107,Laptop Pro,7,8400.0,302
+F25-0108,Soporte Laptop,7,315.0,303
+F25-0108,nico,3,225.0,304
+F25-0108,mico,7,178.5,305
+F25-0109,Soporte Laptop,4,180.0,306
+F25-0110,Laptop Pro,10,12000.0,307
+F25-0110,Laptop Pro,8,9600.0,308
+F25-0111,Laptop Pro,1,1200.0,309
+F25-0112,Soporte Laptop,4,180.0,310
+F25-0112,Cable HDMI 2m,1,12.99,311
+F25-0112,Laptop Pro,8,9600.0,312
+F25-0112,Cable HDMI 2m,3,38.97,313
+F25-0112,nico,6,450.0,314
+F25-0113,mico,3,76.5,315
+F25-0113,Monitor 24p,4,720.0,316
+F25-0113,Monitor 24p,8,1440.0,317
+F25-0114,mico,9,229.5,318
+F25-0114,Soporte Laptop,3,135.0,319
+F25-0115,Cable HDMI 2m,9,116.91,320
+F25-0115,nico,6,450.0,321
+F25-0115,Soporte Laptop,7,315.0,322
+F25-0115,Monitor 24p,6,1080.0,323
+F25-0116,Cable HDMI 2m,6,77.94,324
+F25-0116,nico,6,450.0,325
+F25-0116,nico,2,150.0,326
+F25-0116,Laptop Pro,6,7200.0,327
+F25-0116,mico,4,102.0,328
+F25-0117,Laptop Pro,10,12000.0,329
+F25-0117,Laptop Pro,1,1200.0,330
+F25-0117,Soporte Laptop,2,90.0,331
+F25-0117,Laptop Pro,6,7200.0,332
+F25-0118,mico,10,255.0,333
+F25-0118,Laptop Pro,8,9600.0,334
+F25-0119,Monitor 24p,3,540.0,335
+F25-0119,mico,3,76.5,336
+F25-0120,Cable HDMI 2m,9,116.91,337
+F25-0120,nico,5,375.0,338
+F25-0120,Cable HDMI 2m,6,77.94,339
+F25-0121,Cable HDMI 2m,1,12.99,340
+F25-0122,Monitor 24p,4,720.0,341
+F25-0122,nico,6,450.0,342
+F25-0123,Cable HDMI 2m,1,12.99,343
+F25-0123,Soporte Laptop,5,225.0,344
+F25-0123,Laptop Pro,5,6000.0,345
+F25-0123,nico,7,525.0,346
+F25-0124,Monitor 24p,4,720.0,347
+F25-0124,Soporte Laptop,9,405.0,348
+F25-0124,nico,3,225.0,349
+F25-0125,mico,10,255.0,350
+F25-0126,Laptop Pro,9,10800.0,351
+F25-0126,Laptop Pro,7,8400.0,352
+F25-0126,Laptop Pro,10,12000.0,353
+F25-0126,Cable HDMI 2m,6,77.94,354
+F25-0127,nico,2,150.0,355
+F25-0127,Cable HDMI 2m,3,38.97,356
+F25-0127,Laptop Pro,9,10800.0,357
+F25-0127,nico,7,525.0,358
+F25-0127,Cable HDMI 2m,7,90.93,359
+F25-0128,Laptop Pro,4,4800.0,360
+F25-0129,mico,7,178.5,361
+F25-0130,nico,1,75.0,362
+F25-0130,Soporte Laptop,1,45.0,363
+F25-0131,Cable HDMI 2m,4,51.96,364
+F25-0131,nico,4,300.0,365
+F25-0131,mico,3,76.5,366
+F25-0132,Soporte Laptop,10,450.0,367
+F25-0132,Cable HDMI 2m,6,77.94,368
+F25-0132,Laptop Pro,4,4800.0,369
+F25-0132,nico,2,150.0,370
+F25-0132,Monitor 24p,7,1260.0,371
+F25-0133,nico,2,150.0,372
+F25-0134,Cable HDMI 2m,6,77.94,373
+F25-0134,Cable HDMI 2m,1,12.99,374
+F25-0135,Laptop Pro,1,1200.0,375
+F25-0135,Monitor 24p,1,180.0,376
+F25-0135,Cable HDMI 2m,3,38.97,377
+F25-0135,Monitor 24p,5,900.0,378
+F25-0136,Laptop Pro,2,2400.0,379
+F25-0136,nico,2,150.0,380
+F25-0136,Monitor 24p,8,1440.0,381
+F25-0136,Cable HDMI 2m,9,116.91,382
+F25-0136,Monitor 24p,3,540.0,383
+F25-0137,Soporte Laptop,2,90.0,384
+F25-0138,Cable HDMI 2m,4,51.96,385
+F25-0138,Monitor 24p,6,1080.0,386
+F25-0138,Monitor 24p,1,180.0,387
+F25-0138,Laptop Pro,6,7200.0,388
+F25-0139,Cable HDMI 2m,4,51.96,389
+F25-0139,nico,7,525.0,390
+F25-0139,Soporte Laptop,6,270.0,391
+F25-0139,Cable HDMI 2m,6,77.94,392
+F25-0140,nico,7,525.0,393
+F25-0140,mico,3,76.5,394
+F25-0140,Soporte Laptop,8,360.0,395
+F25-0141,Cable HDMI 2m,3,38.97,396
+F25-0141,Cable HDMI 2m,1,12.99,397
+F25-0141,mico,8,204.0,398
+F25-0141,Laptop Pro,2,2400.0,399
+F25-0141,nico,8,600.0,400
+F25-0142,Soporte Laptop,2,90.0,401
+F25-0142,Soporte Laptop,7,315.0,402
+F25-0142,Cable HDMI 2m,4,51.96,403
+F25-0143,Monitor 24p,7,1260.0,404
+F25-0143,mico,8,204.0,405
+F25-0143,mico,1,25.5,406
+F25-0143,Soporte Laptop,4,180.0,407
+F25-0143,nico,1,75.0,408
+F25-0144,Laptop Pro,5,6000.0,409
+F25-0144,nico,5,375.0,410
+F25-0145,Laptop Pro,5,6000.0,411
+F25-0145,Soporte Laptop,3,135.0,412
+F25-0145,mico,2,51.0,413
+F25-0146,Laptop Pro,3,3600.0,414
+F25-0147,Cable HDMI 2m,3,38.97,415
+F25-0147,Soporte Laptop,5,225.0,416
+F25-0147,nico,6,450.0,417
+F25-0147,Cable HDMI 2m,1,12.99,418
+F25-0148,Monitor 24p,5,900.0,419
+F25-0148,mico,2,51.0,420
+F25-0149,mico,6,153.0,421
+F25-0150,Soporte Laptop,5,225.0,422
+F25-0150,Cable HDMI 2m,5,64.95,423
+F25-0150,Monitor 24p,4,720.0,424
+F25-0151,Cable HDMI 2m,2,25.98,425
+F25-0151,Cable HDMI 2m,7,90.93,426
+F25-0151,Cable HDMI 2m,9,116.91,427
+F25-0151,Monitor 24p,5,900.0,428
+F25-0151,Soporte Laptop,2,90.0,429
+F25-0152,Soporte Laptop,1,45.0,430
+F25-0153,Monitor 24p,7,1260.0,431
+F25-0154,Cable HDMI 2m,6,77.94,432
+F25-0154,nico,5,375.0,433
+F25-0154,Monitor 24p,3,540.0,434
+F25-0154,nico,9,675.0,435
+F25-0155,nico,3,225.0,436
+F25-0156,Cable HDMI 2m,3,38.97,437
+F25-0156,nico,7,525.0,438
+F25-0156,nico,5,375.0,439
+F25-0156,Monitor 24p,7,1260.0,440
+F25-0157,Cable HDMI 2m,3,38.97,441
+F25-0157,Soporte Laptop,7,315.0,442
+F25-0157,Soporte Laptop,6,270.0,443
+F25-0157,nico,5,375.0,444
+F25-0158,Cable HDMI 2m,7,90.93,445
+F25-0158,Monitor 24p,5,900.0,446
+F25-0158,Monitor 24p,8,1440.0,447
+F25-0159,Cable HDMI 2m,2,25.98,448
+F25-0159,Monitor 24p,4,720.0,449
+F25-0159,Laptop Pro,10,12000.0,450
+F25-0159,nico,4,300.0,451
+F25-0159,mico,8,204.0,452
+F25-0160,Laptop Pro,4,4800.0,453
+F25-0160,Laptop Pro,8,9600.0,454
+F25-0160,Laptop Pro,7,8400.0,455
+F25-0160,Cable HDMI 2m,3,38.97,456
+F25-0160,Soporte Laptop,7,315.0,457
+F25-0161,mico,5,127.5,458
+F25-0161,Soporte Laptop,1,45.0,459
+F25-0161,Cable HDMI 2m,8,103.92,460
+F25-0162,Laptop Pro,2,2400.0,461
+F25-0162,mico,3,76.5,462
+F25-0162,Laptop Pro,5,6000.0,463
+F25-0162,nico,1,75.0,464
+F25-0162,Monitor 24p,10,1800.0,465
+F25-0163,Cable HDMI 2m,3,38.97,466
+F25-0164,Soporte Laptop,7,315.0,467
+F25-0164,mico,5,127.5,468
+F25-0164,Monitor 24p,6,1080.0,469
+F25-0164,Laptop Pro,8,9600.0,470
+F25-0165,Monitor 24p,7,1260.0,471
+F25-0165,mico,4,102.0,472
+F25-0166,nico,6,450.0,473
+F25-0166,Cable HDMI 2m,6,77.94,474
+F25-0166,Cable HDMI 2m,10,129.9,475
+F25-0166,Laptop Pro,2,2400.0,476
+F25-0166,Soporte Laptop,1,45.0,477
+F25-0167,Monitor 24p,2,360.0,478
+F25-0168,Laptop Pro,9,10800.0,479
+F25-0169,Cable HDMI 2m,4,51.96,480
+F25-0170,Cable HDMI 2m,5,64.95,481
+F25-0170,Soporte Laptop,7,315.0,482
+F25-0171,mico,9,229.5,483
+F25-0171,Monitor 24p,10,1800.0,484
+F25-0171,Laptop Pro,2,2400.0,485
+F25-0171,Monitor 24p,5,900.0,486
+F25-0172,nico,2,150.0,487
+F25-0172,Monitor 24p,3,540.0,488
+F25-0172,Cable HDMI 2m,6,77.94,489
+F25-0173,Monitor 24p,1,180.0,490
+F25-0174,mico,6,153.0,491
+F25-0174,Cable HDMI 2m,3,38.97,492
+F25-0174,Cable HDMI 2m,4,51.96,493
+F25-0174,nico,5,375.0,494
+F25-0174,Monitor 24p,3,540.0,495
+F25-0175,Cable HDMI 2m,4,51.96,496
+F25-0175,Laptop Pro,10,12000.0,497
+F25-0175,Monitor 24p,3,540.0,498
+F25-0176,Laptop Pro,3,3600.0,499
+F25-0176,mico,4,102.0,500
+F25-0177,Monitor 24p,10,1800.0,501
+F25-0177,Monitor 24p,9,1620.0,502
+F25-0177,Soporte Laptop,1,45.0,503
+F25-0177,Laptop Pro,10,12000.0,504
+F25-0177,mico,6,153.0,505
+F25-0178,mico,9,229.5,506
+F25-0178,Monitor 24p,4,720.0,507
+F25-0179,Monitor 24p,2,360.0,508
+F25-0179,Monitor 24p,1,180.0,509
+F25-0180,Cable HDMI 2m,10,129.9,510
+F25-0180,Laptop Pro,6,7200.0,511
+F25-0180,Cable HDMI 2m,2,25.98,512
+F25-0181,Monitor 24p,7,1260.0,513
+F25-0181,Monitor 24p,4,720.0,514
+F25-0182,mico,8,204.0,515
+F25-0182,Laptop Pro,7,8400.0,516
+F25-0182,nico,2,150.0,517
+F25-0183,Cable HDMI 2m,6,77.94,518
+F25-0183,Laptop Pro,10,12000.0,519
+F25-0184,mico,1,25.5,520
+F25-0185,Cable HDMI 2m,10,129.9,521
+F25-0186,nico,6,450.0,522
+F25-0186,Cable HDMI 2m,4,51.96,523
+F25-0186,nico,2,150.0,524
+F25-0186,Cable HDMI 2m,1,12.99,525
+F25-0187,nico,3,225.0,526
+F25-0188,Laptop Pro,1,1200.0,527
+F25-0189,Soporte Laptop,3,135.0,528
+F25-0190,mico,3,76.5,529
+F25-0190,Soporte Laptop,10,450.0,530
+F25-0191,Monitor 24p,10,1800.0,531
+F25-0192,mico,8,204.0,532
+F25-0192,Laptop Pro,8,9600.0,533
+F25-0192,nico,3,225.0,534
+F25-0192,Laptop Pro,2,2400.0,535
+F25-0193,mico,10,255.0,536
+F25-0193,Cable HDMI 2m,3,38.97,537
+F25-0193,Monitor 24p,3,540.0,538
+F25-0193,Soporte Laptop,6,270.0,539
+F25-0193,Soporte Laptop,5,225.0,540
+F25-0194,mico,1,25.5,541
+F25-0194,Soporte Laptop,3,135.0,542
+F25-0194,nico,1,75.0,543
+F25-0194,nico,8,600.0,544
+F25-0194,Laptop Pro,8,9600.0,545
+F25-0195,Cable HDMI 2m,2,25.98,546
+F25-0195,nico,7,525.0,547
+F25-0196,Cable HDMI 2m,7,90.93,548
+F25-0196,Soporte Laptop,7,315.0,549
+F25-0196,Soporte Laptop,1,45.0,550
+F25-0196,Laptop Pro,9,10800.0,551
+F25-0197,Monitor 24p,1,180.0,552
+F25-0198,nico,3,225.0,553
+F25-0198,mico,9,229.5,554
+F25-0198,mico,7,178.5,555
+F25-0199,Cable HDMI 2m,4,51.96,556
+F25-0199,Soporte Laptop,7,315.0,557
+F25-0199,Cable HDMI 2m,5,64.95,558
+F25-0199,mico,4,102.0,559
+F25-0200,Cable HDMI 2m,7,90.93,560
+F25-0200,mico,1,25.5,561
+F25-0200,nico,9,675.0,562
+F25-0201,Cable HDMI 2m,10,129.9,563
+F25-0201,nico,5,375.0,564
+F25-0201,mico,5,127.5,565
+F25-0201,nico,3,225.0,566
+F25-0202,Soporte Laptop,3,135.0,567
+F25-0202,Monitor 24p,8,1440.0,568
+F25-0203,Monitor 24p,2,360.0,569
+F25-0204,Monitor 24p,5,900.0,570
+F25-0204,nico,10,750.0,571
+F25-0204,nico,3,225.0,572
+F25-0204,Soporte Laptop,7,315.0,573
+F25-0205,nico,9,675.0,574
+F25-0205,mico,8,204.0,575
+F25-0205,Cable HDMI 2m,5,64.95,576
+F25-0206,nico,2,150.0,577
+F25-0206,Cable HDMI 2m,2,25.98,578
+F25-0206,nico,4,300.0,579
+F25-0207,Cable HDMI 2m,7,90.93,580
+F25-0208,nico,6,450.0,581
+F25-0208,Soporte Laptop,2,90.0,582
+F25-0208,nico,1,75.0,583
+F25-0209,Monitor 24p,1,180.0,584
+F25-0210,nico,6,450.0,585
+F25-0210,Cable HDMI 2m,2,25.98,586
+F25-0211,Cable HDMI 2m,5,64.95,587
+F25-0211,nico,10,750.0,588
+F25-0211,Soporte Laptop,1,45.0,589
+F25-0212,Monitor 24p,2,360.0,590
+F25-0212,mico,10,255.0,591
+F25-0212,Soporte Laptop,5,225.0,592
+F25-0212,mico,7,178.5,593
+F25-0213,Laptop Pro,1,1200.0,594
+F25-0214,Cable HDMI 2m,5,64.95,595
+F25-0214,nico,1,75.0,596
+F25-0214,nico,9,675.0,597
+F25-0214,Monitor 24p,7,1260.0,598
+F25-0214,nico,5,375.0,599
+F25-0215,Laptop Pro,8,9600.0,600
+F25-0215,Laptop Pro,7,8400.0,601
+F25-0216,Soporte Laptop,1,45.0,602
+F25-0217,Soporte Laptop,6,270.0,603
+F25-0217,nico,6,450.0,604
+F25-0217,Laptop Pro,2,2400.0,605
+F25-0217,Cable HDMI 2m,3,38.97,606
+F25-0218,Soporte Laptop,3,135.0,607
+F25-0218,Soporte Laptop,5,225.0,608
+F25-0219,Laptop Pro,6,7200.0,609
+F25-0220,nico,8,600.0,610
+F25-0221,Monitor 24p,7,1260.0,611
+F25-0221,Cable HDMI 2m,1,12.99,612
+F25-0222,Monitor 24p,8,1440.0,613
+F25-0222,nico,8,600.0,614
+F25-0222,Soporte Laptop,1,45.0,615
+F25-0222,Cable HDMI 2m,6,77.94,616
+F25-0223,nico,5,375.0,617
+F25-0223,mico,3,76.5,618
+F25-0223,Monitor 24p,8,1440.0,619
+F25-0223,nico,10,750.0,620
+F25-0224,mico,6,153.0,621
+F25-0225,nico,8,600.0,622
+F25-0225,Cable HDMI 2m,5,64.95,623
+F25-0225,mico,5,127.5,624
+F25-0225,Soporte Laptop,10,450.0,625
+F25-0226,Soporte Laptop,4,180.0,626
+F25-0226,Soporte Laptop,1,45.0,627
+F25-0226,mico,5,127.5,628
+F25-0227,Soporte Laptop,10,450.0,629
+F25-0227,Cable HDMI 2m,7,90.93,630
+F25-0228,nico,7,525.0,631
+F25-0228,Monitor 24p,6,1080.0,632
+F25-0229,Monitor 24p,3,540.0,633
+F25-0229,Laptop Pro,6,7200.0,634
+F25-0229,nico,9,675.0,635
+F25-0230,Cable HDMI 2m,8,103.92,636
+F25-0230,nico,9,675.0,637
+F25-0230,Laptop Pro,9,10800.0,638
+F25-0230,mico,1,25.5,639
+F25-0230,Monitor 24p,2,360.0,640
+F25-0231,Cable HDMI 2m,1,12.99,641
+F25-0232,Laptop Pro,6,7200.0,642
+F25-0233,nico,3,225.0,643
+F25-0233,mico,2,51.0,644
+F25-0233,Cable HDMI 2m,8,103.92,645
+F25-0233,Laptop Pro,3,3600.0,646
+F25-0234,nico,5,375.0,647
+F25-0235,Laptop Pro,4,4800.0,648
+F25-0235,Soporte Laptop,5,225.0,649
+F25-0235,mico,6,153.0,650
+F25-0235,Cable HDMI 2m,9,116.91,651
+F25-0236,nico,1,75.0,652
+F25-0236,Monitor 24p,9,1620.0,653
+F25-0236,Monitor 24p,1,180.0,654
+F25-0236,Soporte Laptop,5,225.0,655
+F25-0236,Monitor 24p,6,1080.0,656
+F25-0237,Soporte Laptop,2,90.0,657
+F25-0237,nico,5,375.0,658
+F25-0237,mico,9,229.5,659
+F25-0238,Cable HDMI 2m,1,12.99,660
+F25-0238,Cable HDMI 2m,3,38.97,661
+F25-0238,Monitor 24p,1,180.0,662
+F25-0239,Cable HDMI 2m,8,103.92,663
+F25-0239,Monitor 24p,3,540.0,664
+F25-0239,Monitor 24p,2,360.0,665
+F25-0239,Soporte Laptop,3,135.0,666
+F25-0239,nico,9,675.0,667
+F25-0240,Monitor 24p,10,1800.0,668
+F25-0240,Cable HDMI 2m,9,116.91,669
+F25-0240,mico,7,178.5,670
+F25-0241,Soporte Laptop,6,270.0,671
+F25-0241,mico,7,178.5,672
+F25-0241,Cable HDMI 2m,3,38.97,673
+F25-0242,mico,6,153.0,674
+F25-0242,nico,8,600.0,675
+F25-0242,Laptop Pro,10,12000.0,676
+F25-0243,Soporte Laptop,4,180.0,677
+F25-0243,mico,8,204.0,678
+F25-0244,Monitor 24p,5,900.0,679
+F25-0244,Monitor 24p,9,1620.0,680
+F25-0244,mico,6,153.0,681
+F25-0244,mico,4,102.0,682
+F25-0244,mico,8,204.0,683
+F25-0245,Monitor 24p,1,180.0,684
+F25-0245,mico,1,25.5,685
+F25-0245,Cable HDMI 2m,1,12.99,686
+F25-0245,Laptop Pro,5,6000.0,687
+F25-0246,mico,8,204.0,688
+F25-0246,nico,4,300.0,689
+F25-0246,nico,8,600.0,690
+F25-0246,Cable HDMI 2m,4,51.96,691
+F25-0246,Laptop Pro,7,8400.0,692
+F25-0247,Soporte Laptop,2,90.0,693
+F25-0247,Cable HDMI 2m,5,64.95,694
+F25-0247,Monitor 24p,3,540.0,695
+F25-0247,Cable HDMI 2m,6,77.94,696
+F25-0247,Soporte Laptop,6,270.0,697
+F25-0248,Cable HDMI 2m,4,51.96,698
+F25-0248,Cable HDMI 2m,6,77.94,699
+F25-0248,Laptop Pro,8,9600.0,700
+F25-0249,mico,3,76.5,701
+F25-0249,Soporte Laptop,5,225.0,702
+F25-0250,nico,1,75.0,703
+F25-0251,Monitor 24p,1,180.0,704
+F25-0252,Cable HDMI 2m,5,64.95,705
+F25-0252,Laptop Pro,7,8400.0,706
+F25-0252,Cable HDMI 2m,8,103.92,707
+F25-0252,mico,7,178.5,708
+F25-0252,Soporte Laptop,7,315.0,709
+F25-0253,mico,4,102.0,710
+F25-0253,Soporte Laptop,8,360.0,711
+F25-0253,Laptop Pro,1,1200.0,712
+F25-0253,mico,8,204.0,713
+F25-0254,Cable HDMI 2m,3,38.97,714
+F25-0254,Laptop Pro,3,3600.0,715
+F25-0254,nico,6,450.0,716
+F25-0254,Soporte Laptop,1,45.0,717
+F25-0255,Monitor 24p,6,1080.0,718
+F25-0256,Cable HDMI 2m,10,129.9,719
+F25-0257,Cable HDMI 2m,3,38.97,720
+F25-0257,Laptop Pro,2,2400.0,721
+F25-0257,Cable HDMI 2m,8,103.92,722
+F25-0257,Soporte Laptop,7,315.0,723
+F25-0258,Monitor 24p,7,1260.0,724
+F25-0258,nico,3,225.0,725
+F25-0258,Cable HDMI 2m,3,38.97,726
+F25-0259,Soporte Laptop,6,270.0,727
+F25-0260,Cable HDMI 2m,7,90.93,728
+F25-0260,Monitor 24p,8,1440.0,729
+F25-0261,mico,9,229.5,730
+F25-0261,Cable HDMI 2m,5,64.95,731
+F25-0261,nico,4,300.0,732
+F25-0261,Monitor 24p,2,360.0,733
+F25-0261,Monitor 24p,9,1620.0,734
+F25-0262,Cable HDMI 2m,10,129.9,735
+F25-0263,Laptop Pro,8,9600.0,736
+F25-0263,nico,10,750.0,737
+F25-0263,nico,5,375.0,738
+F25-0264,Laptop Pro,9,10800.0,739
+F25-0264,nico,3,225.0,740
+F25-0265,nico,2,150.0,741
+F25-0265,Laptop Pro,5,6000.0,742
+F25-0265,Monitor 24p,9,1620.0,743
+F25-0265,Cable HDMI 2m,6,77.94,744
+F25-0266,nico,3,225.0,745
+F25-0266,Cable HDMI 2m,9,116.91,746
+F25-0266,Laptop Pro,8,9600.0,747
+F25-0266,mico,4,102.0,748
+F25-0267,Monitor 24p,10,1800.0,749
+F25-0267,Laptop Pro,4,4800.0,750
+F25-0267,Monitor 24p,1,180.0,751
+F25-0268,Laptop Pro,8,9600.0,752
+F25-0268,Laptop Pro,2,2400.0,753
+F25-0268,nico,4,300.0,754
+F25-0268,Monitor 24p,9,1620.0,755
+F25-0268,Cable HDMI 2m,1,12.99,756
+F25-0269,mico,9,229.5,757
+F25-0269,nico,3,225.0,758
+F25-0269,Laptop Pro,1,1200.0,759
+F25-0269,Soporte Laptop,2,90.0,760
+F25-0270,Monitor 24p,10,1800.0,761
+F25-0270,Monitor 24p,8,1440.0,762
+F25-0270,nico,6,450.0,763
+F25-0271,Soporte Laptop,6,270.0,764
+F25-0271,nico,6,450.0,765
+F25-0271,mico,7,178.5,766
+F25-0271,mico,3,76.5,767
+F25-0272,Soporte Laptop,3,135.0,768
+F25-0272,Cable HDMI 2m,2,25.98,769
+F25-0272,Cable HDMI 2m,10,129.9,770
+F25-0273,Soporte Laptop,7,315.0,771
+F25-0273,mico,5,127.5,772
+F25-0273,mico,2,51.0,773
+F25-0273,Soporte Laptop,1,45.0,774
+F25-0273,Cable HDMI 2m,10,129.9,775
+F25-0274,Cable HDMI 2m,4,51.96,776
+F25-0274,Soporte Laptop,4,180.0,777
+F25-0274,Monitor 24p,5,900.0,778
+F25-0275,nico,5,375.0,779
+F25-0275,mico,2,51.0,780
+F25-0275,mico,3,76.5,781
+F25-0276,Monitor 24p,6,1080.0,782
+F25-0276,nico,8,600.0,783
+F25-0276,Soporte Laptop,10,450.0,784
+F25-0277,mico,1,25.5,785
+F25-0278,Soporte Laptop,6,270.0,786
+F25-0279,Soporte Laptop,3,135.0,787
+F25-0280,Cable HDMI 2m,7,90.93,788
+F25-0280,Monitor 24p,8,1440.0,789
+F25-0281,Monitor 24p,9,1620.0,790
+F25-0281,Monitor 24p,10,1800.0,791
+F25-0282,Cable HDMI 2m,7,90.93,792
+F25-0282,nico,9,675.0,793
+F25-0282,Cable HDMI 2m,8,103.92,794
+F25-0283,Cable HDMI 2m,10,129.9,795
+F25-0283,Monitor 24p,3,540.0,796
+F25-0283,Laptop Pro,8,9600.0,797
+F25-0283,mico,4,102.0,798
+F25-0283,mico,8,204.0,799
+F25-0284,Monitor 24p,4,720.0,800
+F25-0284,Laptop Pro,7,8400.0,801
+F25-0284,Soporte Laptop,8,360.0,802
+F25-0284,Soporte Laptop,2,90.0,803
+F25-0284,Laptop Pro,1,1200.0,804
+F25-0285,Soporte Laptop,9,405.0,805
+F25-0286,Soporte Laptop,6,270.0,806
+F25-0286,Monitor 24p,10,1800.0,807
+F25-0287,mico,8,204.0,808
+F25-0287,mico,4,102.0,809
+F25-0287,Soporte Laptop,5,225.0,810
+F25-0287,Soporte Laptop,1,45.0,811
+F25-0288,nico,2,150.0,812
+F25-0288,Soporte Laptop,9,405.0,813
+F25-0288,Laptop Pro,10,12000.0,814
+F25-0288,Cable HDMI 2m,1,12.99,815
+F25-0289,nico,10,750.0,816
+F25-0290,Soporte Laptop,7,315.0,817
+F25-0290,mico,5,127.5,818
+F25-0290,mico,3,76.5,819
+F25-0290,nico,6,450.0,820
+F25-0290,Laptop Pro,2,2400.0,821
+F25-0291,Cable HDMI 2m,6,77.94,822
+F25-0291,Monitor 24p,5,900.0,823
+F25-0291,mico,3,76.5,824
+F25-0292,mico,3,76.5,825
+F25-0292,mico,2,51.0,826
+F25-0292,nico,3,225.0,827
+F25-0292,Soporte Laptop,10,450.0,828
+F25-0292,Monitor 24p,4,720.0,829
+F25-0293,Soporte Laptop,10,450.0,830
+F25-0293,Monitor 24p,4,720.0,831
+F25-0293,Laptop Pro,8,9600.0,832
+F25-0293,Soporte Laptop,9,405.0,833
+F25-0293,Monitor 24p,10,1800.0,834
+F25-0294,Monitor 24p,5,900.0,835
+F25-0295,mico,6,153.0,836
+F25-0295,mico,8,204.0,837
+F25-0296,Cable HDMI 2m,5,64.95,838
+F25-0296,Laptop Pro,9,10800.0,839
+F25-0296,mico,9,229.5,840
+F25-0297,Cable HDMI 2m,4,51.96,841
+F25-0297,nico,2,150.0,842
+F25-0298,mico,3,76.5,843
+F25-0298,Cable HDMI 2m,6,77.94,844
+F25-0298,nico,10,750.0,845
+F25-0298,Monitor 24p,8,1440.0,846
+F25-0299,Soporte Laptop,5,225.0,847
+F25-0300,nico,7,525.0,848
+F25-0301,Laptop Pro,9,10800.0,849
+F25-0301,Soporte Laptop,5,225.0,850
+F25-0302,Cable HDMI 2m,10,129.9,851
+F25-0302,Cable HDMI 2m,9,116.91,852
+F25-0303,Cable HDMI 2m,10,129.9,853
+F25-0303,Monitor 24p,6,1080.0,854
+F25-0303,Monitor 24p,7,1260.0,855
+F25-0304,Laptop Pro,5,6000.0,856
+F25-0304,mico,1,25.5,857
+F25-0305,Laptop Pro,2,2400.0,858
+F25-0305,Laptop Pro,7,8400.0,859
+F25-0306,nico,1,75.0,860
+F25-0306,Monitor 24p,9,1620.0,861
+F25-0306,nico,9,675.0,862
+F25-0306,Laptop Pro,9,10800.0,863
+F25-0307,Cable HDMI 2m,4,51.96,864
+F25-0307,Monitor 24p,1,180.0,865
+F25-0307,Cable HDMI 2m,2,25.98,866
+F25-0307,mico,9,229.5,867
+F25-0308,Soporte Laptop,1,45.0,868
+F25-0308,Laptop Pro,7,8400.0,869
+F25-0308,Cable HDMI 2m,3,38.97,870
+F25-0309,Laptop Pro,3,3600.0,871
+F25-0309,Laptop Pro,6,7200.0,872
+F25-0309,Laptop Pro,2,2400.0,873
+F25-0309,mico,9,229.5,874
+F25-0309,Monitor 24p,7,1260.0,875
+F25-0310,mico,3,76.5,876
+F25-0310,Soporte Laptop,8,360.0,877
+F25-0311,Monitor 24p,10,1800.0,878
+F25-0311,Monitor 24p,5,900.0,879
+F25-0311,Laptop Pro,5,6000.0,880
+F25-0311,Laptop Pro,3,3600.0,881
+F25-0312,nico,9,675.0,882
+F25-0312,mico,1,25.5,883
+F25-0312,Monitor 24p,10,1800.0,884
+F25-0313,nico,2,150.0,885
+F25-0313,Soporte Laptop,7,315.0,886
+F25-0314,Monitor 24p,10,1800.0,887
+F25-0314,Monitor 24p,1,180.0,888
+F25-0314,Laptop Pro,5,6000.0,889
+F25-0315,nico,2,150.0,890
+F25-0316,nico,4,300.0,891
+F25-0316,nico,7,525.0,892
+F25-0317,Cable HDMI 2m,10,129.9,893
+F25-0317,nico,5,375.0,894
+F25-0317,nico,2,150.0,895
+F25-0317,nico,10,750.0,896
+F25-0317,mico,1,25.5,897
+F25-0318,mico,7,178.5,898
+F25-0318,Soporte Laptop,10,450.0,899
+F25-0318,Soporte Laptop,6,270.0,900
+F25-0318,nico,10,750.0,901
+F25-0319,Laptop Pro,1,1200.0,902
+F25-0320,Cable HDMI 2m,1,12.99,903
+F25-0321,Laptop Pro,9,10800.0,904
+F25-0321,Cable HDMI 2m,1,12.99,905
+F25-0321,Laptop Pro,3,3600.0,906
+F25-0322,Monitor 24p,1,180.0,907
+F25-0323,Cable HDMI 2m,2,25.98,908
+F25-0323,Monitor 24p,7,1260.0,909
+F25-0324,Soporte Laptop,6,270.0,910
+F25-0324,Laptop Pro,5,6000.0,911
+F25-0325,nico,6,450.0,912
+F25-0325,Soporte Laptop,4,180.0,913
+F25-0326,Laptop Pro,5,6000.0,914
+F25-0327,Monitor 24p,5,900.0,915
+F25-0328,Soporte Laptop,2,90.0,916
+F25-0329,Soporte Laptop,5,225.0,917
+F25-0329,Soporte Laptop,10,450.0,918
+F25-0329,Laptop Pro,2,2400.0,919
+F25-0329,Laptop Pro,5,6000.0,920
+F25-0329,mico,9,229.5,921
+F25-0330,Laptop Pro,9,10800.0,922
+F25-0331,Cable HDMI 2m,2,25.98,923
+F25-0331,nico,9,675.0,924
+F25-0331,mico,2,51.0,925
+F25-0332,Cable HDMI 2m,10,129.9,926
+F25-0332,Cable HDMI 2m,9,116.91,927
+F25-0332,Monitor 24p,1,180.0,928
+F25-0333,Soporte Laptop,1,45.0,929
+F25-0333,Soporte Laptop,10,450.0,930
+F25-0333,Monitor 24p,5,900.0,931
+F25-0333,nico,8,600.0,932
+F25-0333,Monitor 24p,2,360.0,933
+F25-0334,nico,2,150.0,934
+F25-0334,Monitor 24p,6,1080.0,935
+F25-0334,Cable HDMI 2m,7,90.93,936
+F25-0335,Laptop Pro,6,7200.0,937
+F25-0335,mico,6,153.0,938
+F25-0335,nico,10,750.0,939
+F25-0335,mico,10,255.0,940
+F25-0335,mico,9,229.5,941
+F25-0336,nico,7,525.0,942
+F25-0336,Soporte Laptop,4,180.0,943
+F25-0336,mico,9,229.5,944
+F25-0336,mico,4,102.0,945
+F25-0336,Cable HDMI 2m,7,90.93,946
+F25-0337,nico,3,225.0,947
+F25-0337,Cable HDMI 2m,1,12.99,948
+F25-0337,Monitor 24p,4,720.0,949
+F25-0338,mico,10,255.0,950
+F25-0338,Cable HDMI 2m,4,51.96,951
+F25-0338,Cable HDMI 2m,6,77.94,952
+F25-0338,mico,8,204.0,953
+F25-0339,Laptop Pro,7,8400.0,954
+F25-0340,Monitor 24p,6,1080.0,955
+F25-0340,mico,1,25.5,956
+F25-0341,Cable HDMI 2m,3,38.97,957
+F25-0342,Monitor 24p,1,180.0,958
+F25-0343,mico,5,127.5,959
+F25-0343,mico,9,229.5,960
+F25-0343,Cable HDMI 2m,7,90.93,961
+F25-0343,Monitor 24p,3,540.0,962
+F25-0344,Laptop Pro,9,10800.0,963
+F25-0344,Cable HDMI 2m,10,129.9,964
+F25-0344,Laptop Pro,7,8400.0,965
+F25-0345,Cable HDMI 2m,1,12.99,966
+F25-0345,mico,10,255.0,967
+F25-0345,Cable HDMI 2m,7,90.93,968
+F25-0346,nico,4,300.0,969
+F25-0346,Soporte Laptop,1,45.0,970
+F25-0346,Cable HDMI 2m,4,51.96,971
+F25-0347,Monitor 24p,3,540.0,972
+F25-0347,Laptop Pro,1,1200.0,973
+F25-0347,Cable HDMI 2m,3,38.97,974
+F25-0348,Monitor 24p,3,540.0,975
+F25-0348,nico,7,525.0,976
+F25-0348,mico,9,229.5,977
+F25-0349,Laptop Pro,8,9600.0,978
+F25-0350,Cable HDMI 2m,3,38.97,979
+F25-0350,nico,5,375.0,980
+F25-0350,Cable HDMI 2m,5,64.95,981
+F25-0350,Cable HDMI 2m,2,25.98,982
+F25-0350,Monitor 24p,4,720.0,983
+F25-0351,Monitor 24p,1,180.0,984
+F25-0351,mico,3,76.5,985
+F25-0352,Monitor 24p,1,180.0,986
+F25-0352,Laptop Pro,5,6000.0,987
+F25-0352,mico,10,255.0,988
+F25-0352,Cable HDMI 2m,6,77.94,989
+F25-0353,Laptop Pro,9,10800.0,990
+F25-0353,nico,4,300.0,991
+F25-0353,Laptop Pro,6,7200.0,992
+F25-0353,nico,5,375.0,993
+F25-0353,Cable HDMI 2m,8,103.92,994
+F25-0354,Cable HDMI 2m,10,129.9,995
+F25-0354,Laptop Pro,5,6000.0,996
+F25-0354,Laptop Pro,10,12000.0,997
+F25-0354,Cable HDMI 2m,5,64.95,998
+F25-0354,Monitor 24p,10,1800.0,999
+F25-0355,Cable HDMI 2m,8,103.92,1000
+F25-0355,nico,1,75.0,1001
+F25-0356,Cable HDMI 2m,7,90.93,1002
+F25-0356,Soporte Laptop,6,270.0,1003
+F25-0357,Soporte Laptop,10,450.0,1004
+F25-0357,mico,4,102.0,1005
+F25-0358,Laptop Pro,5,6000.0,1006
+F25-0358,Cable HDMI 2m,6,77.94,1007
+F25-0358,mico,1,25.5,1008
+F25-0358,Cable HDMI 2m,5,64.95,1009
+F25-0359,Laptop Pro,8,9600.0,1010
+F25-0359,Soporte Laptop,2,90.0,1011
+F25-0359,nico,3,225.0,1012
+F25-0359,mico,7,178.5,1013
+F25-0359,mico,5,127.5,1014
+F25-0360,Soporte Laptop,8,360.0,1015
+F25-0360,Laptop Pro,5,6000.0,1016
+F25-0361,Soporte Laptop,9,405.0,1017
+F25-0361,mico,7,178.5,1018
+F25-0361,mico,9,229.5,1019
+F25-0361,nico,1,75.0,1020
+F25-0362,Soporte Laptop,10,450.0,1021
+F25-0362,Monitor 24p,9,1620.0,1022
+F25-0363,Monitor 24p,6,1080.0,1023
+F25-0363,Soporte Laptop,7,315.0,1024
+F25-0364,nico,8,600.0,1025
+F25-0364,Monitor 24p,3,540.0,1026
+F25-0364,nico,6,450.0,1027
+F25-0364,Monitor 24p,2,360.0,1028
+F25-0365,Monitor 24p,7,1260.0,1029
+F25-0365,Soporte Laptop,5,225.0,1030
+F25-0366,mico,7,178.5,1031
+F25-0367,Cable HDMI 2m,10,129.9,1032
+F25-0367,Laptop Pro,6,7200.0,1033
+F25-0367,nico,5,375.0,1034
+F25-0367,nico,3,225.0,1035
+F25-0367,Soporte Laptop,8,360.0,1036
+F25-0368,nico,7,525.0,1037
+F25-0369,Cable HDMI 2m,1,12.99,1038
+F25-0370,nico,7,525.0,1039
+F25-0370,Monitor 24p,2,360.0,1040
+F25-0370,Cable HDMI 2m,3,38.97,1041
+F25-0371,Cable HDMI 2m,10,129.9,1042
+F25-0372,Cable HDMI 2m,6,77.94,1043
+F25-0372,Soporte Laptop,8,360.0,1044
+F25-0372,nico,7,525.0,1045
+F25-0372,Cable HDMI 2m,9,116.91,1046
+F25-0373,Soporte Laptop,2,90.0,1047
+F25-0373,Cable HDMI 2m,8,103.92,1048
+F25-0373,Laptop Pro,5,6000.0,1049
+F25-0373,mico,4,102.0,1050
+F25-0374,Monitor 24p,1,180.0,1051
+F25-0374,Soporte Laptop,2,90.0,1052
+F25-0374,Laptop Pro,9,10800.0,1053
+F25-0374,Soporte Laptop,6,270.0,1054
+F25-0375,Monitor 24p,3,540.0,1055
+F25-0375,mico,4,102.0,1056
+F25-0375,Laptop Pro,8,9600.0,1057
+F25-0375,Cable HDMI 2m,10,129.9,1058
+F25-0375,Monitor 24p,2,360.0,1059
+F25-0376,nico,10,750.0,1060
+F25-0376,Monitor 24p,4,720.0,1061
+F25-0376,nico,9,675.0,1062
+F25-0377,Monitor 24p,9,1620.0,1063
+F25-0377,Soporte Laptop,8,360.0,1064
+F25-0377,Monitor 24p,7,1260.0,1065
+F25-0377,Soporte Laptop,6,270.0,1066
+F25-0378,nico,8,600.0,1067
+F25-0379,mico,8,204.0,1068
+F25-0379,nico,3,225.0,1069
+F25-0379,Monitor 24p,7,1260.0,1070
+F25-0380,mico,1,25.5,1071
+F25-0380,Soporte Laptop,8,360.0,1072
+F25-0380,Cable HDMI 2m,7,90.93,1073
+F25-0380,Monitor 24p,6,1080.0,1074
+F25-0380,Monitor 24p,1,180.0,1075
+F25-0381,nico,4,300.0,1076
+F25-0381,Monitor 24p,8,1440.0,1077
+F25-0382,nico,9,675.0,1078
+F25-0382,Monitor 24p,9,1620.0,1079
+F25-0382,Laptop Pro,7,8400.0,1080
+F25-0382,Monitor 24p,1,180.0,1081
+F25-0383,Soporte Laptop,9,405.0,1082
+F25-0384,Monitor 24p,8,1440.0,1083
+F25-0384,Soporte Laptop,2,90.0,1084
+F25-0384,Cable HDMI 2m,1,12.99,1085
+F25-0385,Monitor 24p,2,360.0,1086
+F25-0386,Monitor 24p,2,360.0,1087
+F25-0386,nico,5,375.0,1088
+F25-0386,nico,2,150.0,1089
+F25-0387,nico,4,300.0,1090
+F25-0387,mico,7,178.5,1091
+F25-0388,mico,3,76.5,1092
+F25-0388,mico,10,255.0,1093
+F25-0388,Soporte Laptop,5,225.0,1094
+F25-0388,Monitor 24p,2,360.0,1095
+F25-0389,Soporte Laptop,6,270.0,1096
+F25-0390,Cable HDMI 2m,4,51.96,1097
+F25-0391,Cable HDMI 2m,1,12.99,1098
+F25-0391,mico,6,153.0,1099
+F25-0391,nico,9,675.0,1100
+F25-0391,Soporte Laptop,3,135.0,1101
+F25-0391,Monitor 24p,4,720.0,1102
+F25-0392,mico,5,127.5,1103
+F25-0393,Laptop Pro,3,3600.0,1104
+F25-0393,mico,7,178.5,1105
+F25-0393,nico,8,600.0,1106
+F25-0393,Cable HDMI 2m,10,129.9,1107
+F25-0394,Laptop Pro,9,10800.0,1108
+F25-0394,Laptop Pro,1,1200.0,1109
+F25-0394,Laptop Pro,6,7200.0,1110
+F25-0394,Cable HDMI 2m,4,51.96,1111
+F25-0395,Cable HDMI 2m,3,38.97,1112
+F25-0396,nico,4,300.0,1113
+F25-0396,mico,5,127.5,1114
+F25-0396,mico,10,255.0,1115
+F25-0396,Soporte Laptop,10,450.0,1116
+F25-0397,Laptop Pro,10,12000.0,1117
+F25-0397,nico,2,150.0,1118
+F25-0397,Laptop Pro,7,8400.0,1119
+F25-0398,nico,4,300.0,1120
+F25-0399,nico,7,525.0,1121
+F25-0399,Soporte Laptop,8,360.0,1122
+F25-0399,Laptop Pro,8,9600.0,1123
+F25-0399,Laptop Pro,2,2400.0,1124
+F25-0400,Monitor 24p,3,540.0,1125
+F25-0400,Soporte Laptop,3,135.0,1126
+F25-0400,mico,6,153.0,1127
+F25-0400,Monitor 24p,8,1440.0,1128
+F25-0401,mico,2,51.0,1129
+F25-0401,Laptop Pro,9,10800.0,1130
+F25-0402,mico,2,51.0,1131
+F25-0402,nico,3,225.0,1132
+F25-0402,nico,8,600.0,1133
+F25-0402,nico,1,75.0,1134
+F25-0402,mico,5,127.5,1135
+F25-0403,Cable HDMI 2m,2,25.98,1136
+F25-0403,Soporte Laptop,3,135.0,1137
+F25-0403,mico,6,153.0,1138
+F25-0403,Laptop Pro,5,6000.0,1139
+F25-0403,Monitor 24p,8,1440.0,1140
+F25-0404,mico,3,76.5,1141
+F25-0404,Laptop Pro,1,1200.0,1142
+F25-0404,nico,10,750.0,1143
+F25-0404,Laptop Pro,2,2400.0,1144
+F25-0405,Laptop Pro,6,7200.0,1145
+F25-0405,Cable HDMI 2m,9,116.91,1146
+F25-0406,nico,1,75.0,1147
+F25-0406,Laptop Pro,9,10800.0,1148
+F25-0406,mico,9,229.5,1149
+F25-0406,Laptop Pro,7,8400.0,1150
+F25-0407,Soporte Laptop,1,45.0,1151
+F25-0407,Monitor 24p,4,720.0,1152
+F25-0408,Cable HDMI 2m,9,116.91,1153
+F25-0408,nico,2,150.0,1154
+F25-0408,mico,5,127.5,1155
+F25-0409,Cable HDMI 2m,7,90.93,1156
+F25-0410,Monitor 24p,2,360.0,1157
+F25-0411,Laptop Pro,9,10800.0,1158
+F25-0411,Cable HDMI 2m,3,38.97,1159
+F25-0411,Soporte Laptop,9,405.0,1160
+F25-0411,mico,3,76.5,1161
+F25-0412,nico,9,675.0,1162
+F25-0412,Monitor 24p,1,180.0,1163
+F25-0412,Soporte Laptop,8,360.0,1164
+F25-0412,Monitor 24p,5,900.0,1165
+F25-0413,Monitor 24p,5,900.0,1166
+F25-0413,Soporte Laptop,8,360.0,1167
+F25-0413,Laptop Pro,6,7200.0,1168
+F25-0414,mico,1,25.5,1169
+F25-0414,Monitor 24p,8,1440.0,1170
+F25-0415,nico,6,450.0,1171
+F25-0415,Cable HDMI 2m,7,90.93,1172
+F25-0415,Monitor 24p,10,1800.0,1173
+F25-0415,nico,9,675.0,1174
+F25-0415,Monitor 24p,4,720.0,1175
+F25-0416,Laptop Pro,5,6000.0,1176
+F25-0416,Laptop Pro,1,1200.0,1177
+F25-0416,Monitor 24p,8,1440.0,1178
+F25-0416,Laptop Pro,4,4800.0,1179
+F25-0417,nico,2,150.0,1180
+F25-0417,Cable HDMI 2m,1,12.99,1181
+F25-0417,Cable HDMI 2m,2,25.98,1182
+F25-0417,nico,4,300.0,1183
+F25-0418,mico,8,204.0,1184
+F25-0418,nico,9,675.0,1185
+F25-0418,Cable HDMI 2m,8,103.92,1186
+F25-0418,mico,3,76.5,1187
+F25-0418,Soporte Laptop,6,270.0,1188
+F25-0419,mico,1,25.5,1189
+F25-0419,Laptop Pro,4,4800.0,1190
+F25-0419,Cable HDMI 2m,7,90.93,1191
+F25-0420,Soporte Laptop,5,225.0,1192
+F25-0420,Monitor 24p,8,1440.0,1193
+F25-0420,mico,1,25.5,1194
+F25-0420,Laptop Pro,9,10800.0,1195
+F25-0421,Cable HDMI 2m,6,77.94,1196
+F25-0421,nico,6,450.0,1197
+F25-0421,mico,8,204.0,1198
+F25-0421,Monitor 24p,3,540.0,1199
+F25-0422,Laptop Pro,1,1200.0,1200
+F25-0423,Soporte Laptop,7,315.0,1201
+F25-0424,Monitor 24p,5,900.0,1202
+F25-0424,mico,9,229.5,1203
+F25-0424,Laptop Pro,4,4800.0,1204
+F25-0425,Monitor 24p,2,360.0,1205
+F25-0425,Monitor 24p,10,1800.0,1206
+F25-0425,Soporte Laptop,7,315.0,1207
+F25-0425,nico,3,225.0,1208
+F25-0426,Monitor 24p,7,1260.0,1209
+F25-0426,Cable HDMI 2m,2,25.98,1210
+F25-0426,Cable HDMI 2m,1,12.99,1211
+F25-0427,Soporte Laptop,7,315.0,1212
+F25-0427,Cable HDMI 2m,9,116.91,1213
+F25-0428,mico,10,255.0,1214
+F25-0429,nico,1,75.0,1215
+F25-0429,Laptop Pro,1,1200.0,1216
+F25-0429,Soporte Laptop,5,225.0,1217
+F25-0429,Cable HDMI 2m,7,90.93,1218
+F25-0429,Monitor 24p,6,1080.0,1219
+F25-0430,Monitor 24p,8,1440.0,1220
+F25-0430,nico,7,525.0,1221
+F25-0430,Cable HDMI 2m,3,38.97,1222
+F25-0431,Soporte Laptop,5,225.0,1223
+F25-0431,Cable HDMI 2m,7,90.93,1224
+F25-0431,Soporte Laptop,7,315.0,1225
+F25-0432,Monitor 24p,1,180.0,1226
+F25-0433,Cable HDMI 2m,6,77.94,1227
+F25-0433,Laptop Pro,6,7200.0,1228
+F25-0433,nico,2,150.0,1229
+F25-0433,Monitor 24p,8,1440.0,1230
+F25-0434,mico,5,127.5,1231
+F25-0434,nico,10,750.0,1232
+F25-0435,nico,1,75.0,1233
+F25-0436,Monitor 24p,1,180.0,1234
+F25-0436,Soporte Laptop,9,405.0,1235
+F25-0436,Cable HDMI 2m,7,90.93,1236
+F25-0437,Laptop Pro,4,4800.0,1237
+F25-0437,Soporte Laptop,10,450.0,1238
+F25-0437,Soporte Laptop,5,225.0,1239
+F25-0438,Laptop Pro,5,6000.0,1240
+F25-0439,nico,2,150.0,1241
+F25-0439,Cable HDMI 2m,2,25.98,1242
+F25-0439,Soporte Laptop,9,405.0,1243
+F25-0439,Laptop Pro,3,3600.0,1244
+F25-0440,Monitor 24p,7,1260.0,1245
+F25-0440,mico,5,127.5,1246
+F25-0441,Cable HDMI 2m,9,116.91,1247
+F25-0442,Laptop Pro,4,4800.0,1248
+F25-0442,Cable HDMI 2m,7,90.93,1249
+F25-0442,Soporte Laptop,3,135.0,1250
+F25-0442,Monitor 24p,1,180.0,1251
+F25-0443,nico,8,600.0,1252
+F25-0443,nico,2,150.0,1253
+F25-0444,Cable HDMI 2m,7,90.93,1254
+F25-0444,mico,1,25.5,1255
+F25-0444,Cable HDMI 2m,4,51.96,1256
+F25-0445,Laptop Pro,6,7200.0,1257
+F25-0445,Soporte Laptop,10,450.0,1258
+F25-0446,Monitor 24p,3,540.0,1259
+F25-0447,nico,6,450.0,1260
+F25-0447,Cable HDMI 2m,3,38.97,1261
+F25-0447,Cable HDMI 2m,1,12.99,1262
+F25-0448,nico,1,75.0,1263
+F25-0448,Soporte Laptop,2,90.0,1264
+F25-0449,Cable HDMI 2m,3,38.97,1265
+F25-0449,Laptop Pro,6,7200.0,1266
+F25-0449,nico,10,750.0,1267
+F25-0450,mico,6,153.0,1268
+F25-0450,Monitor 24p,10,1800.0,1269
+F25-0450,Cable HDMI 2m,2,25.98,1270
+F25-0451,Soporte Laptop,8,360.0,1271
+F25-0451,Cable HDMI 2m,10,129.9,1272
+F25-0451,Laptop Pro,1,1200.0,1273
+F25-0451,mico,2,51.0,1274
+F25-0452,Soporte Laptop,4,180.0,1275
+F25-0452,nico,10,750.0,1276
+F25-0452,Soporte Laptop,2,90.0,1277
+F25-0452,Monitor 24p,9,1620.0,1278
+F25-0452,Laptop Pro,10,12000.0,1279
+F25-0453,nico,1,75.0,1280
+F25-0454,Monitor 24p,7,1260.0,1281
+F25-0454,nico,9,675.0,1282
+F25-0454,mico,5,127.5,1283
+F25-0454,Laptop Pro,9,10800.0,1284
+F25-0455,Laptop Pro,10,12000.0,1285
+F25-0455,nico,5,375.0,1286
+F25-0456,Cable HDMI 2m,10,129.9,1287
+F25-0456,Laptop Pro,7,8400.0,1288
+F25-0456,Cable HDMI 2m,4,51.96,1289
+F25-0456,Monitor 24p,3,540.0,1290
+F25-0457,Laptop Pro,2,2400.0,1291
+F25-0457,mico,5,127.5,1292
+F25-0457,Soporte Laptop,2,90.0,1293
+F25-0457,Monitor 24p,9,1620.0,1294
+F25-0458,Monitor 24p,2,360.0,1295
+F25-0458,Monitor 24p,6,1080.0,1296
+F25-0458,Laptop Pro,8,9600.0,1297
+F25-0458,Soporte Laptop,9,405.0,1298
+F25-0458,nico,10,750.0,1299
+F25-0459,nico,5,375.0,1300
+F25-0459,Soporte Laptop,5,225.0,1301
+F25-0459,Soporte Laptop,1,45.0,1302
+F25-0460,Monitor 24p,1,180.0,1303
+F25-0460,mico,2,51.0,1304
+F25-0461,Cable HDMI 2m,1,12.99,1305
+F25-0461,Monitor 24p,9,1620.0,1306
+F25-0461,nico,4,300.0,1307
+F25-0462,nico,7,525.0,1308
+F25-0462,mico,4,102.0,1309
+F25-0462,Monitor 24p,2,360.0,1310
+F25-0463,Laptop Pro,10,12000.0,1311
+F25-0463,Cable HDMI 2m,1,12.99,1312
+F25-0463,Monitor 24p,7,1260.0,1313
+F25-0464,Cable HDMI 2m,8,103.92,1314
+F25-0464,Cable HDMI 2m,5,64.95,1315
+F25-0464,Cable HDMI 2m,3,38.97,1316
+F25-0464,Monitor 24p,1,180.0,1317
+F25-0465,Soporte Laptop,4,180.0,1318
+F25-0465,Monitor 24p,4,720.0,1319
+F25-0465,mico,10,255.0,1320
+F25-0465,nico,8,600.0,1321
+F25-0466,Laptop Pro,5,6000.0,1322
+F25-0466,Soporte Laptop,1,45.0,1323
+F25-0467,mico,9,229.5,1324
+F25-0467,Cable HDMI 2m,1,12.99,1325
+F25-0467,Laptop Pro,8,9600.0,1326
+F25-0468,Cable HDMI 2m,4,51.96,1327
+F25-0468,Cable HDMI 2m,10,129.9,1328
+F25-0469,Cable HDMI 2m,6,77.94,1329
+F25-0469,Cable HDMI 2m,4,51.96,1330
+F25-0469,Soporte Laptop,2,90.0,1331
+F25-0469,Laptop Pro,7,8400.0,1332
+F25-0470,mico,6,153.0,1333
+F25-0471,Laptop Pro,3,3600.0,1334
+F25-0471,mico,9,229.5,1335
+F25-0471,nico,3,225.0,1336
+F25-0472,Soporte Laptop,1,45.0,1337
+F25-0472,mico,5,127.5,1338
+F25-0472,Monitor 24p,8,1440.0,1339
+F25-0472,Cable HDMI 2m,6,77.94,1340
+F25-0473,nico,7,525.0,1341
+F25-0473,Soporte Laptop,3,135.0,1342
+F25-0473,Monitor 24p,9,1620.0,1343
+F25-0473,nico,3,225.0,1344
+F25-0473,Monitor 24p,3,540.0,1345
+F25-0474,Soporte Laptop,8,360.0,1346
+F25-0474,mico,4,102.0,1347
+F25-0474,nico,4,300.0,1348
+F25-0474,mico,8,204.0,1349
+F25-0475,Soporte Laptop,10,450.0,1350
+F25-0475,Laptop Pro,10,12000.0,1351
+F25-0475,Monitor 24p,8,1440.0,1352
+F25-0475,nico,10,750.0,1353
+F25-0475,Soporte Laptop,4,180.0,1354
+F25-0476,Soporte Laptop,3,135.0,1355
+F25-0476,nico,4,300.0,1356
+F25-0476,Laptop Pro,3,3600.0,1357
+F25-0476,Laptop Pro,10,12000.0,1358
+F25-0477,Monitor 24p,3,540.0,1359
+F25-0477,Monitor 24p,5,900.0,1360
+F25-0478,mico,9,229.5,1361
+F25-0478,mico,2,51.0,1362
+F25-0478,Monitor 24p,8,1440.0,1363
+F25-0478,Soporte Laptop,8,360.0,1364
+F25-0479,Soporte Laptop,5,225.0,1365
+F25-0480,mico,10,255.0,1366
+F25-0480,Cable HDMI 2m,2,25.98,1367
+F25-0480,Monitor 24p,10,1800.0,1368
+F25-0481,Cable HDMI 2m,6,77.94,1369
+F25-0481,nico,6,450.0,1370
+F25-0481,Laptop Pro,9,10800.0,1371
+F25-0482,Soporte Laptop,7,315.0,1372
+F25-0483,nico,1,75.0,1373
+F25-0483,Laptop Pro,5,6000.0,1374
+F25-0483,mico,3,76.5,1375
+F25-0484,Soporte Laptop,5,225.0,1376
+F25-0484,Laptop Pro,8,9600.0,1377
+F25-0485,Laptop Pro,7,8400.0,1378
+F25-0485,mico,2,51.0,1379
+F25-0485,Cable HDMI 2m,8,103.92,1380
+F25-0486,nico,2,150.0,1381
+F25-0486,mico,1,25.5,1382
+F25-0486,Laptop Pro,7,8400.0,1383
+F25-0487,Laptop Pro,8,9600.0,1384
+F25-0487,Soporte Laptop,3,135.0,1385
+F25-0487,Laptop Pro,10,12000.0,1386
+F25-0487,Laptop Pro,3,3600.0,1387
+F25-0488,Soporte Laptop,1,45.0,1388
+F25-0488,Monitor 24p,2,360.0,1389
+F25-0488,Monitor 24p,4,720.0,1390
+F25-0488,Monitor 24p,5,900.0,1391
+F25-0489,Soporte Laptop,1,45.0,1392
+F25-0490,Soporte Laptop,3,135.0,1393
+F25-0490,Laptop Pro,8,9600.0,1394
+F25-0490,nico,6,450.0,1395
+F25-0491,Monitor 24p,7,1260.0,1396
+F25-0491,Monitor 24p,2,360.0,1397
+F25-0491,Soporte Laptop,2,90.0,1398
+F25-0491,mico,3,76.5,1399
+F25-0492,nico,5,375.0,1400
+F25-0492,Cable HDMI 2m,8,103.92,1401
+F25-0492,nico,10,750.0,1402
+F25-0493,Soporte Laptop,8,360.0,1403
+F25-0493,mico,7,178.5,1404
+F25-0493,Laptop Pro,4,4800.0,1405
+F25-0493,Cable HDMI 2m,2,25.98,1406
+F25-0494,Soporte Laptop,8,360.0,1407
+F25-0494,nico,4,300.0,1408
+F25-0494,nico,1,75.0,1409
+F25-0494,nico,10,750.0,1410
+F25-0495,Laptop Pro,2,2400.0,1411
+F25-0495,nico,6,450.0,1412
+F25-0495,mico,10,255.0,1413
+F25-0495,Laptop Pro,9,10800.0,1414
+F25-0496,Monitor 24p,4,720.0,1415
+F25-0496,mico,2,51.0,1416
+F25-0496,Laptop Pro,10,12000.0,1417
+F25-0497,Laptop Pro,1,1200.0,1418
+F25-0497,Monitor 24p,1,180.0,1419
+F25-0497,Laptop Pro,10,12000.0,1420
+F25-0497,Cable HDMI 2m,1,12.99,1421
+F25-0498,Soporte Laptop,9,405.0,1422
+F25-0498,Soporte Laptop,1,45.0,1423
+F25-0498,Monitor 24p,6,1080.0,1424
+F25-0499,Laptop Pro,9,10800.0,1425
+F25-0499,nico,9,675.0,1426
+F25-0499,Laptop Pro,2,2400.0,1427
+F25-0499,Laptop Pro,5,6000.0,1428
+F25-0499,Cable HDMI 2m,6,77.94,1429
+F25-0500,mico,10,255.0,1430
+F25-0500,Cable HDMI 2m,3,38.97,1431
+F25-0501,nico,2,150.0,1432
+F25-0501,Monitor 24p,7,1260.0,1433
+F25-0501,mico,9,229.5,1434
+F25-0502,Soporte Laptop,1,45.0,1435
+F25-0502,nico,6,450.0,1436
+F25-0502,Soporte Laptop,10,450.0,1437
+F25-0502,Cable HDMI 2m,7,90.93,1438
+F25-0502,mico,4,102.0,1439
+F25-0503,mico,9,229.5,1440
+F25-0503,Laptop Pro,9,10800.0,1441
+F25-0503,Monitor 24p,1,180.0,1442
+F25-0503,nico,3,225.0,1443
+F25-0504,nico,3,225.0,1444
+F25-0505,nico,3,225.0,1445
+F25-0505,Soporte Laptop,3,135.0,1446
+F25-0506,mico,1,25.5,1447
+F25-0506,mico,5,127.5,1448
+F25-0506,Soporte Laptop,4,180.0,1449
+F25-0506,Monitor 24p,1,180.0,1450
+F25-0506,Monitor 24p,4,720.0,1451
+F25-0507,Monitor 24p,8,1440.0,1452
+F25-0507,Soporte Laptop,5,225.0,1453
+F25-0508,Cable HDMI 2m,7,90.93,1454
+F25-0508,nico,5,375.0,1455
+F25-0508,Monitor 24p,10,1800.0,1456
+F25-0509,nico,1,75.0,1457
+F25-0509,Laptop Pro,2,2400.0,1458
+F25-0509,Laptop Pro,1,1200.0,1459
+F25-0509,mico,6,153.0,1460
+F25-0510,Laptop Pro,4,4800.0,1461
+F25-0510,nico,10,750.0,1462
+F25-0511,Laptop Pro,7,8400.0,1463
+F25-0511,mico,6,153.0,1464
+F25-0512,Soporte Laptop,4,180.0,1465
+F25-0512,nico,7,525.0,1466
+F25-0512,Monitor 24p,1,180.0,1467
+F25-0513,Soporte Laptop,10,450.0,1468
+F25-0513,Soporte Laptop,6,270.0,1469
+F25-0513,Cable HDMI 2m,8,103.92,1470
+F25-0514,Soporte Laptop,9,405.0,1471
+F25-0514,Monitor 24p,3,540.0,1472
+F25-0514,nico,7,525.0,1473
+F25-0514,Monitor 24p,5,900.0,1474
+F25-0515,nico,3,225.0,1475
+F25-0515,Soporte Laptop,2,90.0,1476
+F25-0515,Monitor 24p,7,1260.0,1477
+F25-0515,Cable HDMI 2m,2,25.98,1478
+F25-0515,nico,5,375.0,1479
+F25-0516,mico,8,204.0,1480
+F25-0516,Cable HDMI 2m,4,51.96,1481
+F25-0516,Laptop Pro,9,10800.0,1482
+F25-0516,Cable HDMI 2m,7,90.93,1483
+F25-0517,Monitor 24p,9,1620.0,1484
+F25-0517,Laptop Pro,10,12000.0,1485
+F25-0517,Monitor 24p,6,1080.0,1486
+F25-0518,Monitor 24p,9,1620.0,1487
+F25-0519,nico,2,150.0,1488
+F25-0519,nico,4,300.0,1489
+F25-0520,Soporte Laptop,7,315.0,1490
+F25-0520,Soporte Laptop,8,360.0,1491
+F25-0520,Soporte Laptop,6,270.0,1492
+F25-0520,Cable HDMI 2m,9,116.91,1493
+F25-0520,mico,6,153.0,1494
+F25-0521,Soporte Laptop,6,270.0,1495
+F25-0521,nico,2,150.0,1496
+F25-0521,Laptop Pro,8,9600.0,1497
+F25-0521,Monitor 24p,3,540.0,1498
+F25-0522,Cable HDMI 2m,1,12.99,1499
+F25-0522,Cable HDMI 2m,2,25.98,1500
+F25-0523,Soporte Laptop,9,405.0,1501
+F25-0523,Cable HDMI 2m,2,25.98,1502
+F25-0523,mico,8,204.0,1503
+F25-0523,nico,8,600.0,1504
+F25-0523,nico,10,750.0,1505
+F25-0524,Soporte Laptop,5,225.0,1506
+F25-0524,Monitor 24p,3,540.0,1507
+F25-0524,Soporte Laptop,1,45.0,1508
+F25-0525,Laptop Pro,5,6000.0,1509
+F25-0525,mico,7,178.5,1510
+F25-0525,mico,8,204.0,1511
+F25-0525,Soporte Laptop,3,135.0,1512
+F25-0526,Soporte Laptop,9,405.0,1513
+F25-0526,Monitor 24p,8,1440.0,1514
+F25-0527,Cable HDMI 2m,8,103.92,1515
+F25-0528,Monitor 24p,2,360.0,1516
+F25-0528,Cable HDMI 2m,8,103.92,1517
+F25-0528,Laptop Pro,1,1200.0,1518
+F25-0529,mico,9,229.5,1519
+F25-0529,Cable HDMI 2m,10,129.9,1520
+F25-0529,Soporte Laptop,5,225.0,1521
+F25-0529,Cable HDMI 2m,9,116.91,1522
+F25-0530,Monitor 24p,3,540.0,1523
+F25-0530,Soporte Laptop,6,270.0,1524
+F25-0530,mico,7,178.5,1525
+F25-0531,Laptop Pro,5,6000.0,1526
+F25-0531,Monitor 24p,2,360.0,1527
+F25-0531,Soporte Laptop,4,180.0,1528
+F25-0531,Monitor 24p,7,1260.0,1529
+F25-0531,mico,3,76.5,1530
+F25-0532,Soporte Laptop,10,450.0,1531
+F25-0532,Laptop Pro,6,7200.0,1532
+F25-0533,mico,1,25.5,1533
+F25-0533,Cable HDMI 2m,8,103.92,1534
+F25-0534,Laptop Pro,9,10800.0,1535
+F25-0534,Laptop Pro,10,12000.0,1536
+F25-0535,Soporte Laptop,4,180.0,1537
+F25-0535,mico,1,25.5,1538
+F25-0536,mico,8,204.0,1539
+F25-0536,mico,3,76.5,1540
+F25-0536,nico,4,300.0,1541
+F25-0537,mico,3,76.5,1542
+F25-0537,Laptop Pro,2,2400.0,1543
+F25-0537,Soporte Laptop,9,405.0,1544
+F25-0538,nico,5,375.0,1545
+F25-0538,Cable HDMI 2m,5,64.95,1546
+F25-0539,nico,8,600.0,1547
+F25-0539,Soporte Laptop,4,180.0,1548
+F25-0539,Laptop Pro,1,1200.0,1549
+F25-0539,Laptop Pro,5,6000.0,1550
+F25-0539,mico,8,204.0,1551
+F25-0540,Monitor 24p,3,540.0,1552
+F25-0540,nico,2,150.0,1553
+F25-0540,Monitor 24p,2,360.0,1554
+F25-0540,Laptop Pro,2,2400.0,1555
+F25-0540,nico,10,750.0,1556
+F25-0541,mico,10,255.0,1557
+F25-0541,Cable HDMI 2m,8,103.92,1558
+F25-0541,Monitor 24p,10,1800.0,1559
+F25-0541,nico,7,525.0,1560
+F25-0542,Cable HDMI 2m,6,77.94,1561
+F25-0542,Monitor 24p,2,360.0,1562
+F25-0542,nico,2,150.0,1563
+F25-0543,nico,6,450.0,1564
+F25-0543,Cable HDMI 2m,5,64.95,1565
+F25-0543,Monitor 24p,3,540.0,1566
+F25-0543,nico,10,750.0,1567
+F25-0543,Laptop Pro,1,1200.0,1568
+F25-0544,Monitor 24p,9,1620.0,1569
+F25-0544,Monitor 24p,2,360.0,1570
+F25-0544,Soporte Laptop,8,360.0,1571
+F25-0544,Laptop Pro,8,9600.0,1572
+F25-0544,nico,6,450.0,1573
+F25-0545,Laptop Pro,9,10800.0,1574
+F25-0545,Cable HDMI 2m,8,103.92,1575
+F25-0545,mico,3,76.5,1576
+F25-0545,Laptop Pro,5,6000.0,1577
+F25-0545,Cable HDMI 2m,3,38.97,1578
+F25-0546,nico,7,525.0,1579
+F25-0547,Soporte Laptop,8,360.0,1580
+F25-0547,Soporte Laptop,1,45.0,1581
+F25-0547,Monitor 24p,1,180.0,1582
+F25-0547,nico,10,750.0,1583
+F25-0548,Monitor 24p,10,1800.0,1584
+F25-0549,mico,3,76.5,1585
+F25-0549,Monitor 24p,2,360.0,1586
+F25-0549,Laptop Pro,9,10800.0,1587
+F25-0550,nico,9,675.0,1588
+F25-0551,mico,5,127.5,1589
+F25-0551,nico,7,525.0,1590
+F25-0552,nico,5,375.0,1591
+F25-0552,Laptop Pro,4,4800.0,1592
+F25-0552,mico,4,102.0,1593
+F25-0553,Laptop Pro,3,3600.0,1594
+F25-0553,Monitor 24p,2,360.0,1595
+F25-0553,Monitor 24p,4,720.0,1596
+F25-0553,nico,4,300.0,1597
+F25-0554,Cable HDMI 2m,4,51.96,1598
+F25-0554,Soporte Laptop,9,405.0,1599
+F25-0554,Monitor 24p,8,1440.0,1600
+F25-0554,nico,3,225.0,1601
+F25-0554,mico,3,76.5,1602
+F25-0555,nico,7,525.0,1603
+F25-0555,Monitor 24p,3,540.0,1604
+F25-0555,mico,6,153.0,1605
+F25-0556,Laptop Pro,7,8400.0,1606
+F25-0556,nico,6,450.0,1607
+F25-0556,Cable HDMI 2m,6,77.94,1608
+F25-0556,Soporte Laptop,6,270.0,1609
+F25-0556,mico,9,229.5,1610
+F25-0557,Soporte Laptop,8,360.0,1611
+F25-0557,Monitor 24p,8,1440.0,1612
+F25-0557,Soporte Laptop,2,90.0,1613
+F25-0558,Monitor 24p,7,1260.0,1614
+F25-0558,Cable HDMI 2m,1,12.99,1615
+F25-0558,nico,4,300.0,1616
+F25-0559,Soporte Laptop,10,450.0,1617
+F25-0560,nico,3,225.0,1618
+F25-0560,Laptop Pro,8,9600.0,1619
+F25-0560,Soporte Laptop,6,270.0,1620
+F25-0560,Cable HDMI 2m,7,90.93,1621
+F25-0561,nico,5,375.0,1622
+F25-0561,Soporte Laptop,1,45.0,1623
+F25-0561,Monitor 24p,2,360.0,1624
+F25-0561,mico,2,51.0,1625
+F25-0562,mico,3,76.5,1626
+F25-0562,Cable HDMI 2m,1,12.99,1627
+F25-0562,Cable HDMI 2m,8,103.92,1628
+F25-0563,mico,2,51.0,1629
+F25-0563,Soporte Laptop,1,45.0,1630
+F25-0563,Cable HDMI 2m,1,12.99,1631
+F25-0563,Laptop Pro,3,3600.0,1632
+F25-0564,Soporte Laptop,9,405.0,1633
+F25-0565,Cable HDMI 2m,5,64.95,1634
+F25-0565,mico,1,25.5,1635
+F25-0565,Laptop Pro,2,2400.0,1636
+F25-0565,Laptop Pro,3,3600.0,1637
+F25-0566,Monitor 24p,7,1260.0,1638
+F25-0566,Monitor 24p,8,1440.0,1639
+F25-0566,Soporte Laptop,8,360.0,1640
+F25-0566,Soporte Laptop,1,45.0,1641
+F25-0567,Laptop Pro,4,4800.0,1642
+F25-0567,nico,5,375.0,1643
+F25-0567,Cable HDMI 2m,3,38.97,1644
+F25-0568,Laptop Pro,6,7200.0,1645
+F25-0568,mico,10,255.0,1646
+F25-0569,mico,8,204.0,1647
+F25-0569,Monitor 24p,6,1080.0,1648
+F25-0569,nico,1,75.0,1649
+F25-0569,nico,2,150.0,1650
+F25-0569,Laptop Pro,3,3600.0,1651
+F25-0570,mico,3,76.5,1652
+F25-0570,nico,4,300.0,1653
+F25-0571,Laptop Pro,5,6000.0,1654
+F25-0572,nico,10,750.0,1655
+F25-0572,Monitor 24p,5,900.0,1656
+F25-0573,Monitor 24p,8,1440.0,1657
+F25-0573,Laptop Pro,5,6000.0,1658
+F25-0573,mico,4,102.0,1659
+F25-0574,nico,3,225.0,1660
+F25-0575,nico,2,150.0,1661
+F25-0575,nico,6,450.0,1662
+F25-0575,nico,8,600.0,1663
+F25-0575,Monitor 24p,3,540.0,1664
+F25-0575,Laptop Pro,8,9600.0,1665
+F25-0576,mico,5,127.5,1666
+F25-0576,mico,8,204.0,1667
+F25-0576,Laptop Pro,7,8400.0,1668
+F25-0576,Cable HDMI 2m,3,38.97,1669
+F25-0576,Cable HDMI 2m,10,129.9,1670
+F25-0577,Cable HDMI 2m,5,64.95,1671
+F25-0577,mico,5,127.5,1672
+F25-0577,Laptop Pro,3,3600.0,1673
+F25-0578,mico,9,229.5,1674
+F25-0578,mico,3,76.5,1675
+F25-0578,nico,2,150.0,1676
+F25-0579,Laptop Pro,10,12000.0,1677
+F25-0579,Cable HDMI 2m,2,25.98,1678
+F25-0579,Laptop Pro,8,9600.0,1679
+F25-0579,Monitor 24p,10,1800.0,1680
+F25-0580,Laptop Pro,10,12000.0,1681
+F25-0580,Laptop Pro,1,1200.0,1682
+F25-0580,Monitor 24p,8,1440.0,1683
+F25-0580,Monitor 24p,2,360.0,1684
+F25-0580,Cable HDMI 2m,7,90.93,1685
+F25-0581,Laptop Pro,10,12000.0,1686
+F25-0581,Monitor 24p,2,360.0,1687
+F25-0582,mico,8,204.0,1688
+F25-0582,Laptop Pro,1,1200.0,1689
+F25-0582,Cable HDMI 2m,6,77.94,1690
+F25-0583,Soporte Laptop,4,180.0,1691
+F25-0583,nico,8,600.0,1692
+F25-0584,mico,7,178.5,1693
+F25-0584,mico,6,153.0,1694
+F25-0584,nico,2,150.0,1695
+F25-0584,Laptop Pro,4,4800.0,1696
+F25-0585,Laptop Pro,3,3600.0,1697
+F25-0585,Soporte Laptop,2,90.0,1698
+F25-0585,Soporte Laptop,8,360.0,1699
+F25-0585,Cable HDMI 2m,9,116.91,1700
+F25-0585,Monitor 24p,8,1440.0,1701
+F25-0586,Soporte Laptop,9,405.0,1702
+F25-0586,mico,4,102.0,1703
+F25-0586,Laptop Pro,3,3600.0,1704
+F25-0586,mico,6,153.0,1705
+F25-0587,Laptop Pro,6,7200.0,1706
+F25-0587,Monitor 24p,2,360.0,1707
+F25-0587,Cable HDMI 2m,3,38.97,1708
+F25-0588,Monitor 24p,3,540.0,1709
+F25-0589,Cable HDMI 2m,10,129.9,1710
+F25-0589,Monitor 24p,5,900.0,1711
+F25-0589,Soporte Laptop,6,270.0,1712
+F25-0590,Laptop Pro,3,3600.0,1713
+F25-0590,mico,3,76.5,1714
+F25-0591,Soporte Laptop,2,90.0,1715
+F25-0591,Laptop Pro,2,2400.0,1716
+F25-0592,Laptop Pro,3,3600.0,1717
+F25-0592,Soporte Laptop,4,180.0,1718
+F25-0592,Cable HDMI 2m,4,51.96,1719
+F25-0592,Soporte Laptop,5,225.0,1720
+F25-0592,Laptop Pro,4,4800.0,1721
+F25-0593,Cable HDMI 2m,6,77.94,1722
+F25-0594,nico,6,450.0,1723
+F25-0594,Laptop Pro,5,6000.0,1724
+F25-0594,Soporte Laptop,10,450.0,1725
+F25-0594,Laptop Pro,8,9600.0,1726
+F25-0594,nico,7,525.0,1727
+F25-0595,Monitor 24p,1,180.0,1728
+F25-0596,Laptop Pro,10,12000.0,1729
+F25-0597,Cable HDMI 2m,5,64.95,1730
+F25-0597,Laptop Pro,5,6000.0,1731
+F25-0598,Laptop Pro,6,7200.0,1732
+F25-0598,nico,8,600.0,1733
+F25-0598,Laptop Pro,5,6000.0,1734
+F25-0599,mico,6,153.0,1735
+F25-0599,nico,10,750.0,1736
+F25-0599,Cable HDMI 2m,10,129.9,1737
+F25-0599,Laptop Pro,5,6000.0,1738
+F25-0600,nico,9,675.0,1739
+F25-0600,Laptop Pro,10,12000.0,1740
+F25-0600,Cable HDMI 2m,4,51.96,1741
+F25-0601,Soporte Laptop,3,135.0,1742
+F25-0601,Cable HDMI 2m,2,25.98,1743
+F25-0602,mico,4,102.0,1744
+F25-0602,Laptop Pro,4,4800.0,1745
+F25-0603,Soporte Laptop,6,270.0,1746
+F25-0603,Soporte Laptop,7,315.0,1747
+F25-0603,Laptop Pro,2,2400.0,1748
+F25-0603,Monitor 24p,3,540.0,1749
+F25-0604,nico,8,600.0,1750
+F25-0604,Monitor 24p,10,1800.0,1751
+F25-0604,Monitor 24p,2,360.0,1752
+F25-0605,Soporte Laptop,4,180.0,1753
+F25-0605,mico,3,76.5,1754
+F25-0605,Monitor 24p,10,1800.0,1755
+F25-0605,nico,1,75.0,1756
+F25-0605,nico,8,600.0,1757
+F25-0606,Monitor 24p,7,1260.0,1758
+F25-0606,nico,5,375.0,1759
+F25-0606,nico,8,600.0,1760
+F25-0606,nico,2,150.0,1761
+F25-0607,Laptop Pro,9,10800.0,1762
+F25-0607,Soporte Laptop,4,180.0,1763
+F25-0608,nico,7,525.0,1764
+F25-0608,Monitor 24p,4,720.0,1765
+F25-0608,Cable HDMI 2m,4,51.96,1766
+F25-0609,Laptop Pro,10,12000.0,1767
+F25-0609,nico,3,225.0,1768
+F25-0609,mico,5,127.5,1769
+F25-0609,Laptop Pro,7,8400.0,1770
+F25-0610,Monitor 24p,6,1080.0,1771
+F25-0611,Laptop Pro,3,3600.0,1772
+F25-0611,Laptop Pro,9,10800.0,1773
+F25-0612,Soporte Laptop,4,180.0,1774
+F25-0612,mico,8,204.0,1775
+F25-0612,Cable HDMI 2m,1,12.99,1776
+F25-0613,mico,10,255.0,1777
+F25-0613,Monitor 24p,9,1620.0,1778
+F25-0613,nico,5,375.0,1779
+F25-0614,nico,6,450.0,1780
+F25-0614,nico,2,150.0,1781
+F25-0615,Cable HDMI 2m,3,38.97,1782
+F25-0615,Soporte Laptop,8,360.0,1783
+F25-0616,Monitor 24p,7,1260.0,1784
+F25-0616,nico,1,75.0,1785
+F25-0616,Monitor 24p,9,1620.0,1786
+F25-0616,Soporte Laptop,6,270.0,1787
+F25-0617,Soporte Laptop,7,315.0,1788
+F25-0617,Cable HDMI 2m,6,77.94,1789
+F25-0618,nico,1,75.0,1790
+F25-0619,Soporte Laptop,7,315.0,1791
+F25-0620,Monitor 24p,3,540.0,1792
+F25-0620,Cable HDMI 2m,3,38.97,1793
+F25-0621,Laptop Pro,6,7200.0,1794
+F25-0621,Soporte Laptop,8,360.0,1795
+F25-0621,mico,10,255.0,1796
+F25-0622,Cable HDMI 2m,1,12.99,1797
+F25-0622,Monitor 24p,3,540.0,1798
+F25-0622,nico,4,300.0,1799
+F25-0622,mico,1,25.5,1800
+F25-0623,Cable HDMI 2m,10,129.9,1801
+F25-0623,Laptop Pro,6,7200.0,1802
+F25-0623,nico,9,675.0,1803
+F25-0623,mico,1,25.5,1804
+F25-0623,Cable HDMI 2m,5,64.95,1805
+F25-0624,Soporte Laptop,6,270.0,1806
+F25-0624,nico,6,450.0,1807
+F25-0624,Monitor 24p,1,180.0,1808
+F25-0624,Soporte Laptop,7,315.0,1809
+F25-0625,Monitor 24p,6,1080.0,1810
+F25-0625,Soporte Laptop,8,360.0,1811
+F25-0625,Cable HDMI 2m,5,64.95,1812
+F25-0625,nico,10,750.0,1813
+F25-0626,nico,9,675.0,1814
+F25-0626,mico,7,178.5,1815
+F25-0627,nico,3,225.0,1816
+F25-0628,Laptop Pro,4,4800.0,1817
+F25-0629,Monitor 24p,1,180.0,1818
+F25-0629,Cable HDMI 2m,4,51.96,1819
+F25-0629,Monitor 24p,5,900.0,1820
+F25-0629,Laptop Pro,4,4800.0,1821
+F25-0629,Monitor 24p,9,1620.0,1822
+F25-0630,nico,6,450.0,1823
+F25-0630,Laptop Pro,3,3600.0,1824
+F25-0630,Laptop Pro,1,1200.0,1825
+F25-0630,Laptop Pro,10,12000.0,1826
+F25-0630,Soporte Laptop,5,225.0,1827
+F25-0631,mico,10,255.0,1828
+F25-0631,Cable HDMI 2m,10,129.9,1829
+F25-0631,Monitor 24p,7,1260.0,1830
+F25-0632,nico,9,675.0,1831
+F25-0632,Laptop Pro,2,2400.0,1832
+F25-0632,Cable HDMI 2m,2,25.98,1833
+F25-0632,Laptop Pro,7,8400.0,1834
+F25-0632,Laptop Pro,8,9600.0,1835
+F25-0633,Laptop Pro,6,7200.0,1836
+F25-0633,Laptop Pro,1,1200.0,1837
+F25-0633,nico,2,150.0,1838
+F25-0634,Laptop Pro,7,8400.0,1839
+F25-0634,mico,1,25.5,1840
+F25-0634,Soporte Laptop,5,225.0,1841
+F25-0634,Laptop Pro,1,1200.0,1842
+F25-0634,Soporte Laptop,6,270.0,1843
+F25-0635,Laptop Pro,7,8400.0,1844
+F25-0635,Monitor 24p,5,900.0,1845
+F25-0635,Cable HDMI 2m,9,116.91,1846
+F25-0636,Laptop Pro,8,9600.0,1847
+F25-0637,Laptop Pro,10,12000.0,1848
+F25-0637,Laptop Pro,5,6000.0,1849
+F25-0637,Monitor 24p,4,720.0,1850
+F25-0637,mico,6,153.0,1851
+F25-0637,mico,4,102.0,1852
+F25-0638,Soporte Laptop,2,90.0,1853
+F25-0638,Monitor 24p,4,720.0,1854
+F25-0638,Monitor 24p,8,1440.0,1855
+F25-0638,nico,10,750.0,1856
+F25-0638,Cable HDMI 2m,2,25.98,1857
+F25-0639,Soporte Laptop,7,315.0,1858
+F25-0639,Cable HDMI 2m,2,25.98,1859
+F25-0639,Monitor 24p,8,1440.0,1860
+F25-0639,Monitor 24p,3,540.0,1861
+F25-0639,Cable HDMI 2m,7,90.93,1862
+F25-0640,Soporte Laptop,1,45.0,1863
+F25-0640,mico,4,102.0,1864
+F25-0641,Cable HDMI 2m,2,25.98,1865
+F25-0641,Laptop Pro,9,10800.0,1866
+F25-0641,Laptop Pro,1,1200.0,1867
+F25-0642,Soporte Laptop,8,360.0,1868
+F25-0642,mico,6,153.0,1869
+F25-0642,Cable HDMI 2m,4,51.96,1870
+F25-0643,nico,7,525.0,1871
+F25-0644,Cable HDMI 2m,10,129.9,1872
+F25-0644,Laptop Pro,10,12000.0,1873
+F25-0644,nico,2,150.0,1874
+F25-0644,Cable HDMI 2m,1,12.99,1875
+F25-0644,Cable HDMI 2m,7,90.93,1876
+F25-0645,mico,7,178.5,1877
+F25-0645,nico,9,675.0,1878
+F25-0645,Monitor 24p,2,360.0,1879
+F25-0645,Monitor 24p,10,1800.0,1880
+F25-0646,nico,7,525.0,1881
+F25-0647,nico,1,75.0,1882
+F25-0647,mico,10,255.0,1883
+F25-0648,Laptop Pro,7,8400.0,1884
+F25-0648,Laptop Pro,9,10800.0,1885
+F25-0648,nico,8,600.0,1886
+F25-0648,mico,9,229.5,1887
+F25-0649,Cable HDMI 2m,8,103.92,1888
+F25-0649,Laptop Pro,4,4800.0,1889
+F25-0649,nico,5,375.0,1890
+F25-0649,Laptop Pro,5,6000.0,1891
+F25-0649,mico,4,102.0,1892
+F25-0650,Laptop Pro,3,3600.0,1893
+F25-0650,mico,8,204.0,1894
+F25-0650,nico,4,300.0,1895
+F25-0651,Laptop Pro,10,12000.0,1896
+F25-0651,Soporte Laptop,7,315.0,1897
+F25-0652,Cable HDMI 2m,5,64.95,1898
+F25-0653,Cable HDMI 2m,8,103.92,1899
+F25-0654,mico,1,25.5,1900
+F25-0654,Monitor 24p,8,1440.0,1901
+F25-0654,Soporte Laptop,4,180.0,1902
+F25-0654,Cable HDMI 2m,8,103.92,1903
+F25-0654,Laptop Pro,8,9600.0,1904
+F25-0655,Laptop Pro,4,4800.0,1905
+F25-0655,Soporte Laptop,5,225.0,1906
+F25-0655,nico,5,375.0,1907
+F25-0655,mico,9,229.5,1908
+F25-0656,mico,2,51.0,1909
+F25-0656,Cable HDMI 2m,5,64.95,1910
+F25-0656,Monitor 24p,2,360.0,1911
+F25-0656,Monitor 24p,1,180.0,1912
+F25-0657,Soporte Laptop,3,135.0,1913
+F25-0658,Cable HDMI 2m,7,90.93,1914
+F25-0658,Soporte Laptop,3,135.0,1915
+F25-0658,Laptop Pro,10,12000.0,1916
+F25-0658,mico,3,76.5,1917
+F25-0658,Laptop Pro,4,4800.0,1918
+F25-0659,Soporte Laptop,6,270.0,1919
+F25-0660,Monitor 24p,10,1800.0,1920
+F25-0660,Monitor 24p,6,1080.0,1921
+F25-0660,mico,5,127.5,1922
+F25-0660,nico,10,750.0,1923
+F25-0661,Laptop Pro,5,6000.0,1924
+F25-0661,Soporte Laptop,3,135.0,1925
+F25-0662,Soporte Laptop,5,225.0,1926
+F25-0662,Laptop Pro,10,12000.0,1927
+F25-0662,Cable HDMI 2m,9,116.91,1928
+F25-0663,Cable HDMI 2m,4,51.96,1929
+F25-0664,Cable HDMI 2m,5,64.95,1930
+F25-0664,Laptop Pro,8,9600.0,1931
+F25-0664,nico,5,375.0,1932
+F25-0664,Laptop Pro,5,6000.0,1933
+F25-0664,mico,1,25.5,1934
+F25-0665,nico,1,75.0,1935
+F25-0665,Cable HDMI 2m,6,77.94,1936
+F25-0666,Monitor 24p,6,1080.0,1937
+F25-0666,Laptop Pro,4,4800.0,1938
+F25-0666,Laptop Pro,7,8400.0,1939
+F25-0666,nico,6,450.0,1940
+F25-0666,Laptop Pro,5,6000.0,1941
+F25-0667,Cable HDMI 2m,6,77.94,1942
+F25-0667,mico,10,255.0,1943
+F25-0668,Monitor 24p,6,1080.0,1944
+F25-0668,Soporte Laptop,2,90.0,1945
+F25-0668,Laptop Pro,7,8400.0,1946
+F25-0668,Monitor 24p,5,900.0,1947
+F25-0669,Soporte Laptop,3,135.0,1948
+F25-0669,Soporte Laptop,2,90.0,1949
+F25-0669,nico,10,750.0,1950
+F25-0670,Laptop Pro,4,4800.0,1951
+F25-0670,mico,6,153.0,1952
+F25-0671,Laptop Pro,5,6000.0,1953
+F25-0672,nico,2,150.0,1954
+F25-0672,Soporte Laptop,6,270.0,1955
+F25-0672,Laptop Pro,7,8400.0,1956
+F25-0672,mico,7,178.5,1957
+F25-0672,nico,7,525.0,1958
+F25-0673,Laptop Pro,8,9600.0,1959
+F25-0673,mico,2,51.0,1960
+F25-0673,Laptop Pro,6,7200.0,1961
+F25-0673,Cable HDMI 2m,9,116.91,1962
+F25-0674,Cable HDMI 2m,3,38.97,1963
+F25-0674,Monitor 24p,2,360.0,1964
+F25-0674,nico,1,75.0,1965
+F25-0675,Soporte Laptop,4,180.0,1966
+F25-0676,mico,6,153.0,1967
+F25-0676,mico,8,204.0,1968
+F25-0677,nico,1,75.0,1969
+F25-0678,nico,2,150.0,1970
+F25-0679,Laptop Pro,4,4800.0,1971
+F25-0679,Monitor 24p,9,1620.0,1972
+F25-0679,Laptop Pro,5,6000.0,1973
+F25-0679,Cable HDMI 2m,8,103.92,1974
+F25-0680,Monitor 24p,5,900.0,1975
+F25-0681,Cable HDMI 2m,4,51.96,1976
+F25-0681,Soporte Laptop,8,360.0,1977
+F25-0681,Cable HDMI 2m,2,25.98,1978
+F25-0681,mico,6,153.0,1979
+F25-0682,Soporte Laptop,8,360.0,1980
+F25-0682,nico,7,525.0,1981
+F25-0682,Monitor 24p,4,720.0,1982
+F25-0683,nico,1,75.0,1983
+F25-0683,Soporte Laptop,3,135.0,1984
+F25-0684,Soporte Laptop,5,225.0,1985
+F25-0684,mico,2,51.0,1986
+F25-0684,Soporte Laptop,9,405.0,1987
+F25-0684,mico,7,178.5,1988
+F25-0685,Cable HDMI 2m,3,38.97,1989
+F25-0685,mico,7,178.5,1990
+F25-0685,mico,2,51.0,1991
+F25-0686,Laptop Pro,2,2400.0,1992
+F25-0686,mico,9,229.5,1993
+F25-0687,mico,10,255.0,1994
+F25-0687,mico,6,153.0,1995
+F25-0687,Laptop Pro,2,2400.0,1996
+F25-0687,Soporte Laptop,3,135.0,1997
+F25-0688,Soporte Laptop,5,225.0,1998
+F25-0689,nico,10,750.0,1999
+F25-0689,Monitor 24p,10,1800.0,2000
+F25-0689,Soporte Laptop,3,135.0,2001
+F25-0689,mico,9,229.5,2002
+F25-0689,nico,1,75.0,2003
+F25-0690,nico,5,375.0,2004
+F25-0690,Cable HDMI 2m,3,38.97,2005
+F25-0691,Laptop Pro,9,10800.0,2006
+F25-0691,Soporte Laptop,1,45.0,2007
+F25-0691,nico,8,600.0,2008
+F25-0692,Monitor 24p,2,360.0,2009
+F25-0692,Monitor 24p,1,180.0,2010
+F25-0692,nico,1,75.0,2011
+F25-0693,Soporte Laptop,4,180.0,2012
+F25-0693,Cable HDMI 2m,1,12.99,2013
+F25-0693,mico,6,153.0,2014
+F25-0694,Soporte Laptop,4,180.0,2015
+F25-0695,mico,7,178.5,2016
+F25-0695,Soporte Laptop,2,90.0,2017
+F25-0695,Cable HDMI 2m,4,51.96,2018
+F25-0695,Cable HDMI 2m,1,12.99,2019
+F25-0696,Monitor 24p,1,180.0,2020
+F25-0696,Soporte Laptop,8,360.0,2021
+F25-0697,Laptop Pro,2,2400.0,2022
+F25-0697,Monitor 24p,2,360.0,2023
+F25-0697,Soporte Laptop,2,90.0,2024
+F25-0697,Cable HDMI 2m,1,12.99,2025
+F25-0698,Soporte Laptop,5,225.0,2026
+F25-0698,Monitor 24p,5,900.0,2027
+F25-0698,mico,10,255.0,2028
+F25-0699,mico,8,204.0,2029
+F25-0699,Laptop Pro,1,1200.0,2030
+F25-0699,nico,9,675.0,2031
+F25-0699,Monitor 24p,1,180.0,2032
+F25-0699,Laptop Pro,8,9600.0,2033
+F25-0700,Monitor 24p,2,360.0,2034
+F25-0700,Monitor 24p,5,900.0,2035
+F25-0701,Cable HDMI 2m,6,77.94,2036
+F25-0702,nico,1,75.0,2037
+F25-0702,Soporte Laptop,5,225.0,2038
+F25-0702,mico,3,76.5,2039
+F25-0702,Cable HDMI 2m,2,25.98,2040
+F25-0702,Soporte Laptop,1,45.0,2041
+F25-0703,Soporte Laptop,8,360.0,2042
+F25-0703,mico,2,51.0,2043
+F25-0704,nico,8,600.0,2044
+F25-0704,nico,7,525.0,2045
+F25-0704,Monitor 24p,5,900.0,2046
+F25-0704,nico,5,375.0,2047
+F25-0704,mico,2,51.0,2048
+F25-0705,Soporte Laptop,9,405.0,2049
+F25-0705,Monitor 24p,4,720.0,2050
+F25-0705,nico,2,150.0,2051
+F25-0706,mico,7,178.5,2052
+F25-0706,Monitor 24p,5,900.0,2053
+F25-0707,Monitor 24p,4,720.0,2054
+F25-0707,Soporte Laptop,10,450.0,2055
+F25-0707,Laptop Pro,5,6000.0,2056
+F25-0707,Cable HDMI 2m,7,90.93,2057
+F25-0707,Soporte Laptop,1,45.0,2058
+F25-0708,mico,10,255.0,2059
+F25-0708,mico,7,178.5,2060
+F25-0709,Soporte Laptop,2,90.0,2061
+F25-0709,Cable HDMI 2m,5,64.95,2062
+F25-0710,Monitor 24p,7,1260.0,2063
+F25-0710,nico,2,150.0,2064
+F25-0711,Monitor 24p,4,720.0,2065
+F25-0712,Cable HDMI 2m,6,77.94,2066
+F25-0712,Laptop Pro,9,10800.0,2067
+F25-0713,mico,6,153.0,2068
+F25-0713,Soporte Laptop,4,180.0,2069
+F25-0713,Laptop Pro,8,9600.0,2070
+F25-0714,mico,9,229.5,2071
+F25-0714,Soporte Laptop,10,450.0,2072
+F25-0714,Soporte Laptop,7,315.0,2073
+F25-0715,Laptop Pro,5,6000.0,2074
+F25-0715,Laptop Pro,3,3600.0,2075
+F25-0715,Monitor 24p,9,1620.0,2076
+F25-0716,Soporte Laptop,6,270.0,2077
+F25-0717,Cable HDMI 2m,9,116.91,2078
+F25-0717,Laptop Pro,8,9600.0,2079
+F25-0717,Monitor 24p,3,540.0,2080
+F25-0717,Laptop Pro,6,7200.0,2081
+F25-0718,mico,6,153.0,2082
+F25-0718,Soporte Laptop,1,45.0,2083
+F25-0719,Soporte Laptop,6,270.0,2084
+F25-0720,mico,9,229.5,2085
+F25-0720,Soporte Laptop,7,315.0,2086
+F25-0721,Laptop Pro,1,1200.0,2087
+F25-0722,Monitor 24p,7,1260.0,2088
+F25-0722,Cable HDMI 2m,8,103.92,2089
+F25-0722,Monitor 24p,1,180.0,2090
+F25-0723,Laptop Pro,9,10800.0,2091
+F25-0723,Monitor 24p,10,1800.0,2092
+F25-0723,nico,4,300.0,2093
+F25-0723,Soporte Laptop,7,315.0,2094
+F25-0723,mico,1,25.5,2095
+F25-0724,Laptop Pro,2,2400.0,2096
+F25-0725,Soporte Laptop,7,315.0,2097
+F25-0725,Laptop Pro,6,7200.0,2098
+F25-0726,mico,8,204.0,2099
+F25-0727,Cable HDMI 2m,10,129.9,2100
+F25-0728,Laptop Pro,9,10800.0,2101
+F25-0728,Cable HDMI 2m,1,12.99,2102
+F25-0728,Monitor 24p,2,360.0,2103
+F25-0728,nico,3,225.0,2104
+F25-0728,nico,6,450.0,2105
+F25-0729,Soporte Laptop,10,450.0,2106
+F25-0730,Soporte Laptop,8,360.0,2107
+F25-0730,Cable HDMI 2m,1,12.99,2108
+F25-0730,nico,4,300.0,2109
+F25-0731,Laptop Pro,2,2400.0,2110
+F25-0731,Soporte Laptop,10,450.0,2111
+F25-0731,Monitor 24p,4,720.0,2112
+F25-0731,Soporte Laptop,3,135.0,2113
+F25-0732,mico,9,229.5,2114
+F25-0732,mico,6,153.0,2115
+F25-0732,Monitor 24p,5,900.0,2116
+F25-0732,Cable HDMI 2m,2,25.98,2117
+F25-0733,Soporte Laptop,1,45.0,2118
+F25-0733,mico,5,127.5,2119
+F25-0733,mico,2,51.0,2120
+F25-0733,mico,10,255.0,2121
+F25-0733,Monitor 24p,9,1620.0,2122
+F25-0734,Monitor 24p,3,540.0,2123
+F25-0734,Cable HDMI 2m,10,129.9,2124
+F25-0735,Cable HDMI 2m,1,12.99,2125
+F25-0735,mico,5,127.5,2126
+F25-0735,nico,3,225.0,2127
+F25-0735,nico,4,300.0,2128
+F25-0736,Soporte Laptop,7,315.0,2129
+F25-0736,Monitor 24p,5,900.0,2130
+F25-0737,Laptop Pro,8,9600.0,2131
+F25-0737,nico,1,75.0,2132
+F25-0737,Laptop Pro,6,7200.0,2133
+F25-0737,Monitor 24p,1,180.0,2134
+F25-0737,Soporte Laptop,6,270.0,2135
+F25-0738,Cable HDMI 2m,1,12.99,2136
+F25-0739,mico,6,153.0,2137
+F25-0739,nico,10,750.0,2138
+F25-0740,Soporte Laptop,1,45.0,2139
+F25-0740,Cable HDMI 2m,9,116.91,2140
+F25-0740,Monitor 24p,10,1800.0,2141
+F25-0740,Soporte Laptop,2,90.0,2142
+F25-0741,Cable HDMI 2m,7,90.93,2143
+F25-0742,Soporte Laptop,8,360.0,2144
+F25-0742,Cable HDMI 2m,3,38.97,2145
+F25-0742,Laptop Pro,7,8400.0,2146
+F25-0743,nico,3,225.0,2147
+F25-0743,Cable HDMI 2m,10,129.9,2148
+F25-0743,Cable HDMI 2m,5,64.95,2149
+F25-0744,Monitor 24p,7,1260.0,2150
+F25-0744,nico,6,450.0,2151
+F25-0745,Laptop Pro,7,8400.0,2152
+F25-0745,Soporte Laptop,10,450.0,2153
+F25-0745,Monitor 24p,3,540.0,2154
+F25-0745,Cable HDMI 2m,3,38.97,2155
+F25-0745,Soporte Laptop,5,225.0,2156
+F25-0746,Monitor 24p,8,1440.0,2157
+F25-0746,Cable HDMI 2m,3,38.97,2158
+F25-0746,Laptop Pro,8,9600.0,2159
+F25-0746,Monitor 24p,7,1260.0,2160
+F25-0746,mico,10,255.0,2161
+F25-0747,nico,5,375.0,2162
+F25-0747,Laptop Pro,4,4800.0,2163
+F25-0747,Soporte Laptop,7,315.0,2164
+F25-0748,mico,9,229.5,2165
+F25-0749,Cable HDMI 2m,9,116.91,2166
+F25-0749,mico,5,127.5,2167
+F25-0749,mico,3,76.5,2168
+F25-0749,Monitor 24p,1,180.0,2169
+F25-0749,Soporte Laptop,9,405.0,2170
+F25-0750,mico,9,229.5,2171
+F25-0750,Monitor 24p,2,360.0,2172
+F25-0751,mico,8,204.0,2173
+F25-0751,Laptop Pro,4,4800.0,2174
+F25-0751,Cable HDMI 2m,2,25.98,2175
+F25-0752,Monitor 24p,8,1440.0,2176
+F25-0753,nico,2,150.0,2177
+F25-0753,Monitor 24p,7,1260.0,2178
+F25-0753,Cable HDMI 2m,9,116.91,2179
+F25-0754,Cable HDMI 2m,9,116.91,2180
+F25-0754,Monitor 24p,5,900.0,2181
+F25-0754,Cable HDMI 2m,4,51.96,2182
+F25-0754,Cable HDMI 2m,8,103.92,2183
+F25-0755,mico,10,255.0,2184
+F25-0755,Soporte Laptop,3,135.0,2185
+F25-0755,Cable HDMI 2m,3,38.97,2186
+F25-0755,mico,7,178.5,2187
+F25-0755,Laptop Pro,6,7200.0,2188
+F25-0756,Monitor 24p,10,1800.0,2189
+F25-0756,Laptop Pro,9,10800.0,2190
+F25-0756,Monitor 24p,1,180.0,2191
+F25-0756,nico,7,525.0,2192
+F25-0756,mico,9,229.5,2193
+F25-0757,mico,5,127.5,2194
+F25-0757,Cable HDMI 2m,4,51.96,2195
+F25-0757,Monitor 24p,5,900.0,2196
+F25-0757,Soporte Laptop,5,225.0,2197
+F25-0757,nico,8,600.0,2198
+F25-0758,Soporte Laptop,5,225.0,2199
+F25-0758,Monitor 24p,7,1260.0,2200
+F25-0759,Laptop Pro,6,7200.0,2201
+F25-0759,Soporte Laptop,2,90.0,2202
+F25-0759,Soporte Laptop,6,270.0,2203
+F25-0759,Soporte Laptop,3,135.0,2204
+F25-0759,Monitor 24p,8,1440.0,2205
+F25-0760,Laptop Pro,1,1200.0,2206
+F25-0760,mico,4,102.0,2207
+F25-0760,Cable HDMI 2m,7,90.93,2208
+F25-0760,mico,6,153.0,2209
+F25-0761,Cable HDMI 2m,9,116.91,2210
+F25-0761,Monitor 24p,9,1620.0,2211
+F25-0761,Monitor 24p,4,720.0,2212
+F25-0761,nico,7,525.0,2213
+F25-0762,mico,4,102.0,2214
+F25-0762,mico,5,127.5,2215
+F25-0762,Laptop Pro,5,6000.0,2216
+F25-0763,Cable HDMI 2m,1,12.99,2217
+F25-0763,nico,3,225.0,2218
+F25-0763,mico,1,25.5,2219
+F25-0763,Soporte Laptop,6,270.0,2220
+F25-0763,Soporte Laptop,1,45.0,2221
+F25-0764,Cable HDMI 2m,10,129.9,2222
+F25-0764,nico,8,600.0,2223
+F25-0764,Cable HDMI 2m,9,116.91,2224
+F25-0764,Soporte Laptop,3,135.0,2225
+F25-0765,mico,10,255.0,2226
+F25-0765,Monitor 24p,5,900.0,2227
+F25-0765,Laptop Pro,10,12000.0,2228
+F25-0766,nico,2,150.0,2229
+F25-0767,Laptop Pro,5,6000.0,2230
+F25-0767,mico,1,25.5,2231
+F25-0767,Cable HDMI 2m,2,25.98,2232
+F25-0767,Cable HDMI 2m,4,51.96,2233
+F25-0768,mico,9,229.5,2234
+F25-0769,mico,9,229.5,2235
+F25-0770,Cable HDMI 2m,6,77.94,2236
+F25-0770,mico,9,229.5,2237
+F25-0770,nico,10,750.0,2238
+F25-0771,mico,7,178.5,2239
+F25-0771,Monitor 24p,9,1620.0,2240
+F25-0771,Soporte Laptop,7,315.0,2241
+F25-0772,Laptop Pro,5,6000.0,2242
+F25-0772,Laptop Pro,7,8400.0,2243
+F25-0772,mico,9,229.5,2244
+F25-0772,nico,7,525.0,2245
+F25-0773,nico,6,450.0,2246
+F25-0774,Cable HDMI 2m,1,12.99,2247
+F25-0774,nico,5,375.0,2248
+F25-0774,nico,3,225.0,2249
+F25-0774,nico,9,675.0,2250
+F25-0775,Laptop Pro,3,3600.0,2251
+F25-0775,Laptop Pro,9,10800.0,2252
+F25-0776,Laptop Pro,2,2400.0,2253
+F25-0777,Laptop Pro,8,9600.0,2254
+F25-0778,Cable HDMI 2m,2,25.98,2255
+F25-0778,mico,1,25.5,2256
+F25-0778,Laptop Pro,2,2400.0,2257
+F25-0778,Laptop Pro,6,7200.0,2258
+F25-0779,Cable HDMI 2m,6,77.94,2259
+F25-0779,Laptop Pro,3,3600.0,2260
+F25-0780,nico,5,375.0,2261
+F25-0780,Laptop Pro,2,2400.0,2262
+F25-0780,Monitor 24p,3,540.0,2263
+F25-0781,Monitor 24p,4,720.0,2264
+F25-0781,mico,5,127.5,2265
+F25-0781,Laptop Pro,2,2400.0,2266
+F25-0782,nico,6,450.0,2267
+F25-0782,Laptop Pro,1,1200.0,2268
+F25-0782,nico,2,150.0,2269
+F25-0782,nico,7,525.0,2270
+F25-0782,Monitor 24p,8,1440.0,2271
+F25-0783,nico,9,675.0,2272
+F25-0783,Cable HDMI 2m,3,38.97,2273
+F25-0784,nico,9,675.0,2274
+F25-0785,Monitor 24p,2,360.0,2275
+F25-0785,mico,2,51.0,2276
+F25-0786,Cable HDMI 2m,9,116.91,2277
+F25-0786,nico,9,675.0,2278
+F25-0787,Laptop Pro,3,3600.0,2279
+F25-0787,Monitor 24p,6,1080.0,2280
+F25-0787,mico,8,204.0,2281
+F25-0788,nico,5,375.0,2282
+F25-0788,Soporte Laptop,6,270.0,2283
+F25-0788,Monitor 24p,8,1440.0,2284
+F25-0788,nico,4,300.0,2285
+F25-0788,Cable HDMI 2m,8,103.92,2286
+F25-0789,Cable HDMI 2m,1,12.99,2287
+F25-0789,Cable HDMI 2m,5,64.95,2288
+F25-0789,mico,4,102.0,2289
+F25-0789,Monitor 24p,4,720.0,2290
+F25-0790,Laptop Pro,5,6000.0,2291
+F25-0790,Monitor 24p,2,360.0,2292
+F25-0790,Soporte Laptop,6,270.0,2293
+F25-0790,Monitor 24p,7,1260.0,2294
+F25-0791,mico,5,127.5,2295
+F25-0791,nico,10,750.0,2296
+F25-0792,Laptop Pro,2,2400.0,2297
+F25-0792,nico,8,600.0,2298
+F25-0793,Monitor 24p,3,540.0,2299
+F25-0793,Soporte Laptop,4,180.0,2300
+F25-0793,nico,7,525.0,2301
+F25-0794,Laptop Pro,4,4800.0,2302
+F25-0794,nico,5,375.0,2303
+F25-0794,Soporte Laptop,1,45.0,2304
+F25-0795,Soporte Laptop,3,135.0,2305
+F25-0796,Soporte Laptop,2,90.0,2306
+F25-0796,Monitor 24p,8,1440.0,2307
+F25-0797,Cable HDMI 2m,10,129.9,2308
+F25-0798,Monitor 24p,10,1800.0,2309
+F25-0798,mico,5,127.5,2310
+F25-0798,Laptop Pro,10,12000.0,2311
+F25-0798,mico,9,229.5,2312
+F25-0799,Cable HDMI 2m,6,77.94,2313
+F25-0800,Monitor 24p,10,1800.0,2314
+F25-0800,Laptop Pro,10,12000.0,2315
+F25-0800,Cable HDMI 2m,1,12.99,2316
+F25-0800,Monitor 24p,5,900.0,2317
+F25-0801,mico,9,229.5,2318
+F25-0801,mico,2,51.0,2319
+F25-0802,Monitor 24p,9,1620.0,2320
+F25-0802,Laptop Pro,9,10800.0,2321
+F25-0802,Soporte Laptop,2,90.0,2322
+F25-0802,mico,5,127.5,2323
+F25-0803,Cable HDMI 2m,5,64.95,2324
+F25-0803,nico,5,375.0,2325
+F25-0803,Cable HDMI 2m,2,25.98,2326
+F25-0803,Monitor 24p,6,1080.0,2327
+F25-0804,Soporte Laptop,2,90.0,2328
+F25-0804,mico,8,204.0,2329
+F25-0805,nico,2,150.0,2330
+F25-0805,Laptop Pro,5,6000.0,2331
+F25-0806,Monitor 24p,1,180.0,2332
+F25-0806,Laptop Pro,2,2400.0,2333
+F25-0806,mico,1,25.5,2334
+F25-0807,Cable HDMI 2m,3,38.97,2335
+F25-0807,mico,6,153.0,2336
+F25-0807,Soporte Laptop,8,360.0,2337
+F25-0808,Monitor 24p,7,1260.0,2338
+F25-0808,nico,8,600.0,2339
+F25-0808,nico,6,450.0,2340
+F25-0808,Monitor 24p,3,540.0,2341
+F25-0808,nico,3,225.0,2342
+F25-0809,Laptop Pro,10,12000.0,2343
+F25-0809,Laptop Pro,8,9600.0,2344
+F25-0810,Soporte Laptop,5,225.0,2345
+F25-0810,Laptop Pro,6,7200.0,2346
+F25-0810,Monitor 24p,7,1260.0,2347
+F25-0810,nico,5,375.0,2348
+F25-0810,Cable HDMI 2m,5,64.95,2349
+F25-0811,Laptop Pro,8,9600.0,2350
+F25-0812,Monitor 24p,10,1800.0,2351
+F25-0812,mico,5,127.5,2352
+F25-0812,Cable HDMI 2m,2,25.98,2353
+F25-0812,mico,1,25.5,2354
+F25-0812,Soporte Laptop,7,315.0,2355
+F25-0813,mico,5,127.5,2356
+F25-0813,Monitor 24p,2,360.0,2357
+F25-0813,nico,7,525.0,2358
+F25-0813,Laptop Pro,8,9600.0,2359
+F25-0813,mico,6,153.0,2360
+F25-0814,Soporte Laptop,8,360.0,2361
+F25-0814,Monitor 24p,4,720.0,2362
+F25-0815,Monitor 24p,3,540.0,2363
+F25-0815,Soporte Laptop,3,135.0,2364
+F25-0816,Monitor 24p,2,360.0,2365
+F25-0816,Cable HDMI 2m,6,77.94,2366
+F25-0817,Laptop Pro,4,4800.0,2367
+F25-0817,mico,8,204.0,2368
+F25-0817,Laptop Pro,2,2400.0,2369
+F25-0818,nico,7,525.0,2370
+F25-0818,Laptop Pro,2,2400.0,2371
+F25-0819,Monitor 24p,8,1440.0,2372
+F25-0820,Monitor 24p,2,360.0,2373
+F25-0820,mico,8,204.0,2374
+F25-0820,mico,2,51.0,2375
+F25-0820,Laptop Pro,2,2400.0,2376
+F25-0820,Soporte Laptop,2,90.0,2377
+F25-0821,Soporte Laptop,1,45.0,2378
+F25-0822,Monitor 24p,4,720.0,2379
+F25-0822,mico,4,102.0,2380
+F25-0823,mico,4,102.0,2381
+F25-0823,mico,5,127.5,2382
+F25-0823,Cable HDMI 2m,6,77.94,2383
+F25-0824,Cable HDMI 2m,6,77.94,2384
+F25-0824,Laptop Pro,5,6000.0,2385
+F25-0824,mico,3,76.5,2386
+F25-0824,Cable HDMI 2m,4,51.96,2387
+F25-0825,Monitor 24p,10,1800.0,2388
+F25-0826,mico,10,255.0,2389
+F25-0826,Soporte Laptop,2,90.0,2390
+F25-0826,nico,2,150.0,2391
+F25-0827,Cable HDMI 2m,3,38.97,2392
+F25-0828,nico,4,300.0,2393
+F25-0828,Laptop Pro,1,1200.0,2394
+F25-0828,nico,2,150.0,2395
+F25-0829,Cable HDMI 2m,6,77.94,2396
+F25-0829,Monitor 24p,7,1260.0,2397
+F25-0829,Laptop Pro,8,9600.0,2398
+F25-0829,Laptop Pro,1,1200.0,2399
+F25-0829,Laptop Pro,10,12000.0,2400
+F25-0830,Cable HDMI 2m,3,38.97,2401
+F25-0830,nico,3,225.0,2402
+F25-0830,Soporte Laptop,7,315.0,2403
+F25-0830,Monitor 24p,10,1800.0,2404
+F25-0831,Monitor 24p,10,1800.0,2405
+F25-0831,nico,1,75.0,2406
+F25-0831,Soporte Laptop,2,90.0,2407
+F25-0832,Monitor 24p,1,180.0,2408
+F25-0833,Monitor 24p,3,540.0,2409
+F25-0833,Laptop Pro,4,4800.0,2410
+F25-0833,Cable HDMI 2m,2,25.98,2411
+F25-0833,Soporte Laptop,9,405.0,2412
+F25-0833,nico,8,600.0,2413
+F25-0834,Monitor 24p,8,1440.0,2414
+F25-0834,Cable HDMI 2m,9,116.91,2415
+F25-0834,nico,6,450.0,2416
+F25-0835,Cable HDMI 2m,10,129.9,2417
+F25-0835,Monitor 24p,8,1440.0,2418
+F25-0835,mico,7,178.5,2419
+F25-0835,Cable HDMI 2m,8,103.92,2420
+F25-0836,nico,1,75.0,2421
+F25-0836,Soporte Laptop,9,405.0,2422
+F25-0836,mico,6,153.0,2423
+F25-0837,Soporte Laptop,3,135.0,2424
+F25-0837,Laptop Pro,7,8400.0,2425
+F25-0838,Cable HDMI 2m,9,116.91,2426
+F25-0838,nico,9,675.0,2427
+F25-0838,Soporte Laptop,8,360.0,2428
+F25-0838,Laptop Pro,5,6000.0,2429
+F25-0839,Laptop Pro,4,4800.0,2430
+F25-0839,Cable HDMI 2m,6,77.94,2431
+F25-0840,Cable HDMI 2m,1,12.99,2432
+F25-0840,Laptop Pro,5,6000.0,2433
+F25-0840,Soporte Laptop,5,225.0,2434
+F25-0840,Soporte Laptop,9,405.0,2435
+F25-0840,mico,2,51.0,2436
+F25-0841,Monitor 24p,3,540.0,2437
+F25-0841,Laptop Pro,10,12000.0,2438
+F25-0841,Soporte Laptop,1,45.0,2439
+F25-0841,Cable HDMI 2m,10,129.9,2440
+F25-0841,Soporte Laptop,4,180.0,2441
+F25-0842,Cable HDMI 2m,6,77.94,2442
+F25-0842,Cable HDMI 2m,5,64.95,2443
+F25-0843,Cable HDMI 2m,6,77.94,2444
+F25-0844,Cable HDMI 2m,6,77.94,2445
+F25-0845,Monitor 24p,2,360.0,2446
+F25-0845,Soporte Laptop,3,135.0,2447
+F25-0845,Cable HDMI 2m,4,51.96,2448
+F25-0845,mico,3,76.5,2449
+F25-0846,nico,9,675.0,2450
+F25-0846,Laptop Pro,7,8400.0,2451
+F25-0846,Soporte Laptop,2,90.0,2452
+F25-0847,mico,4,102.0,2453
+F25-0847,Cable HDMI 2m,4,51.96,2454
+F25-0847,Soporte Laptop,6,270.0,2455
+F25-0847,Laptop Pro,7,8400.0,2456
+F25-0847,Laptop Pro,9,10800.0,2457
+F25-0848,mico,9,229.5,2458
+F25-0848,Soporte Laptop,10,450.0,2459
+F25-0848,Monitor 24p,7,1260.0,2460
+F25-0849,Cable HDMI 2m,10,129.9,2461
+F25-0849,Laptop Pro,2,2400.0,2462
+F25-0849,Laptop Pro,6,7200.0,2463
+F25-0850,mico,7,178.5,2464
+F25-0850,mico,10,255.0,2465
+F25-0850,nico,5,375.0,2466
+F25-0850,Cable HDMI 2m,10,129.9,2467
+F25-0851,nico,8,600.0,2468
+F25-0852,Soporte Laptop,9,405.0,2469
+F25-0852,Monitor 24p,2,360.0,2470
+F25-0853,Monitor 24p,7,1260.0,2471
+F25-0853,Laptop Pro,1,1200.0,2472
+F25-0853,Monitor 24p,8,1440.0,2473
+F25-0853,nico,9,675.0,2474
+F25-0853,Cable HDMI 2m,1,12.99,2475
+F25-0854,nico,6,450.0,2476
+F25-0854,nico,9,675.0,2477
+F25-0854,Laptop Pro,5,6000.0,2478
+F25-0855,Laptop Pro,2,2400.0,2479
+F25-0855,nico,9,675.0,2480
+F25-0855,Soporte Laptop,7,315.0,2481
+F25-0855,Cable HDMI 2m,1,12.99,2482
+F25-0855,Laptop Pro,5,6000.0,2483
+F25-0856,mico,3,76.5,2484
+F25-0857,mico,9,229.5,2485
+F25-0857,Cable HDMI 2m,1,12.99,2486
+F25-0857,Soporte Laptop,7,315.0,2487
+F25-0857,mico,7,178.5,2488
+F25-0858,nico,9,675.0,2489
+F25-0858,Laptop Pro,1,1200.0,2490
+F25-0858,mico,10,255.0,2491
+F25-0858,Monitor 24p,5,900.0,2492
+F25-0859,nico,4,300.0,2493
+F25-0859,mico,6,153.0,2494
+F25-0859,mico,3,76.5,2495
+F25-0860,Soporte Laptop,4,180.0,2496
+F25-0861,Cable HDMI 2m,7,90.93,2497
+F25-0861,Soporte Laptop,4,180.0,2498
+F25-0861,Monitor 24p,4,720.0,2499
+F25-0862,nico,9,675.0,2500
+F25-0862,Cable HDMI 2m,5,64.95,2501
+F25-0862,Laptop Pro,4,4800.0,2502
+F25-0862,Soporte Laptop,4,180.0,2503
+F25-0863,Monitor 24p,1,180.0,2504
+F25-0863,nico,3,225.0,2505
+F25-0864,Soporte Laptop,8,360.0,2506
+F25-0864,mico,4,102.0,2507
+F25-0864,Soporte Laptop,9,405.0,2508
+F25-0865,Monitor 24p,1,180.0,2509
+F25-0865,Soporte Laptop,9,405.0,2510
+F25-0865,Laptop Pro,1,1200.0,2511
+F25-0865,nico,5,375.0,2512
+F25-0865,Soporte Laptop,2,90.0,2513
+F25-0866,Laptop Pro,6,7200.0,2514
+F25-0866,nico,8,600.0,2515
+F25-0867,nico,9,675.0,2516
+F25-0867,Laptop Pro,2,2400.0,2517
+F25-0867,nico,3,225.0,2518
+F25-0867,nico,1,75.0,2519
+F25-0868,Monitor 24p,5,900.0,2520
+F25-0868,Soporte Laptop,7,315.0,2521
+F25-0868,Soporte Laptop,2,90.0,2522
+F25-0869,Cable HDMI 2m,8,103.92,2523
+F25-0869,mico,3,76.5,2524
+F25-0869,nico,7,525.0,2525
+F25-0869,Laptop Pro,6,7200.0,2526
+F25-0869,Cable HDMI 2m,1,12.99,2527
+F25-0870,Soporte Laptop,6,270.0,2528
+F25-0870,Monitor 24p,2,360.0,2529
+F25-0870,mico,7,178.5,2530
+F25-0870,Cable HDMI 2m,9,116.91,2531
+F25-0871,Monitor 24p,9,1620.0,2532
+F25-0871,Laptop Pro,8,9600.0,2533
+F25-0872,mico,2,51.0,2534
+F25-0872,nico,4,300.0,2535
+F25-0873,Cable HDMI 2m,7,90.93,2536
+F25-0873,Soporte Laptop,7,315.0,2537
+F25-0873,mico,10,255.0,2538
+F25-0873,nico,9,675.0,2539
+F25-0874,Soporte Laptop,3,135.0,2540
+F25-0874,Monitor 24p,2,360.0,2541
+F25-0875,nico,10,750.0,2542
+F25-0875,Laptop Pro,3,3600.0,2543
+F25-0875,Cable HDMI 2m,4,51.96,2544
+F25-0875,Laptop Pro,4,4800.0,2545
+F25-0875,Laptop Pro,1,1200.0,2546
+F25-0876,Cable HDMI 2m,1,12.99,2547
+F25-0876,Cable HDMI 2m,7,90.93,2548
+F25-0876,mico,3,76.5,2549
+F25-0877,mico,1,25.5,2550
+F25-0877,mico,8,204.0,2551
+F25-0877,mico,10,255.0,2552
+F25-0878,nico,5,375.0,2553
+F25-0878,Monitor 24p,2,360.0,2554
+F25-0879,Soporte Laptop,1,45.0,2555
+F25-0879,nico,4,300.0,2556
+F25-0879,Soporte Laptop,8,360.0,2557
+F25-0879,Soporte Laptop,6,270.0,2558
+F25-0880,nico,5,375.0,2559
+F25-0880,Monitor 24p,9,1620.0,2560
+F25-0880,nico,9,675.0,2561
+F25-0880,Cable HDMI 2m,4,51.96,2562
+F25-0881,Soporte Laptop,5,225.0,2563
+F25-0881,mico,6,153.0,2564
+F25-0881,Monitor 24p,9,1620.0,2565
+F25-0881,Soporte Laptop,3,135.0,2566
+F25-0881,nico,10,750.0,2567
+F25-0882,Laptop Pro,9,10800.0,2568
+F25-0882,Monitor 24p,7,1260.0,2569
+F25-0883,nico,5,375.0,2570
+F25-0883,Soporte Laptop,1,45.0,2571
+F25-0883,Cable HDMI 2m,7,90.93,2572
+F25-0883,Soporte Laptop,6,270.0,2573
+F25-0883,Soporte Laptop,8,360.0,2574
+F25-0884,Laptop Pro,8,9600.0,2575
+F25-0884,nico,4,300.0,2576
+F25-0884,mico,5,127.5,2577
+F25-0884,Monitor 24p,5,900.0,2578
+F25-0885,Monitor 24p,7,1260.0,2579
+F25-0885,nico,2,150.0,2580
+F25-0885,Soporte Laptop,8,360.0,2581
+F25-0886,mico,8,204.0,2582
+F25-0886,Laptop Pro,3,3600.0,2583
+F25-0886,mico,1,25.5,2584
+F25-0886,nico,5,375.0,2585
+F25-0887,Monitor 24p,10,1800.0,2586
+F25-0887,nico,4,300.0,2587
+F25-0888,Monitor 24p,1,180.0,2588
+F25-0888,Cable HDMI 2m,8,103.92,2589
+F25-0888,Cable HDMI 2m,2,25.98,2590
+F25-0888,Cable HDMI 2m,7,90.93,2591
+F25-0889,mico,3,76.5,2592
+F25-0889,Cable HDMI 2m,3,38.97,2593
+F25-0889,Laptop Pro,4,4800.0,2594
+F25-0889,Laptop Pro,5,6000.0,2595
+F25-0890,Cable HDMI 2m,3,38.97,2596
+F25-0890,nico,1,75.0,2597
+F25-0890,mico,2,51.0,2598
+F25-0891,mico,7,178.5,2599
+F25-0891,nico,6,450.0,2600
+F25-0891,Cable HDMI 2m,5,64.95,2601
+F25-0891,Laptop Pro,5,6000.0,2602
+F25-0891,Soporte Laptop,2,90.0,2603
+F25-0892,mico,3,76.5,2604
+F25-0892,Monitor 24p,1,180.0,2605
+F25-0892,Laptop Pro,2,2400.0,2606
+F25-0892,Cable HDMI 2m,2,25.98,2607
+F25-0893,mico,9,229.5,2608
+F25-0893,mico,3,76.5,2609
+F25-0893,nico,10,750.0,2610
+F25-0893,Laptop Pro,4,4800.0,2611
+F25-0894,Monitor 24p,1,180.0,2612
+F25-0895,nico,6,450.0,2613
+F25-0895,Monitor 24p,7,1260.0,2614
+F25-0896,Soporte Laptop,2,90.0,2615
+F25-0897,Cable HDMI 2m,6,77.94,2616
+F25-0897,mico,9,229.5,2617
+F25-0897,Soporte Laptop,10,450.0,2618
+F25-0898,Monitor 24p,7,1260.0,2619
+F25-0898,Cable HDMI 2m,5,64.95,2620
+F25-0899,Soporte Laptop,7,315.0,2621
+F25-0899,Cable HDMI 2m,8,103.92,2622
+F25-0899,nico,5,375.0,2623
+F25-0899,Cable HDMI 2m,3,38.97,2624
+F25-0899,mico,10,255.0,2625
+F25-0900,mico,9,229.5,2626
+F25-0900,Soporte Laptop,9,405.0,2627
+F25-0900,Laptop Pro,9,10800.0,2628
+F25-0900,Laptop Pro,8,9600.0,2629
+F25-0900,Soporte Laptop,10,450.0,2630
+F25-0901,Laptop Pro,6,7200.0,2631
+F25-0901,Cable HDMI 2m,8,103.92,2632
+F25-0901,Soporte Laptop,9,405.0,2633
+F25-0901,Laptop Pro,4,4800.0,2634
+F25-0902,Monitor 24p,1,180.0,2635
+F25-0903,Soporte Laptop,10,450.0,2636
+F25-0903,Cable HDMI 2m,2,25.98,2637
+F25-0903,Laptop Pro,10,12000.0,2638
+F25-0904,Laptop Pro,6,7200.0,2639
+F25-0904,nico,5,375.0,2640
+F25-0904,Laptop Pro,5,6000.0,2641
+F25-0904,nico,1,75.0,2642
+F25-0904,Monitor 24p,2,360.0,2643
+F25-0905,Laptop Pro,1,1200.0,2644
+F25-0905,Laptop Pro,5,6000.0,2645
+F25-0906,Laptop Pro,6,7200.0,2646
+F25-0906,Cable HDMI 2m,10,129.9,2647
+F25-0906,Laptop Pro,3,3600.0,2648
+F25-0907,Laptop Pro,10,12000.0,2649
+F25-0907,Soporte Laptop,1,45.0,2650
+F25-0907,Monitor 24p,5,900.0,2651
+F25-0908,nico,7,525.0,2652
+F25-0908,nico,4,300.0,2653
+F25-0908,mico,7,178.5,2654
+F25-0908,Monitor 24p,3,540.0,2655
+F25-0908,mico,3,76.5,2656
+F25-0909,Cable HDMI 2m,4,51.96,2657
+F25-0909,Monitor 24p,9,1620.0,2658
+F25-0909,Monitor 24p,8,1440.0,2659
+F25-0910,Soporte Laptop,6,270.0,2660
+F25-0910,Soporte Laptop,9,405.0,2661
+F25-0911,Soporte Laptop,5,225.0,2662
+F25-0911,nico,2,150.0,2663
+F25-0911,Cable HDMI 2m,10,129.9,2664
+F25-0911,mico,4,102.0,2665
+F25-0912,Monitor 24p,5,900.0,2666
+F25-0913,Cable HDMI 2m,9,116.91,2667
+F25-0913,nico,3,225.0,2668
+F25-0913,Cable HDMI 2m,1,12.99,2669
+F25-0913,Cable HDMI 2m,5,64.95,2670
+F25-0913,nico,2,150.0,2671
+F25-0914,Soporte Laptop,1,45.0,2672
+F25-0914,Monitor 24p,10,1800.0,2673
+F25-0914,Monitor 24p,6,1080.0,2674
+F25-0914,Monitor 24p,5,900.0,2675
+F25-0914,Cable HDMI 2m,4,51.96,2676
+F25-0915,Cable HDMI 2m,9,116.91,2677
+F25-0915,Monitor 24p,2,360.0,2678
+F25-0915,Soporte Laptop,8,360.0,2679
+F25-0916,Cable HDMI 2m,10,129.9,2680
+F25-0917,mico,3,76.5,2681
+F25-0917,nico,9,675.0,2682
+F25-0917,nico,5,375.0,2683
+F25-0917,mico,9,229.5,2684
+F25-0917,Monitor 24p,9,1620.0,2685
+F25-0918,nico,1,75.0,2686
+F25-0918,nico,5,375.0,2687
+F25-0918,Cable HDMI 2m,4,51.96,2688
+F25-0918,Laptop Pro,5,6000.0,2689
+F25-0918,mico,10,255.0,2690
+F25-0919,Soporte Laptop,10,450.0,2691
+F25-0919,Cable HDMI 2m,9,116.91,2692
+F25-0920,Laptop Pro,10,12000.0,2693
+F25-0920,nico,7,525.0,2694
+F25-0920,Laptop Pro,1,1200.0,2695
+F25-0920,Soporte Laptop,2,90.0,2696
+F25-0920,Soporte Laptop,4,180.0,2697
+F25-0921,Cable HDMI 2m,8,103.92,2698
+F25-0921,Monitor 24p,7,1260.0,2699
+F25-0922,Laptop Pro,8,9600.0,2700
+F25-0923,Monitor 24p,10,1800.0,2701
+F25-0923,Monitor 24p,9,1620.0,2702
+F25-0923,mico,5,127.5,2703
+F25-0923,Soporte Laptop,6,270.0,2704
+F25-0923,Laptop Pro,1,1200.0,2705
+F25-0924,Laptop Pro,2,2400.0,2706
+F25-0924,Soporte Laptop,4,180.0,2707
+F25-0924,Laptop Pro,8,9600.0,2708
+F25-0924,nico,7,525.0,2709
+F25-0924,nico,3,225.0,2710
+F25-0925,Monitor 24p,9,1620.0,2711
+F25-0925,mico,7,178.5,2712
+F25-0926,Laptop Pro,3,3600.0,2713
+F25-0926,Soporte Laptop,3,135.0,2714
+F25-0926,Soporte Laptop,1,45.0,2715
+F25-0926,mico,4,102.0,2716
+F25-0926,nico,2,150.0,2717
+F25-0927,Monitor 24p,8,1440.0,2718
+F25-0927,Monitor 24p,6,1080.0,2719
+F25-0927,Soporte Laptop,10,450.0,2720
+F25-0928,Cable HDMI 2m,10,129.9,2721
+F25-0929,Soporte Laptop,10,450.0,2722
+F25-0930,mico,8,204.0,2723
+F25-0930,Laptop Pro,5,6000.0,2724
+F25-0930,mico,2,51.0,2725
+F25-0930,Soporte Laptop,1,45.0,2726
+F25-0931,Cable HDMI 2m,10,129.9,2727
+F25-0931,mico,8,204.0,2728
+F25-0931,Soporte Laptop,8,360.0,2729
+F25-0931,Cable HDMI 2m,1,12.99,2730
+F25-0932,mico,9,229.5,2731
+F25-0933,Soporte Laptop,4,180.0,2732
+F25-0933,Cable HDMI 2m,7,90.93,2733
+F25-0934,Soporte Laptop,3,135.0,2734
+F25-0934,mico,4,102.0,2735
+F25-0934,Monitor 24p,2,360.0,2736
+F25-0934,Cable HDMI 2m,9,116.91,2737
+F25-0935,Cable HDMI 2m,6,77.94,2738
+F25-0935,Soporte Laptop,10,450.0,2739
+F25-0935,mico,5,127.5,2740
+F25-0935,Laptop Pro,6,7200.0,2741
+F25-0936,mico,7,178.5,2742
+F25-0936,Soporte Laptop,2,90.0,2743
+F25-0936,Laptop Pro,2,2400.0,2744
+F25-0937,Monitor 24p,5,900.0,2745
+F25-0937,Soporte Laptop,4,180.0,2746
+F25-0937,nico,5,375.0,2747
+F25-0937,Soporte Laptop,5,225.0,2748
+F25-0937,Cable HDMI 2m,9,116.91,2749
+F25-0938,mico,7,178.5,2750
+F25-0938,Monitor 24p,10,1800.0,2751
+F25-0938,Monitor 24p,1,180.0,2752
+F25-0938,Laptop Pro,3,3600.0,2753
+F25-0938,Monitor 24p,2,360.0,2754
+F25-0939,Soporte Laptop,5,225.0,2755
+F25-0939,Cable HDMI 2m,10,129.9,2756
+F25-0939,nico,6,450.0,2757
+F25-0939,mico,4,102.0,2758
+F25-0940,Soporte Laptop,8,360.0,2759
+F25-0941,Soporte Laptop,7,315.0,2760
+F25-0942,Cable HDMI 2m,1,12.99,2761
+F25-0942,Laptop Pro,6,7200.0,2762
+F25-0943,Soporte Laptop,4,180.0,2763
+F25-0943,Laptop Pro,4,4800.0,2764
+F25-0944,Soporte Laptop,2,90.0,2765
+F25-0944,Cable HDMI 2m,10,129.9,2766
+F25-0944,Cable HDMI 2m,9,116.91,2767
+F25-0944,Monitor 24p,8,1440.0,2768
+F25-0945,nico,6,450.0,2769
+F25-0945,mico,10,255.0,2770
+F25-0945,nico,5,375.0,2771
+F25-0945,mico,6,153.0,2772
+F25-0946,Soporte Laptop,7,315.0,2773
+F25-0946,mico,3,76.5,2774
+F25-0946,Soporte Laptop,3,135.0,2775
+F25-0947,Monitor 24p,3,540.0,2776
+F25-0947,mico,2,51.0,2777
+F25-0947,Soporte Laptop,10,450.0,2778
+F25-0948,Laptop Pro,9,10800.0,2779
+F25-0948,mico,7,178.5,2780
+F25-0948,Monitor 24p,7,1260.0,2781
+F25-0949,Laptop Pro,7,8400.0,2782
+F25-0949,Laptop Pro,2,2400.0,2783
+F25-0949,Laptop Pro,1,1200.0,2784
+F25-0949,Soporte Laptop,2,90.0,2785
+F25-0950,mico,7,178.5,2786
+F25-0950,mico,9,229.5,2787
+F25-0951,Monitor 24p,1,180.0,2788
+F25-0952,Laptop Pro,9,10800.0,2789
+F25-0953,Soporte Laptop,2,90.0,2790
+F25-0953,nico,6,450.0,2791
+F25-0953,mico,6,153.0,2792
+F25-0953,Laptop Pro,3,3600.0,2793
+F25-0954,Soporte Laptop,7,315.0,2794
+F25-0954,Soporte Laptop,8,360.0,2795
+F25-0954,Monitor 24p,2,360.0,2796
+F25-0954,Cable HDMI 2m,5,64.95,2797
+F25-0954,Monitor 24p,1,180.0,2798
+F25-0955,Cable HDMI 2m,2,25.98,2799
+F25-0955,Monitor 24p,7,1260.0,2800
+F25-0955,Laptop Pro,5,6000.0,2801
+F25-0956,Monitor 24p,3,540.0,2802
+F25-0956,mico,8,204.0,2803
+F25-0957,Cable HDMI 2m,2,25.98,2804
+F25-0958,nico,8,600.0,2805
+F25-0958,Monitor 24p,8,1440.0,2806
+F25-0958,Laptop Pro,3,3600.0,2807
+F25-0959,Soporte Laptop,4,180.0,2808
+F25-0959,mico,3,76.5,2809
+F25-0959,Laptop Pro,5,6000.0,2810
+F25-0960,mico,6,153.0,2811
+F25-0960,Soporte Laptop,9,405.0,2812
+F25-0960,Cable HDMI 2m,6,77.94,2813
+F25-0960,Cable HDMI 2m,8,103.92,2814
+F25-0961,Monitor 24p,10,1800.0,2815
+F25-0961,Monitor 24p,3,540.0,2816
+F25-0961,nico,4,300.0,2817
+F25-0961,nico,8,600.0,2818
+F25-0961,Soporte Laptop,4,180.0,2819
+F25-0962,Soporte Laptop,8,360.0,2820
+F25-0962,nico,10,750.0,2821
+F25-0963,Cable HDMI 2m,2,25.98,2822
+F25-0963,nico,8,600.0,2823
+F25-0963,Monitor 24p,7,1260.0,2824
+F25-0964,Cable HDMI 2m,9,116.91,2825
+F25-0964,mico,9,229.5,2826
+F25-0965,Laptop Pro,7,8400.0,2827
+F25-0965,Soporte Laptop,7,315.0,2828
+F25-0965,mico,1,25.5,2829
+F25-0965,Laptop Pro,1,1200.0,2830
+F25-0966,Soporte Laptop,5,225.0,2831
+F25-0967,Monitor 24p,2,360.0,2832
+F25-0967,Soporte Laptop,7,315.0,2833
+F25-0967,Monitor 24p,9,1620.0,2834
+F25-0967,Soporte Laptop,6,270.0,2835
+F25-0967,Cable HDMI 2m,8,103.92,2836
+F25-0968,Laptop Pro,7,8400.0,2837
+F25-0968,Soporte Laptop,1,45.0,2838
+F25-0968,Soporte Laptop,5,225.0,2839
+F25-0969,nico,8,600.0,2840
+F25-0969,Cable HDMI 2m,5,64.95,2841
+F25-0969,Laptop Pro,9,10800.0,2842
+F25-0969,Laptop Pro,7,8400.0,2843
+F25-0969,nico,6,450.0,2844
+F25-0970,nico,6,450.0,2845
+F25-0970,Cable HDMI 2m,6,77.94,2846
+F25-0971,Laptop Pro,8,9600.0,2847
+F25-0971,mico,1,25.5,2848
+F25-0971,Laptop Pro,7,8400.0,2849
+F25-0971,Cable HDMI 2m,1,12.99,2850
+F25-0972,nico,8,600.0,2851
+F25-0972,Laptop Pro,1,1200.0,2852
+F25-0972,Monitor 24p,10,1800.0,2853
+F25-0973,nico,10,750.0,2854
+F25-0973,mico,2,51.0,2855
+F25-0974,nico,6,450.0,2856
+F25-0974,Monitor 24p,9,1620.0,2857
+F25-0974,Laptop Pro,10,12000.0,2858
+F25-0974,nico,7,525.0,2859
+F25-0975,Soporte Laptop,6,270.0,2860
+F25-0975,nico,3,225.0,2861
+F25-0975,mico,1,25.5,2862
+F25-0976,Monitor 24p,8,1440.0,2863
+F25-0977,mico,10,255.0,2864
+F25-0977,Laptop Pro,1,1200.0,2865
+F25-0977,Laptop Pro,2,2400.0,2866
+F25-0977,Soporte Laptop,2,90.0,2867
+F25-0977,nico,7,525.0,2868
+F25-0978,nico,5,375.0,2869
+F25-0978,Cable HDMI 2m,6,77.94,2870
+F25-0978,Monitor 24p,9,1620.0,2871
+F25-0978,Soporte Laptop,3,135.0,2872
+F25-0979,Laptop Pro,9,10800.0,2873
+F25-0979,Soporte Laptop,9,405.0,2874
+F25-0979,Monitor 24p,1,180.0,2875
+F25-0979,mico,9,229.5,2876
+F25-0980,Monitor 24p,9,1620.0,2877
+F25-0980,Laptop Pro,9,10800.0,2878
+F25-0980,Cable HDMI 2m,7,90.93,2879
+F25-0981,Monitor 24p,7,1260.0,2880
+F25-0981,nico,7,525.0,2881
+F25-0981,Soporte Laptop,5,225.0,2882
+F25-0981,nico,2,150.0,2883
+F25-0981,mico,2,51.0,2884
+F25-0982,Monitor 24p,10,1800.0,2885
+F25-0982,Laptop Pro,9,10800.0,2886
+F25-0982,Monitor 24p,3,540.0,2887
+F25-0982,Monitor 24p,1,180.0,2888
+F25-0982,Cable HDMI 2m,2,25.98,2889
+F25-0983,Cable HDMI 2m,6,77.94,2890
+F25-0983,Soporte Laptop,8,360.0,2891
+F25-0983,Laptop Pro,3,3600.0,2892
+F25-0984,Laptop Pro,4,4800.0,2893
+F25-0984,Soporte Laptop,10,450.0,2894
+F25-0984,Soporte Laptop,1,45.0,2895
+F25-0984,mico,4,102.0,2896
+F25-0985,Laptop Pro,8,9600.0,2897
+F25-0986,mico,3,76.5,2898
+F25-0987,Laptop Pro,8,9600.0,2899
+F25-0988,Cable HDMI 2m,10,129.9,2900
+F25-0988,Laptop Pro,7,8400.0,2901
+F25-0988,nico,5,375.0,2902
+F25-0989,Laptop Pro,7,8400.0,2903
+F25-0989,Soporte Laptop,3,135.0,2904
+F25-0989,Laptop Pro,3,3600.0,2905
+F25-0990,Monitor 24p,10,1800.0,2906
+F25-0990,Laptop Pro,7,8400.0,2907
+F25-0990,Soporte Laptop,7,315.0,2908
+F25-0991,Soporte Laptop,2,90.0,2909
+F25-0992,Monitor 24p,5,900.0,2910
+F25-0992,Monitor 24p,10,1800.0,2911
+F25-0992,Soporte Laptop,7,315.0,2912
+F25-0992,Cable HDMI 2m,3,38.97,2913
+F25-0993,Monitor 24p,5,900.0,2914
+F25-0993,Soporte Laptop,3,135.0,2915
+F25-0993,Soporte Laptop,8,360.0,2916
+F25-0993,Cable HDMI 2m,5,64.95,2917
+F25-0994,Cable HDMI 2m,10,129.9,2918
+F25-0994,nico,1,75.0,2919
+F25-0994,mico,7,178.5,2920
+F25-0994,mico,9,229.5,2921
+F25-0995,Laptop Pro,1,1200.0,2922
+F25-0995,Soporte Laptop,7,315.0,2923
+F25-0995,Cable HDMI 2m,7,90.93,2924
+F25-0995,Laptop Pro,9,10800.0,2925
+F25-0995,Soporte Laptop,1,45.0,2926
+F25-0996,Laptop Pro,2,2400.0,2927
+F25-0996,Cable HDMI 2m,1,12.99,2928
+F25-0996,Monitor 24p,7,1260.0,2929
+F25-0996,Monitor 24p,9,1620.0,2930
+F25-0997,Cable HDMI 2m,10,129.9,2931
+F25-0998,mico,1,25.5,2932
+F25-0998,nico,1,75.0,2933
+F25-0998,nico,5,375.0,2934
+F25-0998,Cable HDMI 2m,8,103.92,2935
+F25-0999,Cable HDMI 2m,6,77.94,2936
+F25-0999,Laptop Pro,3,3600.0,2937
+F25-1000,Laptop Pro,3,3600.0,2938
+F25-1000,mico,4,102.0,2939
